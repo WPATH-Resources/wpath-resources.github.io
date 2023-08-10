@@ -1,0 +1,887 @@
+# Assessment of Adults
+
+This chapter provides guidance for the assessment
+of transgender and gender diverse (TGD) adults
+who are requesting medically necessary
+gender-affirming medical and/or surgical treatments
+(GAMSTs) to better align their body with their
+gender identity (see medically necessary statement
+in Chapter 2—Global Applicability, Statement 2.1).
+
+TGD adults are people at or above the age of
+majority in their country, who have some form
+of gender diversity. The developmental elements
+of the adolescent chapter, including the importance of parental/caregiver involvement, may be
+relevant for the care of young adults too, even if
+they are above the age of majority.
+
+This chapter includes all forms of gender identities and transitions including, but not limited
+to, male, female, gender diverse, nonbinary, agender, and eunuch. The population of TGD adults
+is heterogeneous and will vary according to their
+clinical need, biological, psychological, and social
+situations, as well as their access to health care.
+As such, any assessment for GAMSTs will need
+to be adapted to the scientific, clinical, and community knowledge base of the presenting gender
+identity as well as local circumstances. This chapter recognizes individuals may experience different local levels of clinical or regulatory oversight
+when the state or others are providing health care.
+
+An individual’s gender identity is an internal
+identification and experience. The role of the
+assessor is to assess for the presence of gender
+incongruence and identify any co-existing mental
+health concerns, to offer information about
+GAMSTs, to support the TGD person in considering the effects/risks of GAMSTs, and to assess
+if the TGD person has the capacity to understand
+the treatment being offered and if the treatment
+is likely to be of benefit. The assessor can also
+assist a TGD person to consider choices that
+could improve their GAMST outcomes. The
+GAMST assessment approach described in this
+chapter recognizes the lived experience and
+self-knowledge of the TGD person and the clinical knowledge of the assessing health care professional (HCP). Consequently, with this approach,
+the decision to move forward with GAMSTs is
+shared between the TGD person and the 
+assessing HCP, with both playing a key part in
+collaborative decision-making.
+
+Some systems use a model of care for TGD
+adults seeking GAMSTs that prioritizes the TGD
+adult as the decision maker with the HCP acting
+as an advisor, barring serious contraindications.
+These models are used when considering hormone therapy rather than surgery and are often
+called “informed consent” models (Deutsch, 2011,
+2016a). Many such models utilize an abbreviated
+assessment that focuses primarily on the ability
+of a TGD person to grant informed consent and
+to utilize information about GAMSTs to inform
+their medical decision-making. There is significant variability in such models across jurisdictions, systems, and HCPs (Deutsch, 2011; Morenz
+et  al., 2020). Informed consent models have been
+used for some time for hormone prescription in
+many local settings.
+
+This chapter is intended to offer flexible global
+guidance that must be adapted to local circumstances. HCPs will need to determine which
+assessment approaches best meet the needs in
+their local settings. The evaluation of these
+approaches is best undertaken in collaboration
+with TGD people.
+
+Since TGD people represent a diverse array of
+gender identities and expressions and have differing needs for GAMSTs, no single assessment
+process will fit every person or every situation.
+Some TGD people may need a comparatively
+brief assessment process for GAMSTs. For TGD
+adults with a complex presentation or for those
+who are requesting less common treatments or
+treatments with limited research evidence, more
+comprehensive assessments with different members of a multidisciplinary team will be required.
+Assessments may be in person or through telehealth. While psychometric assessment tools have
+been used in some instances, they are not a
+required part of the assessment for GAMSTs.
+Counseling or psychotherapy can be helpful when
+requested by a TGD person. However, counseling
+or psychotherapy specifically focused on their
+TGD identity is not a requirement for the assessment or initiation of GAMSTs. Genital exams are
+not a prerequisite for initiation of GAMTs and
+should be performed only when clinically
+indicated.
+
+GAMSTs can be delivered in diverse settings.
+Settings will depend on available health care systems within each country and may include nationalized/public health care, private sector settings,
+community health care settings, and charitable
+institutions. Local and regional circumstances may
+therefore influence the availability of health care.
+Regardless of the setting, health care offered to
+TGD people should be of the highest possible
+quality. World Professional Organization for
+Transgender Health (WPATH) advocates for
+assessment and treatment to be readily available.
+Access to assessment and treatment for TGD
+people seeking GAMSTs is critical given the clear
+medical necessity of these interventions and the
+profound benefits they offer to TGD people
+(Aldridge et al., 2020; Byne et al., 2012). The guidance in this chapter will need to be adapted
+according to local, as well as individual, clinical,
+and social circumstances.
+
+The statements below are based on significant
+background literature, including literature demonstrating the strong positive impact of access to
+GAMSTs; available empirical evidence; a favorable
+risk-benefit ratio; and consensus of professional
+best practice. The empirical evidence base for the
+assessment of TGD adults is limited. It primarily
+includes an assessment approach that uses specific criteria that are examined by an HCP in
+close cooperation with a TGD adult and does
+not include randomized controlled trials or
+long-term longitudinal research (Olsen-Kennedy
+et  al., 2016). This is understandable given the
+complexity and ethical considerations of allocating patients in need of care to different assessment groups and the lack of funding for research
+and other resources to assess long-term outcomes
+of assessment approaches.
+
+The creation of this guidance has been a complex
+undertaking. The criteria in this chapter have been
+significantly revised from SOC-7 to reduce requirements and unnecessary barriers to care. It is hoped
+that future research will explore the effectiveness
+of this model as well as evolving assessment models
+for hormone therapy and for surgery that will allow
+continued improvements to be made.
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In some
+cases, we recognize evidence is limited and/or
+services may not be accessible or desirable.
+
+
+## Statement 5.1: We recommend health care professional assessing transgender and gender diverse adults for gender-affirming treatments:
+
+### Statement 5.1.a: Are licensed by their statutory body and hold, at a minimum, a master’s degree or equivalent training in a clinical field relevant to this role and granted by a nationally accredited statutory institution.
+
+TGD people, as with all other people seeking
+health care, should have the highest quality of care
+accessible that is commensurate with the quality
+of care provided to all people utilizing health services (The Yogyakarta Principles, 2017). As this
+will vary around the globe, the nature of the professional completing an assessment for GAMSTs
+will vary according to the nature of health care in
+the local setting as well as the regulatory requirements set by licensing and registration boards. It
+is important the health care provided includes an
+assessment conducted by a competent, statutorily
+regulated HCP who has the competence to identify
+gender incongruence and conditions that can be
+mistaken for gender incongruence and who can
+support the TGD person throughout the assessment process (RCGP, 2019). Assessors must be able
+to refer to HCPs licensed to provide GAMSTs.
+
+HCPs should have at a minimum a masters-level
+qualification in a clinical field related to transgender health or equivalent further clinical training
+and be statutorily regulated; examples include a
+mental health professional (MHP), general medical
+practitioner, nurse, or other qualified HCP. In some
+settings, statutorily regulated HCPs with lower levels of qualification may practice under the clinical
+supervision of a qualified HCP who takes ultimate
+clinical responsibility for the quality and accuracy
+of the completed GAMST assessment. For additional information see Chapter 4—Education.
+
+Accessing a competent, statutorily regulated,
+HCP with expertise in GAMST assessment can
+sometimes be difficult. Consequently, ensuring
+continuity of care and minimizing gaps in accessible care or significantly delayed care (e.g., a
+long waiting list) may require that a statutorily
+regulated HCP without expertise provide care and
+support the assessment of a TGD person for
+GAMSTs. Avoiding unnecessary delays in care is
+critically important. However, TGD people should
+be supported to access care with an experienced
+HCP as soon as possible (RCGP, 2019).
+
+Established practice requires the competence to
+identify and diagnose gender incongruence
+(Hembree et  al., 2017; Reed et  al., 2016; T'Sjoen
+et al., 2020) and the ability to identify differentials
+or conditions that may be mistaken as gender
+incongruence (Byne et  al., 2018; Dhejne et  al.,
+2016; Hembree et  al., 2017). Established practice
+also strongly emphasizes the need for ongoing continuing education in the assessment and provision
+of care of TGD people (American Psychological
+Association, 2015; T'Sjoen et  al., 2020). For more
+information see Chapter 4—Education.
+
+### Statement 5.1.b: For countries requiring a diagnosis for access to care, the health care professional should be competent using the latest edition of the World Health Organization's International Classification of Diseases (ICD) for diagnosis. 
+
+In countries that
+have not implemented the latest ICD, other taxonomies may be used; efforts should be undertaken to utilize the latest ICD as soon as practicable.
+In some countries, a diagnosis of gender incongruence may be necessary to access GAMSTs (as
+described below). HCPs assessing TGD people in
+those countries should be competent to diagnose
+gender incongruence using the most current classification system necessary for TGD people to
+access GAMSTs. The ICD-11 (WHO, 2019a) is a
+classification system that focuses on the TGD
+person’s experienced identity and any need for
+GAMSTs and does not consider a TGD identity
+to be a mental illness.
+
+### Statement 5.1.c: Are able to identify co-existing mental health or other psychosocial concerns and distinguish these from gender dysphoria, incongruence, and diversity.
+
+Gender diversity is a natural variation in people
+and is not inherently pathological (American
+Psychological Association, 2015). However, assessment is best provided by an HCP who possesses
+some expertise in mental health in order to identify conditions that can be mistaken for gender
+incongruence. Such conditions are rare and, when
+present, are often psychological in nature (Byne
+et al., 2012; Byne et al., 2018; Hembree et al., 2017).
+
+The need to include an HCP with some expertise
+in mental health does not require the inclusion of
+a psychologist, psychiatrist, or social worker in each
+assessment. Instead, a general medical practitioner,
+nurse, or other qualified HCP could also fulfill this
+requirement if they have sufficient expertise to identify gender incongruence, recognize mental health
+concerns, distinguish between these concerns and
+gender dysphoria, incongruence, and diversity, assist
+a TGD person in care planning and preparation
+for GAMSTs, and refer to a mental health professional (MHP), if needed. As discussed in greater
+depth in the mental health chapter, MHPs have an
+important role to play in the care of TGD people.
+For example, the prejudice and discrimination experienced by some TGD people (Robles et  al., 2016)
+can lead to depression, anxiety, or worsening of
+other mental health conditions. In such cases, an
+MHP can diagnose, clarify, and treat mental health
+conditions. MHPs and HCPs with expertise in mental health are well-placed to assess for GAMSTs, as
+well as to support TGD people who require or
+request mental health input or support during their
+transition. For additional information see Chapter
+18—Mental Health.
+
+### Statement 5.1.d: Are able to assess capacity to consent for treatment.
+
+An assessment for GAMSTs must include an
+examination of the TGD person’s ability to consent
+to the proposed treatment. Consent requires the
+cognitive capacity to understand the risks and
+benefits of a treatment and the potential negative
+and positive outcomes. It also requires the ability
+to retain that information for the purposes of
+making the decision (using aids as necessary) as
+well as the cognitive ability to use that understanding to make an informed decision (American
+Medical Association, 2021; Applebaum, 2007).
+
+Some TGD individuals will have the capacity to
+grant consent immediately during the assessment.
+Some TGD individuals may need a longer process
+to be able to consent through ongoing discussion
+and the practice of medical decision-making skills.
+The presence of psychiatric illness or mental health
+symptoms do not pose a barrier to GAMSTs unless
+the psychiatric illness or mental health symptoms
+affect the TGD person’s capacity to consent to the
+specific treatment being requested or affect their
+ability to receive treatment. This is especially important because GAMSTs have been found to reduce
+mental health symptomatology for TGD people
+(Aldridge et  al., 2020).
+
+Health care systems can consider GAMSTs for
+individuals who may not be able to directly consent if an appropriate legal guardian or
+regulator-approved independent decision maker
+with the power to determine health care treatment grants consent and confirms the proposed
+treatment is in alignment with the TGD individual’s needs and wishes.
+
+### Statement 5.1.e: Have experience or be qualified to assess clinical aspects of gender dysphoria, incongruence, and diversity. For supporting text, see Statement 5.1.f.
+
+### Statement 5.1.f: Undergo continuing education in health care relating to gender dysphoria, incongruence, and diversity.
+
+As in any other area of clinical practice, it is vital
+HCPs who are providing assessment for the initiation
+of GAMSTs are knowledgeable and experienced in
+the health care of TGD people. If this is not possible
+in the local context, the HCP providing the assessment should work closely with an HCP who is
+knowledgeable and experienced. As part of their
+clinical practice, HCPs should commit to ongoing
+training in TGD health care, become a member of
+relevant professional bodies, attend relevant professional meetings, workshops or seminars, consult with
+an HCP with relevant experience, and/or engage with
+the TGD community. This is particularly important
+in TGD health care as it is a relatively new field,
+and the knowledge and terminology are constantly
+changing (American Psychological Association, 2015;
+Thorne, Yip et  al., 2019). Consequently, keeping up
+to date in the areas of TGD health is vital for anyone
+involved in an assessment for GAMSTs.
+
+### Statement 5.2: We suggest health care professionals assessing transgender and gender diverse adults seeking gender-affirming treatment liaise with professionals from different disciplines within the field of transgender health for consultation and referral, if required.
+
+If required and if possible, assessment for
+GAMST should be conducted by a multidisciplinary team (Costa, Rosa-e-Silva et  al., 2018;
+Hembree et  al., 2017; Karasic & Fraser, 2018;
+T'Sjoen et  al., 2020) with team members who
+have timely and adequate contact with one
+another. This could include an MHP, an endocrinologist, a primary care provider, a surgeon,
+a voice and communication specialist, TGD peer
+navigator, and others. In some cases, a multidisciplinary team may not be required; however,
+should a multidisciplinary team be needed, it is
+critical HCPs be able to access colleagues from
+different disciplines in a timely manner to complete the GAMST assessment and best support
+the needs of the TGD person. It is also critical
+TGD people be supported with follow-up
+appointments with any HCP who was involved
+during the assessment for GAMSTs, prior to,
+during, and after the initiation of gender-affirming
+treatments.
+
+**The following recommendations are made
+regarding the requirements for gender-affirming
+medical and surgical treatment (all should
+be met):**
+
+## Statement 5.3: We recommend health care professionals assessing transgender and gender diverse adults for gender-affirming medical and surgical treatment:
+
+### Statement 5.3.a: Only recommend gender-affirming medical treatment requested by a TGD person when the experience of gender incongruence is marked and sustained.
+
+To access GAMSTs, a TGD person’s gender
+incongruence must be marked and sustained.
+This can include a need for GAMSTs and a
+desire to be accepted as a person of the experienced gender. Consequently, a consideration
+of the nature, length and consistency of gender
+incongruence is important. This can include
+such factors as a change of name and identity
+documents, telling others about one’s gender,
+health care documentation, or changes in gender
+expression. However, marked and sustained gender incongruence can exist in the absence of
+disclosure to others by the TGD person
+(Brumbaugh-Johnson & Hull, 2019; Saeed et  al.,
+2018; Sequeira et  al., 2020). An abrupt or superficial change in gender identity or lack of persistence is insufficient to initiate gender- affirming
+treatments, and further assessment is recommended. In such circumstances, ongoing assessment is helpful to ensure the consistency and
+persistence of gender incongruence before
+GAMSTs are initiated.
+
+While marked and sustained gender incongruence should be present, it is not necessary for TGD
+people to experience severe levels of distress regarding their gender identity to access gender- affirming
+treatments. In fact, access to gender-affirming treatment can act as a prophylactic measure to prevent
+distress (Becker et al., 2018; Giovanardi et al., 2021;
+Nieder et al., 2021; Nobili et al., 2018; Robles et al.,
+2016). A TGD adult can have sustained gender
+incongruence without significant distress and still
+benefit from GAMSTs.
+
+Established clinical practice examines the persistence of gender incongruence when considering
+the initiation of GAMSTs (Chen & Loshak, 2020).
+In a review of 200 clinical notes, Jones, Brewin
+et  al. (2017) identified the importance of the
+“stability of gender identity” when planning care.
+Providing GAMSTs to TGD people with persistent gender incongruence has been associated
+with low rates of patient regret and high rates of
+patient satisfaction (Becker et  al., 2018; El-Hadi
+et  al., 2018; Staples et  al., 2020; Wiepjes et  al.,
+2018). However, while the ICD 11 (WHO, 2019a)
+requires the presence of marked and persistent
+gender incongruence for a diagnosis of gender
+incongruence to be made, there is little specific
+evidence concerning the length of persistence
+required for treatment in adults. HCPs involved
+in an assessment of a TGD person for GAMSTs
+are encouraged to give due consideration to the
+life stage, history, and current circumstances of
+the adult being assessed.
+
+### Statement 5.3.b: Ensure fulfillment of diagnostic criteria prior to initiating gender-affirming treatments in regions where a diagnosis is necessary to access health care.
+
+A diagnosis of gender incongruence may be necessary in some regions to access transition-related
+care. When a diagnosis is necessary to access
+GAMSTs, the assessment for GAMSTs will involve
+determining and assigning a diagnosis. In these
+instances, HCPs should have competence using the
+latest International Classification of Diseases and
+Related Health Problems (ICD) (WHO, 2019a). In
+regions where a diagnosis is necessary to access
+health care, a diagnosis of HA60 Gender Incongruence
+of Adolescence or Adulthood should be determined
+prior to gender-affirming interventions.
+Gender-affirming interventions secondary to a diagnosis of HA6Z Gender Incongruence, Unspecified may
+be considered in the context of a more comprehensive assessment by the multidisciplinary team.
+
+There is evidence the use of rigid assessment
+tools for “transition readiness” may reduce access
+to care and are not always in the best interest of
+the TGD person (MacKinnon et  al., 2020).
+Therefore, in situations where the assignment of
+a diagnosis is mandatory to access care, the process should be approached with trust and
+transparency between the HCP and the TGD
+individual requesting GAMST, with the needs of
+the TGD individual in mind. Indeed, high quality
+relationships between TGD people and their
+HCPs are associated with lower emotional distress
+and better outcomes (Kattari et al., 2016). Because
+many TGD people fear HCPs will erroneously
+conflate transgender identity with mental illness
+(Ellis et  al., 2015), a diagnostic assessment should
+be undertaken with sensitivity to facilitate the
+best relationship between the provider and the
+TGD individual.
+
+### Statement 5.3.c: Identify and exclude other possible causes of apparent gender incongruence prior to the initiation of gender-affirming treatments.
+
+In rare cases, TGD individuals might have a condition that may be mistaken for gender incongruence or may have another reason for seeking
+treatment aside from the alleviation of gender incongruence. In these cases, and when there is ambiguity
+regarding the diagnosis of gender incongruence, a
+more detailed and comprehensive assessment is
+important. For example, further assessment might
+be required to determine if gender incongruence
+persists outside of an acute psychotic episode. If
+gender incongruence persists after an acute psychotic
+episode resolves, GAMSTs may be considered as
+long as the TGD person has the capacity to consent
+to and undergo the specific treatment. If gender
+incongruence does not persist and only occurs
+during such an episode, treatment should not be
+considered. It is important such circumstances be
+identified and excluded prior to the initiation of
+GAMSTs (Byne et  al., 2012, 2018; Hembree et  al.,
+2017). It is important to understand, however, TGD
+people may present with gender incongruence and
+with a mental health condition, autistic spectrum
+disorder, or other neurodiversity (Glidden et  al.,
+2016). Indeed, some mental health conditions, such
+as anxiety (Bouman et  al., 2017), depression
+(Heylens, Elaut et  al., 2014; Witcomb et  al., 2018),
+and self-harm (Arcelus et  al., 2016; Claes et  al.,
+2015) are more prevalent in TGD people who have
+not accessed GAMSTs. Recent longitudinal studies
+suggest mental health symptoms experienced by
+TGD people tend to improve following GAMSTs
+(Aldridge et al., 2020; Heylens, Verroken et al., 2014;
+White Hughto & Reisner, 2016). There is no evidence to suggest a benefit of withholding GAMSTs
+from TGD people who have gender incongruence
+simply on the basis that they have a mental health
+or neurodevelopmental condition. For more information see Chapter 18—Mental Health.
+
+### Statement 5.3.d: Ensure any mental health conditions that could negatively impact the outcome of genderaffirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment.
+
+Like their cisgender counterparts, TGD people may have mental health problems. Treatment
+for mental health problems can and should
+occur in conjunction with GAMSTs when medical transition is needed. It is vital
+gender-affirming care is not impeded unless, in
+some extremely rare cases, there is robust evidence that doing so is necessary to prevent
+significant decompensation with a risk of harm
+to self or others. In those cases, it is also
+important to consider the risks delaying
+GAMSTs poses to a TGD person’s mental and
+physical health (Byne et  al., 2018).
+
+In general, social and medical transition of
+TDG people are both associated with a reduction in mental health problems (Aldridge et  al.,
+2020; Bouman et  al., 2017; Durwood et  al., 2017;
+Glynn et  al., 2016; Hughto & Reisner, 2016;
+Wilson et  al., 2015; Witcomb et  al., 2018).
+Unfortunately, the loss of social support and the
+physical and financial stress that can be associated with the initiation of GAMSTs may exacerbate pre-existing mental health problems and
+warrant additional support from the treating
+HCP (Budge et  al., 2013; Yang, Wang et  al.,
+2016). An assessment of mental health symptoms can improve transition outcomes, particularly when the assessment is used to facilitate
+access to psychological and social support during
+transition (Byne et  al., 2012). A delay of transition in rare circumstances may be considered
+if, for example, the TGD person is unable to
+engage with the process of transition or would
+be unable to manage aftercare following surgery,
+even with support. Where a delay in GAMST
+as a last resort has been found to be necessary,
+the HCP should offer resources and support to
+improve mental health and facilitate
+re-engagement with the GAMST process as soon
+as practicable. It should be noted access to medical transition for TGD people facilitates social
+transition and improves safety in public (Rood
+et  al., 2017). In turn, the degree to which TGD
+people’s appearance conforms to their gender
+identity is the best predictor of quality of life
+and mental health outcomes following medical
+transition (Austin & Goodman, 2017). Delaying
+access to GAMSTs due to the presence of mental
+health problems may exacerbate symptoms
+(Owen-Smith et  al., 2018) and damage rapport;
+consequently, this should be done only when all
+other avenues have been exhausted.
+
+### Statement 5.3.e: Ensure any physical health conditions that could negatively impact the outcome of gender-affirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment.
+
+In rare cases, GAMSTs, such as hormonal and
+surgical interventions, may have iatrogenic consequences or may exacerbate pre-existing physical
+health conditions (Hembree et  al., 2017). In these
+instances, care should be taken, whenever possible, to manage pre-existing physical health conditions while initiating (if appropriate) or
+continuing gender-affirming treatments. Any
+interruptions in treatment should be as brief as
+possible and with treatment re-initiated as soon
+as practicable. Limited data and inconsistent findings suggest an association between cardiovascular and metabolic risks and hormone therapy in
+TGD adults (Getahun, 2018; Iwamoto, Defreyne
+et  al., 2019; Iwamoto et  al., 2021; Spanos et  al.,
+2020). Because of the possible harm related to
+long-term treatment and the probable benefits
+expected from the preventive measures applied
+before and during hormone treatment, a careful
+assessment of physical health conditions prior to
+initiation of treatment is important. Some specific
+conditions, such as a history of hormone-sensitive
+cancer, may require further assessment and management that may preclude hormone treatment
+(Center of Excellence for Transgender Health,
+2016; Hembree et  al., 2017).
+
+Similar concerns may be present for TGD
+adults who wish to access surgical interventions.
+Each gender-affirming surgical intervention has
+specific risks and potentially unfavorable consequences (Bryson & Honig, 2019; Nassiri et  al.,
+2020; Remington et  al., 2018). However,
+intervention-specific risks associated with the
+presence of specific physical conditions have not
+been well researched. Thus, the kinds of medical
+concerns raised by TGD people during the assessment are typically no different from those of any
+other surgical candidate.
+
+Taking into consideration the mental and physical health disparities (Brown & Jones, 2016) and
+barriers to health care (Safer et  al., 2016) experienced by TGD people, the assessment of physical conditions by HCPs should not be limited
+to a history of medical interventions. If the TGD
+person has physical health conditions, it is
+important these conditions are managed while
+initiating or continuing GAMSTs whenever possible. Any interruption in treatment should be
+made with a view toward re-initiating treatment
+as soon as practicable. It is also important HCPs
+develop a treatment strategy for managing physical conditions that facilitates health and promotes consistent adherence to a treatment plan.
+
+### Statement 5.3.f: Assess the capacity to consent for the specific gender-affirming treatments prior to the initiation of this treatment. 
+
+The practice of informed consent to treatment
+is central to the provision of health care. Informed
+consent is couched in the ethical principle that
+recipients of health care should understand the
+health care they receive and any potential consequences that could result. The importance of
+informed consent is embedded in many legislative
+and regulatory practices that guide HCPs around
+the world (Jefford & Moore, 2008). It is not possible to know all the potential consequences of
+a health care treatment; instead, considering what
+would be “reasonable” to expect is often used as
+a minimum criterion for consent (Jefford &
+Moore, 2008; Spatz et  al., 2016) and remains the
+case with GAMSTs. Being able to consent to a
+health care procedure or clinical intervention
+requires several complex cognitive processes.
+Consent requires the cognitive capacity to understand the risks and benefits of a treatment and
+the potential negative and positive outcomes in
+addition to the ability to retain that information
+for the purposes of making the decision (using
+aids as necessary) and the cognitive ability to use
+that understanding to make an informed decision
+(American Medical Association, 2021; Applebaum,
+2007). It is vital the TGD person and the assessing HCP consider a priori the nature of the treatment sought and the potential positive and
+negative effects it may have on the biological,
+psychological, and social domains of the TGD
+person’s life.
+
+It is important to recognize mental illness, in
+particular symptoms of cognitive impairment or
+psychosis, can impact a person’s ability to grant
+consent for GAMSTs (Hostiuc et  al., 2018).
+However, the presence of such symptoms does
+not necessarily equate to an inability to give consent because many people with significant mental
+health symptoms are able to understand the risks
+and benefits of treatment enough to make an
+informed decision (Carpenter et  al., 2000).
+Instead, it is important a careful assessment is
+carried out that examines each TGD person’s
+ability to comprehend the nature of the specific
+GAMST being considered, consider treatment
+options, including risks and benefits, appreciate
+the potential short- and long-term consequences
+of the decision, and communicate their choice in
+order to receive the treatment (Grootens-Wiegers
+et  al., 2017).
+
+There may be instances in which an individual
+lacks the capacity to consent to health care, such
+as during an acute episode of psychosis or in
+situations where an individual has long-term cognitive impairment. However, limits to capacity to
+consent to treatment should not prevent individuals from receiving appropriate GAMSTs. For
+some, understanding the risks and benefits may
+require the use of repeated explanations in
+jargon-free language over time or the use of diagrams to facilitate explanation and aid comprehension. A comprehensive and thorough
+assessment undertaken by the multidisciplinary
+health care team can further inform this process.
+For others, an alternative decision maker, such
+as a legal guardian or regulator-approved, 
+independent decision maker may need to be
+appointed. These situations need to be considered
+on a case-by-case basis with the aim of ensuring
+the most affirmative and least restrictive health
+care is provided to the individual. Also see
+Chapter 11—Institutional Environments.
+
+### Statement 5.3.g: Assess the capacity of the gender diverse and transgender adult to understand the effect of gender-affirming treatment on reproduction and explore reproductive options with the individual prior to the initiation of gender-affirming treatment.
+
+As gender-affirming medical interventions
+often affect reproductive capacity, HCPs should
+ensure a TGD person is aware of the implications
+for reproduction of the treatments and is familiar
+with gamete storage and assistive reproductive
+options. Gender-affirming hormone treatments
+have been shown to impact reproductive functions and fertility, although the consequences are
+heterogenous for people of all birth-assigned
+sexes (Adeleye et  al., 2019; Jindarak et  al., 2018;
+Taub et  al., 2020). There may be individual differences and fluctuations in these effects on TGD
+adults. It is therefore essential that HCPs inform
+a TGD person about the possible impact of the
+treatment on their reproductive potential during
+the assessment and as part of the evaluation of
+the person’s capacity to consent for GAMSTs.
+Reproductive options should be considered and
+discussed prior to the initiation of gender-affirming
+treatments. Because the literature is unclear about
+the possibility of conception while on hormone
+therapy, information about the necessity of using
+contraception to avoid unwanted pregnancy and
+the different methods of contraception available
+may need to be provided (Light et  al., 2014;
+Schubert & Carey,2020).
+
+Cross-sectional studies in clinical and nonclinical samples from different populations consistently report TGD adults express parental desire
+and wish to pursue fertility preservation with
+varying rates that are related to age, gender, and
+the duration of gender-affirming hormone treatment (Auer et  al., 2018; De Sutter et  al., 2002;
+Defreyne, Van Schuvlenbergh et  al., 2020;
+Wierckx, Stuyver et  al., 2012). In a small sample,
+provision of fertility information was found to
+have an influence on decision-making related to
+the use of fertility preservation (Chen et  al.,
+2019). Although there was no comparison made
+between groups who did and did not receive fertility counseling, high fertility preservation rates
+occurred following comprehensive fertility counseling among transgender individuals (Amir
+et  al., 2020). Further, one study suggested consultation with a specialist reduced regret related
+to the decision about whether to pursue fertility
+preservation procedures (Vyas et  al., 2021). For
+more information see Chapter 16—
+Reproductive Health.
+
+## Statement 5.4: We suggest, as part of the assessment for gender-affirming hormonal or surgical treatment, professionals who have competencies in the assessment of transgender and gender diverse people wishing gender-related medical treatment consider the role of social transition together with the individual.
+
+Social transition can be extremely beneficial
+to many TGD people although not all TGD people are able to socially transition or wish to
+socially transition (Bränström & Pachankis, 2021;
+Koehler et  al., 2018; Nieder, Eyssel et  al., 2020).
+Consequently, some TGD people seek
+gender-affirming interventions after social transition, some before, some during, and some in
+the absence of social transition.
+
+Social transition and gender identity disclosure can improve the mental health of a TGD
+person seeking gender-affirming interventions
+(Hughto et  al., 2020; McDowell et  al., 2019). In
+addition, chest and facial surgeries prior to hormone therapy can facilitate social transition
+(Altman, 2012; Davis & Colton Meier, 2014;
+Olson-Kennedy, Warus et  al. 2018; Van Boerum
+et  al., 2019). As part of the assessment process,
+HCPs should discuss which social role is most
+comfortable for the TGD person, if a social transition is planned, and the timing for any planned
+social transition (Barker & Wylie, 2008). It is
+imperative during the assessment process, HCPs
+are respectful of the wide diversity of gendered
+social roles, including nonbinary as well as
+binary identities and presentations, which vary
+according to cultural, local community, and individual understandings.
+
+Not everyone who requests GAMSTs will wish
+to or be able to socially transition. Little is known
+about TGD people who do not socially transition
+before, during, or after medical treatment, as this
+has not been systematically studied. The most
+frequent reasons that have been identified for
+avoiding social transition are fear of being abandoned by family or friends, fearing economic loss
+(Bradford et  al., 2013), and being discriminated
+against and stigmatized (Langenderfer-Magruder
+et  al., 2016; McDowell et  al., 2019; White Hughto
+et al., 2015). However, some people do not pursue
+social transition because they feel hormonal or
+surgical treatments offer enough subjective
+improvement to reduce gender dysphoria.
+
+If there is no clear plan for social transition
+or if social transition is unwanted, additional
+assessment is important to determine the specific
+nature and advisability of the treatment request,
+especially if surgical treatment is requested.
+Additional assessment can offer the TGD person
+an opportunity to consider the possible effects
+of not socially transitioning while still obtaining
+GAMSTs. Given the lack of data on health outcomes for TGD people who do not socially transition (Evans et  al., 2021; Levine, 2009; Turban,
+Loo et  al., 2021), GAMSTs should be approached
+cautiously in such circumstances.
+
+## Statement 5.5: We recommend transgender and gender diverse adults who fulfill the criteria for gender-affirming medical and surgical treatment require a single opinion for the initiation of this treatment from a professional who has competencies in the assessment of transgender and gender diverse people wishing gender-related medical and surgical treatment.
+
+Previous versions of the SOC guidelines have
+required TGD individuals to be assessed for
+GAMSTs by two qualified HCPs. It was believed
+having two independent opinions was best practice as it ensured safety for both TGD people
+and HCPs. For example, it was assumed that
+seeing two HCPs offered assuredness for both
+TGD people and their assessing HCPs when pursuing irreversible medical interventions.
+
+However, the limited research in the area indicates two opinions are largely unnecessary. For
+example, Jones, Brewin et  al. (2017) reviewed the
+case notes of experienced HCPs working within
+a state-funded gender service and found there
+was an overwhelming correlation between both
+opinions—arguably making one of them redundant. Further, Bouman et  al. (2014) determined
+the requirement for two independent assessors
+reflected paternalism in health care services and
+raised a potential breach of the autonomy of TGD
+individuals. The authors posited when clients are
+adequately prepared and assessed under the care
+of a multidisciplinary team, a second independent
+assessment is unnecessary.
+
+Consequently, if written documentation or a
+letter is required to recommend gender-affirming
+medical and surgical treatment (GAMST), TGD
+people seeking treatments including hormones, and
+genital, chest, facial and other gender-affirming
+surgeries require a single written opinion/signature
+from an HCP competent to independently assess
+and diagnose (Bouman et  al., 2014; Yuan et al,
+2021). Further written opinions/signatures may be
+requested where there is a specific clinical need.
+
+## Statement 5.6: We suggest health care professionals assessing transgender and gender diverse people seeking gonadectomy consider a minimum of 6 months of hormone therapy as appropriate to the TGD person’s gender goals before the TGD person undergoes irreversible surgical intervention (unless hormones are not clinically indicated for the individual).
+
+The Endocrine Society Clinical Practice
+Guidelines advise a period of consistent hormone
+treatment prior to genital surgery (Hembree
+et  al., 2017). While there was limited supportive
+research, this recommendation was considered to
+be good clinical practice as it allows a more
+reversible experience prior to the irreversible
+experience of surgery. For example, there can be
+changes in sexual desire after genital surgery that
+removes the testicles (Lawrence, 2005; Wierckx,
+Van de Peer et  al., 2014). In this context, reversible testosterone suppression can offer a TGD
+person a period of time to experience the absence
+of testosterone and decide if this feels right for
+them. It should be noted the effects of reduced
+estrogen on a TGD person’s sexual desire and
+functioning following an oophorectomy is less
+well documented.
+
+Surgery that removes gonads is an irreversible
+procedure that leads to loss of fertility and loss
+of the effects of endogenous sex steroids. Both
+effects must be discussed as a component of the
+assessment process. For additional information
+see Chapter 16—Reproductive Health. Of course,
+hormones are not clinically indicated for TGD
+adults who do not want them or in cases where
+they are contraindicated due to health reasons.
+For more information see Chapter 13—Surgery
+and Postoperative Care.
+
+## Statement 5.7: We recommend health care professionals assessing adults who wish to detransition and seek gender-related hormone intervention, surgical intervention, or both, utilize a comprehensive multidisciplinary assessment that will include additional viewpoints from experienced health care professionals in transgender health and that considers, together with the individual, the role of social transition as part of the assessment process.
+
+Many TGD adults may consider a range of
+identities and elements of gender presentation
+while they are exploring their gender identity and
+are considering transition options. Accordingly,
+people may spend some time in a gender identity
+or presentation before they discover it does not
+feel comfortable and later adapt it or shift to an
+earlier identity or presentation (Turban, King
+et  al., 2021). Some TGD adults may also experience a change in gender identity over time so
+that their needs for medical treatment evolve.
+This is a healthy and reasonable process for determining the most comfortable and congruent way
+of living, which is informed by the person’s gender identity and the context of their life. This
+process of identity exploration should not necessarily be equated with regret, confusion, or poor
+decision-making because a TGD adult’s gender
+identity may change without devaluing previous
+transition decisions (MacKinnon et  al., 2021;
+Turban, Loo et  al., 2021). TGD adults should be
+assisted in this exploration and any other changes
+in their identity (Expósito-Campos, 2021). While
+exploration continues, gender-affirming treatments
+that are irreversible should be avoided until clarity
+about long-term goals and outcomes is achieved.
+
+The decision to detransition appears to be
+rare (Defreyne, Motmans et  al., 2017;
+Hadje-Moussa et  al., 2019; Wiepjes et  al., 2018).
+Estimates of the number of people who detransition due to a change in identity are likely to
+be overinflated due to research blending different cohorts (Expósito-Campos, 2021). For example, detransition research cohorts often include
+TGD adults who chose to detransition because
+of a change in their identity as well as TGD
+adults who chose to detransition without a
+change in identity. While little research has been
+conducted to systematically examine variables
+that correlate with a TGD adult’s decision to
+halt a transition process or to detransition, a
+recent study found the vast majority of TGD
+people who opted to detransition did so due to
+external factors, such as stigma and lack of
+social support and not because of changes in
+gender identity (Turban, King et  al., 2021). TGD
+adults who have not experienced a change in
+identity may choose to halt transition or to
+detransition because of oppression, violence, and
+social/relational conflict, surgical complications,
+health concerns, physical contraindications, a
+lack of resources, or dissatisfaction with the
+results (Expósito-Campos, 2021). In such cases,
+MHPs are well placed to assist the TGD person
+with these challenges.
+
+While the choice to detransition is proportionally rare, it is expected an overall increase in the
+number of adults who identify as TGD would
+result in an increase in the absolute number of
+people seeking to halt or reverse a transition.
+However, while the absolute numbers may
+increase, the percentage of people seeking to halt
+or reverse permanent physical changes should
+remain static and low. The existence of these rare
+requests must not be used as a justification to
+interrupt critical, medically necessary care, including hormone and surgical treatments, for the vast
+majority of TGD adults.
+
+Due to the limited research in this area, clinical guidance is based primarily on individual
+case studies and the expert opinion of HCPs
+working with TGD adults (Expósito-Campos,
+2021; Richards & Barrett, 2020). Accordingly, if
+a TGD adult has undergone permanent physical
+changes and seeks to undo them, the assessing
+HCP should be a member of a comprehensive
+multidisciplinary assessment team. A multidisciplinary team allows for the contribution of additional viewpoints from HCPs experienced in
+transgender health. In collaboration with the
+TGD adult, the multidisciplinary team is encouraged to thoroughly understand the motivations
+for the original treatment and for the decision
+to detransition. Any concerns with the previous
+physical changes should be carefully explored and
+a significant effort made to ensure similar concerns are not replicated by the reversal.
+
+To ensure the greatest likelihood of satisfaction
+and comfort with a reversal of permanent physical changes, the TGD adult and the multidisciplinary team should explore the role of social
+transition in the assessment and in preparation
+for the reversal. In such instances, it is highly
+likely a prolonged period of living in role will
+be necessary before further physical changes are
+recommended. HCPs should support the TGD
+adult through any social changes, as well as any
+feelings of failure, shame, depression, or guilt in
+deciding to make such a change. In addition,
+people should be supported in coping with any
+prejudice or social difficulties they may have
+experienced that could have led to a decision to
+detransition or that may have resulted from such
+a decision. It is also important to help the person
+remain engaged with health care throughout the
+process (Narayan et  al., 2021).
+
+While available research shows consistent positive outcomes for the majority of TGD adults
+who choose to transition (Aldridge et  al., 2020;
+Byne et  al., 2012; Gorin-Lazard et  al., 2012;
+Owen-Smith et  al., 2018; White Hughto &
+Reisner, 2016), some TGD adults may decompensate or experience a worsened condition following transition. Little research has been
+conducted to systematically examine variables
+that correlate with poor or worsened biological,
+psychological, or social conditions following
+transition (Hall et  al., 2021; Littman, 2021);
+however, this occurrence appears to be rare
+(Hall et  al., 2021; Wiepjes et  al., 2018). In cases
+where people decompensate after physical or
+social transition and then remain in a poorer
+biological, psychological, or social state than
+they were in prior to transition, serious consideration should be given as to whether transition
+is helpful at this time, for this person, or both.
+In cases where treatment is no longer supported,
+assistance should be arranged to support the
+person to manage the process of stopping treatment and to manage any concomitant difficulties
+(Narayan et  al., 2021).
+
+It is vital that people who detransition, for
+any reason, be supported. It should be remembered, however, this is a rare occurrence and
+the literature shows consistently positive outcomes for the vast majority of TGD adults who
+transition to a gender that is comfortable for
+them, including those who receive GAMSTs
+(Byne et  al., 2012; Green & Fleming, 1990;
+Lawrence, 2003; Motmans et  al., 2012; Van de
+Grift, Elaut et  al., 2018).
+

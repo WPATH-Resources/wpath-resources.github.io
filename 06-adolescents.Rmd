@@ -1,0 +1,1764 @@
+# Adolescents
+
+## Historical context and changes since previous Standards of Care {-}
+
+Specialized health care for transgender adolescents began in the 1980s when a few specialized
+gender clinics for youth were developed around
+the world that served relatively small numbers
+of children and adolescents. In more recent years,
+there has been a sharp increase in the number
+of adolescents requesting gender care (Arnoldussen
+et  al., 2019; Kaltiala, Bergman et  al., 2020). Since
+then, new clinics have been founded, but clinical
+services in many places have not kept pace with
+the increasing number of youth seeking care.
+Hence, there are often long waitlists for services,
+and barriers to care exist for many transgender
+youth around the world (Tollit et  al., 2018).
+
+Until recently, there was limited information
+regarding the prevalence of gender diversity
+among adolescents. Studies from high school
+samples indicate much higher rates than earlier
+thought, with reports of up to 1.2% of participants identifying as transgender (Clark et  al.,
+2014) and up to 2.7% or more (e.g., 7–9%) experiencing some level of self-reported gender diversity (Eisenberg et  al., 2017; Kidd et  al., 2021;
+Wang et  al., 2020). These studies suggest gender
+diversity in youth should no longer be viewed as
+rare. Additionally, a pattern of uneven ratios by
+assigned sex has been reported in gender clinics,
+with adolescents assigned female at birth (AFAB)
+initiating care 2.5–7.1 times more frequently as
+compared to adolescents who are assigned male
+at birth (AMAB) (Aitken et al., 2015; Arnoldussen
+et  al., 2019; Bauer et  al., 2021; de Graaf,
+Carmichael et  al., 2018; Kaltiala et  al., 2015;
+Kaltiala, Bergman et  al., 2020).
+
+A specific World Professional Association for
+Transgender Health’s (WPATH) Standards of Care
+section dedicated to the needs of children and
+adolescents was first included in the 1998 WPATH
+Standards of Care, 5th version (Levine et  al.,
+1998). Youth aged 16 or older were deemed
+potentially eligible for gender-affirming medical
+care, but only in select cases. The subsequent 6th
+(Meyer et  al., 2005) and 7th (Coleman et  al.,
+2012) versions divided medical-affirming treatment for adolescents into three categories and
+presented eligibility criteria regarding age/puberty
+stage—namely fully reversible puberty delaying
+blockers as soon as puberty had started; partially
+reversible hormone therapy (testosterone, estrogen) for adolescents at the age of majority, which
+was age 16 in certain European countries; and
+irreversible surgeries at age 18 or older, except
+for chest “masculinizing” mastectomy, which had
+an age minimum of 16 years. Additional eligibility criteria for gender-related medical care
+included a persistent, long (childhood) history of
+gender “non-conformity”/dysphoria, emerging or
+intensifying at the onset of puberty; absence or
+management of psychological, medical, or social
+problems that interfere with treatment; provision
+of support for commencing the intervention by
+the parents/caregivers; and provision of informed
+consent. A chapter dedicated to transgender and
+gender diverse (TGD) adolescents, distinct from
+the child chapter, has been created for this 8th
+edition of the Standards of Care given 1) the
+exponential growth in adolescent referral rates;
+2) the increased number of studies specific to
+adolescent gender diversity-related care; and 3)
+the unique developmental and gender-affirming
+care issues of this age group.
+
+Non-specific terms for gender-related care are
+avoided (e.g., gender-affirming model, gender
+exploratory model) as these terms do not represent unified practices, but instead heterogenous
+care practices that are defined differently in various settings.
+
+## Adolescence overview {-}
+
+Adolescence is a developmental period characterized by relatively rapid physical and psychological maturation, bridging childhood and
+adulthood (Sanders, 2013). Multiple developmental processes occur simultaneously, including
+pubertal-signaled changes. Cognitive, emotional,
+and social systems mature, and physical changes
+associated with puberty progress. These processes do not all begin and end at the same
+time for a given individual, nor do they occur
+at the same age for all persons. Therefore, the
+lower and upper borders of adolescence are
+imprecise and cannot be defined exclusively by
+age. For example, physical pubertal changes may
+begin in late childhood and executive control
+neural systems continue to develop well into the
+mid-20s (Ferguson et  al., 2021). There is a lack
+of uniformity in how countries and governments
+define the age of majority (i.e., legal
+decision-making status; Dick et  al., 2014). While
+many specify the age of majority as 18 years of
+age, in some countries it is as young as 15 years
+(e.g., Indonesia and Myanmar), and in others
+as high as 21 years (e.g., the U.S. state of
+Mississippi and Singapore).
+
+**For clarity, this chapter applies to adolescents
+from the start of puberty until the legal age of
+majority (in most cases 18 years), however there
+are developmental elements of this chapter,
+including the importance of parental/caregiver
+involvement, that are often relevant for the care
+of transitional-aged young adults and should
+be considered appropriately.**
+
+Cognitive development in adolescence is often
+characterized by gains in abstract thinking, complex reasoning, and metacognition (i.e., a young
+person’s ability to think about their own feelings
+in relation to how others perceive them; Sanders,
+2013). The ability to reason hypothetical situations enables a young person to conceptualize
+implications regarding a particular decision.
+However, adolescence is also often associated with
+increased risk-taking behaviors. Along with these
+notable changes, adolescence is often characterized by individuation from parents and the development of increased personal autonomy. There
+is often a heightened focus on peer relationships,
+which can be both positive and detrimental
+(Gardner & Steinberg, 2005). Adolescents often
+experience a sense of urgency that stems from
+hypersensitivity to reward, and their sense of
+timing has been shown to be different from that
+of older individuals (Van Leijenhorst et  al., 2010).
+Social-emotional development typically advances
+during adolescence, although there is a great variability among young people in terms of the level
+of maturity applied to inter- and intra-personal
+communication and insight (Grootens-Wiegers
+et  al., 2017). For TGD adolescents making decisions about gender-affirming treatments—decisions that may have lifelong consequences—it is
+critical to understand how all these aspects of
+development may impact decision-making for a
+given young person within their specific cultural
+context.
+
+## Gender identity development in adolescence {-}
+
+Our understanding of gender identity development in adolescence is continuing to evolve.
+When providing clinical care to gender diverse
+young people and their families, it is important
+to know what is and is not known about gender
+identity during development (Berenbaum, 2018).
+When considering treatments, families may have
+questions regarding the development of their
+adolescent’s gender identity, and whether or not
+their adolescent’s declared gender will remain
+the same over time. For some adolescents, a
+declared gender identity that differs from the
+assigned sex at birth comes as no surprise to
+their parents/caregivers as their history of gender diverse expression dates back to childhood
+(Leibowitz & de Vries, 2016). For others, the
+declaration does not happen until the emergence
+of pubertal changes or even well into adolescence (McCallion et  al., 2021; Sorbara
+et  al., 2020).
+
+Historically, social learning and cognitive
+developmental research on gender development
+was conducted primarily with youth who were
+not gender diverse in identity or expression and
+was carried out under the assumption that sex
+correlated with a specific gender; therefore, little
+attention was given to gender identity development. In addition to biological factors influencing
+gender development, this research demonstrated
+psychological and social factors also play a role
+(Perry & Pauletti, 2011). While there has been
+less focus on gender identity development in
+TGD youth, there is ample reason to suppose,
+apart from biological factors, psychosocial factors
+are also involved (Steensma, Kreukels et  al.,
+2013). For some youth, gender identity development appears fixed and is often expressed from
+a young age, while for others there may be a
+developmental process that contributes to gender
+identity development over time.
+
+Neuroimaging studies, genetic studies, and
+other hormone studies in intersex individuals
+demonstrate a biological contribution to the
+development of gender identity for some
+individuals whose gender identity does not match
+their assigned sex at birth (Steensma, Kreukels
+et  al., 2013). As families often have questions
+about this very issue, it is important to note it
+is not possible to distinguish between those for
+whom gender identity may seem fixed from birth
+and those for whom gender identity development
+appears to be a developmental process. Since it
+is impossible to definitively delineate the contribution of various factors contributing to gender
+identity development for any given young person,
+a comprehensive clinical approach is important
+and necessary (see Statement 3). Future research
+would shed more light on gender identity development if conducted over long periods of time
+with diverse cohort groups. Conceptualization of
+gender identity by shifting from dichotomous
+(e.g., binary) categorization of male and female
+to a dimensional gender spectrum along a continuum (APA, 2013) would also be necessary.
+
+Adolescence may be a critical period for the
+development of gender identity for gender diverse
+young people (Steensma, Kreukels et  al., 2013).
+Dutch longitudinal clinical follow-up studies of
+adolescents with childhood gender dysphoria who
+received puberty suppression, gender-affirming
+hormones, or both, found that none of the youth
+in adulthood regretted the decisions they had
+taken in adolescence (Cohen-Kettenis & van
+Goozen, 1997; de Vries et  al., 2014). These findings suggest adolescents who were comprehensively assessed and determined emotionally
+mature enough to make treatment decisions
+regarding gender- affirming medical care presented with stability of gender identity over the
+time period when the studies were conducted.
+
+When extrapolating findings from the
+longer-term longitudinal Dutch cohort studies to
+present-day gender diverse adolescents seeking care,
+it is critical to consider the societal changes that
+have occurred over time in relation to TGD people.
+Given the increase in visibility of TGD identities,
+it is important to understand how increased awareness may impact gender development in different
+ways (Kornienko et al., 2016). One trend identified
+is that more young people are presenting to gender
+clinics with nonbinary identities (Twist & de Graaf,
+2019). Another phenomenon occurring in clinical
+practice is the increased number of adolescents
+seeking care who have not seemingly experienced,
+expressed (or experienced and expressed) gender
+diversity during their childhood years. One
+researcher attempted to study and describe a specific form of later-presenting gender diversity experience (Littman, 2018). However, the findings of
+the study must be considered within the context
+of significant methodological challenges, including
+1) the study surveyed parents and not youth perspectives; and 2) recruitment included parents from
+community settings in which treatments for gender
+dysphoria are viewed with scepticism and are criticized. However, these findings have not been replicated. For a select subgroup of young people,
+susceptibility to social influence impacting gender
+may be an important differential to consider
+(Kornienko et  al., 2016). However, caution must
+be taken to avoid assuming these phenomena occur
+prematurely in an individual adolescent while relying on information from datasets that may have
+been ascertained with potential sampling bias
+(Bauer et al., 2022; WPATH, 2018). It is important
+to consider the benefits that social connectedness
+may have for youth who are linked with supportive
+people (Tuzun et  al., 2022)(see Statement 4).
+
+Given the emerging nature of knowledge
+regarding adolescent gender identity development,
+an individualized approach to clinical care is considered both ethical and necessary. As is the case
+in all areas of medicine, each study has methodological limitations, and conclusions drawn from
+research cannot and should not be universally
+applied to all adolescents. This is also true when
+grappling with common parental questions
+regarding the stability versus instability of a particular young person’s gender identity development. While future research will help advance
+scientific understanding of gender identity development, there may always be some gaps.
+Furthermore, given the ethics of self-determination
+in care, these gaps should not leave the TGD
+adolescent without important and necessary care.
+
+## Research evidence of gender-affirming medical treatment for transgender adolescents {-}
+
+A key challenge in adolescent transgender care is
+the quality of evidence evaluating the effectiveness
+of medically necessary gender-affirming medical
+and surgical treatments (GAMSTs) (see medically
+necessary statement in the Global chapter,
+Statement 2.1), over time. Given the lifelong implications of medical treatment and the young age
+at which treatments may be started, adolescents,
+their parents, and care providers should be
+informed about the nature of the evidence base.
+It seems reasonable that decisions to move forward
+with medical and surgical treatments should be
+made carefully. Despite the slowly growing body
+of evidence supporting the effectiveness of early
+medical intervention, the number of studies is still
+low, and there are few outcome studies that follow
+youth into adulthood. Therefore, a systematic
+review regarding outcomes of treatment in adolescents is not possible. A short narrative review
+is provided instead.
+
+At the time of this chapter’s writing, there were
+several longer-term longitudinal cohort follow-up
+studies reporting positive results of early (i.e.,
+adolescent) medical treatment; for a significant
+period of time, many of these studies were conducted through one Dutch clinic (e.g.,
+Cohen-Kettenis & van Goozen, 1997; de Vries,
+Steensma et  al., 2011; de Vries et  al., 2014; Smith
+et  al., 2001, 2005). The findings demonstrated
+the resolution of gender dysphoria is associated
+with improved psychological functioning and
+body image satisfaction. Most of these studies
+followed a pre-post methodological design and
+compared baseline psychological functioning with
+outcomes after the provision of medical
+gender-affirming treatments. Different studies
+evaluated individual aspects or combinations of
+treatment interventions and included 1)
+gender-affirming hormones and surgeries
+(Cohen-Kettenis & van Goozen, 1997; Smith
+et  al., 2001, 2005); 2) puberty suppression (de
+Vries, Steensma et  al., 2011); and 3) puberty suppression, affirming hormones, and surgeries (de
+Vries et  al., 2014). The 2014 long-term follow-up
+study is the only study that followed youth from
+early adolescence (pretreatment, mean age of
+13.6) through young adulthood (posttreatment,
+mean age of 20.7). This was the first study to
+show gender-affirming treatment enabled transgender adolescents to make age-appropriate
+developmental transitions while living as their
+affirmed gender with satisfactory objective and
+subjective outcomes in adulthood (de Vries et  al.,
+2014). While the study employed a small (n =
+55), select, and socially supported sample, the
+results were convincing. Of note, the participants
+were part of the Dutch clinic known for employing a multidisciplinary approach, including provision of comprehensive, ongoing assessment and
+management of gender dysphoria, and support
+aimed at emotional well-being.
+
+Several more recently published longitudinal
+studies followed and evaluated participants at
+different stages of their gender-affirming treatments. In these studies, some participants may
+not have started gender-affirming medical treatments, some had been treated with puberty suppression, while still others had started
+gender-affirming hormones or had even undergone gender-affirming surgery (GAS) (Achille
+et  al., 2020; Allen et  al., 2019; Becker-Hebly et  al.,
+2021; Carmichael et  al., 2021; Costa et  al., 2015;
+Kuper et  al., 2020, Tordoff et  al., 2022). Given
+the heterogeneity of treatments and methods, this
+type of design makes interpreting outcomes more
+challenging. Nonetheless, when compared with
+baseline assessments, the data consistently demonstrate improved or stable psychological functioning, body image, and treatment satisfaction
+varying from three months to up to two years
+from the initiation of treatment.
+
+Cross-sectional studies provide another design
+for evaluating the effects of gender-affirming
+treatments. One such study compared psychological functioning in transgender adolescents at
+baseline and while undergoing puberty suppression with that of cisgender high school peers at
+two different time points. At baseline, the transgender youth demonstrated lower psychological
+functioning compared with cisgender peers,
+whereas when undergoing puberty suppression,
+they demonstrated better functioning than their
+peers (van der Miesen et  al., 2020). Grannis et  al.
+(2021) demonstrated transgender males who
+started testosterone had lower internalizing mental health symptoms (depression and anxiety)
+compared with those who had not started testosterone treatment.
+
+Four additional studies followed different outcome designs. In a retrospective chart study,
+Kaltiala, Heino et  al. (2020) reported transgender
+adolescents with few or no mental health challenges prior to commencing gender-affirming
+hormones generally did well during the treatment. However, adolescents with more mental
+health challenges at baseline continued to experience the manifestations of those mental health
+challenges over the course of gender-affirming
+medical treatment. Nieder et  al. (2021) studied
+satisfaction with care as an outcome measure and
+demonstrated transgender adolescents were more
+satisfied the further they progressed with the
+treatments they initially started. Hisle-Gorman
+et  al. (2021) compared health care utilization preand post-initiation of gender-affirming pharmaceuticals as indicators of the severity of mental
+health conditions among 3,754 TGD adolescents
+in a large health care data set. Somewhat contrary
+to the authors’ hypothesis of improved mental
+health, mental health care use did not significantly change, and psychotropic medication prescriptions increased. In a large non-probability
+sample of transgender-identified adults, Turban
+et  al. (2022) found those who reported access to
+gender-affirming hormones in adolescence had
+lower odds of past-year suicidality compared with
+transgender people accessing gender- affirming
+hormones in adulthood.
+
+Providers may consider the possibility an adolescent may regret gender-affirming decisions
+made during adolescence, and a young person
+will want to stop treatment and return to living
+in the birth-assigned gender role in the future.
+Two Dutch studies report low rates of adolescents (1.9% and 3.5%) choosing to stop puberty
+suppression (Brik et  al., 2019; Wiepjes et  al.,
+2018). Again, these studies were conducted in
+clinics that follow a protocol that includes a
+comprehensive assessment before the
+gender-affirming medical treatment is started.
+At present, no clinical cohort studies have
+reported on profiles of adolescents who regret
+their initial decision or detransition after irreversible affirming treatment. Recent research
+indicate there are adolescents who detransition,
+but do not regret initiating treatment as they
+experienced the start of treatment as a part of
+understanding their gender-related care needs
+(Turban, 2018). However, this may not be the
+predominant perspective of people who
+detransition (Littman, 2021; Vandenbussche,
+2021). Some adolescents may regret the steps
+they have taken (Dyer, 2020). Therefore, it is
+important to present the full range of possible
+outcomes when assisting transgender adolescents. Providers may discuss this topic in a collaborative and trusting manner (i.e., as a
+“potential future experience and consideration”)
+with the adolescent and their parents/caregivers
+before gender-affirming medical treatments are
+started. Also, providers should be prepared to
+support adolescents who detransition. In an
+internet convenience sample survey of 237
+self-identified detransitioners with a mean age
+of 25.02 years, which consisted of over 90% of
+birth assigned females, 25% had medically transitioned before age 18 and 14% detransitioned
+before age 18 (Vandenbussche, 2021). Although
+an internet convenience sample is subject to
+selection of respondents, this study suggests
+detransitioning may occur in young transgender
+adolescents and health care professionals should
+be aware of this. Many of them expressed difficulties finding help during their detransition
+process and reported their detransition was an
+isolating experience during which they did not
+receive either sufficient or appropriate support
+(Vandenbussche, 2021).
+
+To conclude, although the existing samples
+reported on relatively small groups of youth (e.g.,
+n = 22-101 per study) and the time to follow-up
+varied across studies (6 months–7 years), this
+emerging evidence base indicates a general
+improvement in the lives of transgender adolescents who, following careful assessment, receive
+medically necessary gender-affirming medical
+treatment. Further, rates of reported regret during
+the study monitoring periods are low. Taken as
+a whole, the data show early medical intervention—as part of broader combined assessment
+and treatment approaches focused on gender dysphoria and general well-being—can be effective
+and helpful for many transgender adolescents
+seeking these treatments.
+
+## Ethical and human rights perspectives {-}
+
+Medical ethics and human rights perspectives
+were also considered while formulating the
+adolescent SOC statements. For example, allowing irreversible puberty to progress in adolescents who experience gender incongruence is
+not a neutral act given that it may have immediate and lifelong harmful effects for the transgender young person (Giordano, 2009; Giordano
+& Holm, 2020; Kreukels & Cohen-Kettenis,
+2011). From a human rights perspective, considering gender diversity as a normal and
+expected variation within the broader diversity
+of the human experience, it is an adolescent’s
+right to participate in their own decision-making
+process about their health and lives, including
+access to gender health services (Amnesty
+International, 2020).
+
+## Short summary of statements and unique issues in adolescence {-}
+
+These guidelines are designed to account for what
+is known and what is not known about gender
+identity development in adolescence, the evidence
+for gender-affirming care in adolescence, and the
+unique aspects that distinguish adolescence from
+other developmental stages.
+
+*Identity exploration:* A defining feature of adolescence
+is the solidifying of aspects of identity, including gender identity. Statement 6.2 addresses identity exploration in the context of gender identity development.
+Statement 6.12.b accounts for the length of time
+needed for a young person to experience a gender
+diverse identity, express a gender diverse identity, or
+both, so as to make a meaningful decision regarding
+gender-affirming care.
+
+*Consent and decision-making:* In adolescence, consent
+and decision-making require assessment of the individual’s emotional, cognitive, and psychosocial development. Statement 6.12.c directly addresses emotional
+and cognitive maturity and describes the necessary
+components of the evaluation process used to assess
+decision-making capacity.
+
+*Caregivers/parent involvement:* Adolescents are typically dependent on their caregivers/parents for
+guidance in numerous ways. This is also true as
+the young person navigates through the process of
+deciding about treatment options. Statement 6.11
+addresses the importance of involving caregivers/
+parents and discusses the role they play in the
+assessment and treatment. No set of guidelines can
+account for every set of individual circumstances
+on a global scale.
+
+## Statement 6.1: We recommend health care professionals working with gender diverse adolescents:
+a. Are licensed by their statutory body and hold a postgraduate degree or its equivalent in a clinical field relevant to this role granted by a nationally accredited statutory institution.
+b. Receive theoretical and evidenced-based training and develop expertise in general child, adolescent, and family mental health across the developmental spectrum.
+c. Receive training and have expertise in gender identity development, gender diversity in children and adolescents, have the ability to assess capacity to assent/consent, and possess general knowledge of gender diversity across the life span.
+d. Receive training and develop expertise in autism spectrum disorders and other neurodevelopmental presentations or collaborate with a developmental disability expert when working with autistic/neurodivergent gender diverse adolescents.
+e. Continue engaging in professional development in all areas relevant to gender diverse children, adolescents, and families.
+
+When assessing and supporting TGD adolescents and their families, care providers/health
+care professionals (HCPs) need both general as
+well as gender-specific knowledge and training.
+Providers who are trained to work with adolescents and families play an important role in navigating aspects of adolescent development and
+family dynamics when caring for youth and families (Adelson et al., 2012; American Psychological
+Association, 2015; Hembree et  al., 2017). Other
+chapters in these standards of care describe these
+criteria for professionals who provide gender care
+in more detail (see Chapter 5—Assessment for
+Adults; Chapter 7—Children; or Chapter 13—
+Surgery and Postoperative Care). Professionals
+working with adolescents should understand
+what is and is not known regarding adolescent
+gender identity development, and how this
+knowledge base differs from what applies to
+adults and prepubertal children. Among HCPs,
+the mental health professional (MHP) has the
+most appropriate training and dedicated clinical
+time to conduct an assessment and elucidate
+treatment priorities and goals when working with
+transgender youth, including those seeking
+gender-affirming medical/surgical care.
+Understanding and managing the dynamics of
+family members who may share differing perspectives regarding the history and needs of the 
+young person is an important competency that
+MHPs are often most prepared to address.
+When access to professionals trained in child
+and adolescent development is not possible, HCPs
+should make a commitment to obtain training in
+the areas of family dynamics and adolescent development, including gender identity development.
+Similarly, considering autistic/neurodivergent
+transgender youth represent a substantial minority
+subpopulation of youth served in gender clinics
+globally, it is important HCPs seek additional
+training in the field of autism and understand the
+unique elements of care autistic gender diverse
+youth may require (Strang, Meagher et  al., 2018).
+If these qualifications are not possible, then consultation and collaboration with a provider who
+specializes in autism and neurodiversity is advised.
+
+## Statement 6.2: We recommend health care professionals working with gender diverse adolescents facilitate the exploration and expression of gender openly and respectfully so that no one particular identity is favored.
+
+Adolescence is a developmental period that
+involves physical and psychological changes characterized by individuation and the transition to
+independence from caregivers (Berenbaum et  al.,
+2015; Steinberg, 2009). It is a period during
+which young people may explore different aspects
+of identity, including gender identity.
+
+Adolescents differ regarding the degree to
+which they explore and commit to aspects of
+their identity (Meeus et  al., 2012). For some adolescents, the pace to achieving consolidation of
+identity is fast, while for others it is slower. For
+some adolescents, physical, emotional, and psychological development occur over the same general timeline, while for others, there are certain
+gaps between these aspects of development.
+Similarly, there is variation in the timeline for
+gender identity development (Arnoldussen et  al.,
+2020; Katz-Wise et  al., 2017). For some young
+people, gender identity development is a clear
+process that starts in early childhood, while for
+others pubertal changes contribute to a person’s
+experience of themselves as a particular gender
+(Steensma, Kreukels et  al., 2013), and for many
+others a process may begin well after pubertal
+changes are completed. Given these variations,
+there is no one particular pace, process, or outcome that can be predicted for an individual
+adolescent seeking gender-affirming care.
+
+Therefore, HCPs working with adolescents
+should promote supportive environments that
+simultaneously respect an adolescent’s affirmed
+gender identity and also allows the adolescent to
+openly explore gender needs, including social,
+medical, and physical gender-affirming interventions should they change or evolve over time.
+
+## Statement 6.3: We recommend health care professionals working with gender diverse adolescents undertake a comprehensive biopsychosocial assessment of adolescents who present with gender identity-related concerns and seek medical/surgical transition-related care, and that this be accomplished in a collaborative and supportive manner.
+
+Given the many ways identity may unfold
+during adolescence, we recommend using a comprehensive biopsychosocial assessment to guide
+treatment decisions and optimize outcomes. This
+assessment should aim to understand the adolescent’s strengths, vulnerabilities, diagnostic profile,
+and unique needs to individualize their care. As
+mentioned in Statement 6.1, MHPs have the most
+appropriate training, experience, and dedicated
+clinical time required to obtain the information
+discussed here. The assessment process should
+be approached collaboratively with the adolescent
+and their caregiver(s), both separately and
+together, as described in more detail in Statement
+6.11. An assessment should occur prior to any
+medically necessary medical or surgical intervention under consideration (e.g., puberty blocking
+medication, gender-affirming hormones, surgeries). See medically necessary statement in Chapter
+2—Global Applicability, Statement 2.1; see also
+Chapter 12—Hormone Therapy and Chapter 13—
+Surgery and Postoperative Care.
+
+Youth may experience many different gender
+identity trajectories. Sociocultural definitions and
+experiences of gender continue to evolve over
+time, and youth are increasingly presenting with
+a range of identities and ways of describing their
+experiences and gender-related needs (Twist & de 
+Graaf, 2019). For example, some youth will realize
+they are transgender or more broadly gender
+diverse and pursue steps to present accordingly.
+For some youth, obtaining gender-affirming medical treatment is important while for others these
+steps may not be necessary. For example, a process
+of exploration over time might not result in the
+young person self-affirming or embodying a different gender in relation to their assigned sex at
+birth and would not involve the use of medical
+interventions (Arnoldussen et  al., 2019).
+
+The most robust longitudinal evidence supporting the benefits of gender-affirming medical and
+surgical treatments in adolescence was obtained
+in a clinical setting that incorporated a detailed
+comprehensive diagnostic assessment process over
+time into its delivery of care protocol (de Vries &
+Cohen-Kettenis, 2012; de Vries et al., 2014). Given
+this research and the ongoing evolution of gender
+diverse experiences in society, a comprehensive
+diagnostic biopsychosocial assessment during adolescence is both evidence-based and preserves the
+integrity of the decision-making process. In the
+absence of a full diagnostic profile, other mental
+health entities that need to be prioritized and
+treated may not be detected. There are no studies
+of the long-term outcomes of gender-related medical treatments for youth who have not undergone
+a comprehensive assessment. Treatment in this
+context (e.g., with limited or no assessment) has
+no empirical support and therefore carries the risk
+that the decision to start gender-affirming medical
+interventions may not be in the long-term best
+interest of the young person at that time.
+
+As delivery of health care and access to specialists varies globally, designing a particular
+assessment process to adapt existing resources is
+often necessary. In some cases, a more extended
+assessment process may be useful, such as for
+youth with more complex presentations (e.g., complicating mental health histories (Leibowitz & de
+Vries, 2016)), co-occurring autism spectrum characteristics (Strang, Powers et  al., 2018), and/or an
+absence of experienced childhood gender incongruence (Ristori & Steensma, 2016). Given the
+unique cultural, financial, and geographical factors
+that exist for specific populations, providers should
+design assessment models that are flexible and
+allow for appropriately timed care for as many
+young people as possible, so long as the assessment effectively obtains information about the
+adolescent’s strengths, vulnerabilities, diagnostic
+profile, and individual needs. Psychometrically validated psychosocial and gender measures can also
+be used to provide additional information.
+
+The multidisciplinary assessment for youth
+seeking gender-affirming medical/surgical interventions includes the following domains that correspond to the relevant statements:
+
+- **Gender Identity Development:** Statements 6.12.a and 6.12.b elaborate on the factors associated with gender identity development within the specific cultural context when assessing TGD adolescents.
+- **Social Development and Support; Intersectionality:** Statements 6.4 and 6.11 elaborate on the importance of assessing gender minority stress, family dynamics, and other aspects contributing to social development and intersectionality.
+- **Diagnostic Assessment of Possible Co-Occurring Mental Health and/or Developmental Concerns:** Statement 6.12.d elaborates on the importance of understanding the relationship that exists, if at all, between any co-occurring mental health or developmental concerns and the young person’s gender identity/gender diverse expression.
+- **Capacity for Decision-Making:** Statement 6.12.c elaborates on the assessment of a young person’s emotional maturity and the relevance when an adolescent is considering gender affirming-medical/surgical treatments.
+
+## Statement 6.4: We recommend health care professionals work with families, schools, and other relevant settings to promote acceptance of gender diverse expressions of behavior and identities of the adolescent.
+
+Multiple studies and related expert consensus
+support the implementation of approaches that
+promote acceptance and affirmation of gender
+diverse youth across all settings, including families, schools, health care facilities, and all other
+organizations and communities with which they
+interact (e.g., Pariseau et  al., 2019; Russell et  al.,
+2018; Simons et  al., 2013; Toomey et  al., 2010;
+Travers et  al., 2012). Acceptance and affirmation
+are accomplished through a range of approaches,
+actions, and policies we recommend be enacted
+across the various relationships and settings in
+which a young person exists and functions. It is
+important for the family members and community members involved in the adolescent’s life to
+work collaboratively in these efforts unless their
+involvement is considered harmful to the adolescent. Examples proposed by Pariseau et  al. (2019)
+and others of acceptance and affirmation of gender diversity and contemplation and expression
+of identity that can be implemented by family,
+staff, and organizations include:
+
+1. Actions that are supportive of youth drawn to engaging in gender-expansive (e.g., nonconforming) activities and interests;
+2. Communications that are supportive when youth express their experiences about their gender and gender exploration;
+3. Use of the youth’s asserted name/pronouns;
+4. Support for youth wearing clothing/uniforms, hairstyles, and items (e.g., jewelry, makeup) they feel affirm their gender;
+5. Positive and supportive communication with youth about their gender and gender concerns;
+6. Education about gender diversity issues for people in the young person’s life (e.g., family members, health care providers, social support networks), as needed, including information about how to advocate for gender diverse youth in community, school, health care, and other settings;
+7. Support for gender diverse youth to connect with communities of support (e.g., LGBTQ groups, events, friends);
+8. Provision of opportunities to discuss, consider, and explore medical treatment options when indicated;
+9. Antibullying policies that are enforced;
+10. Inclusion of nonbinary experiences in daily life, reading materials, and curricula (e.g., books, health, and sex education classes, assigned essay topics that move beyond the binary, LGBTQ, and ally groups);
+11. Gender inclusive facilities that the youth can readily access without segregation from nongender diverse peers (e.g., bathrooms, locker rooms).
+
+We recommend HCPs work with parents,
+schools, and other organizations/groups to promote acceptance and affirmation of TGD identities
+and expressions, whether social or medical interventions are implemented or not as acceptance
+and affirmation are associated with fewer negative
+mental health and behavioral symptoms and more
+positive mental health and behavioral functioning
+(Day et  al., 2015; de Vries et  al., 2016; Greytak
+et al., 2013; Pariseau et al., 2019; Peng et al., 2019;
+Russell et  al., 2018; Simons et  al., 2013; Taliaferro
+et  al., 2019; Toomey et  al., 2010; Travers et  al.,
+2012). Russell et  al. (2018) found mental health
+improvement increases with more acceptance and
+affirmation across more settings (e.g., home,
+school, work, and friends). Rejection by family,
+peers, and school staff (e.g., intentionally using
+the name and pronoun the youth does not identify
+with, not acknowledging affirmed gender identity,
+bullying, harassment, verbal and physical abuse,
+poor relationships, rejection for being TGD, eviction) was strongly linked to negative outcomes,
+such as anxiety, depression, suicidal ideation, suicide attempts, and substance use (Grossman et al.,
+2005; Klein & Golub; 2016; Pariseau et  al., 2019;
+Peng et  al., 2019; Reisner, Greytak et  al., 2015;
+Roberts et  al., 2013). It is important to be aware
+that negative symptoms increase with increased
+levels of rejection and continue into adulthood
+(Roberts et  al., 2013).
+
+Neutral or indifferent responses to a youth’s
+gender diversity and exploration (e.g., letting a
+child tell others their chosen name but not using
+the name, not telling family or friends when the
+youth wants them to disclose, not advocating
+for the child about rejecting behavior from
+school staff or peers, not engaging or participating in other support mechanisms (e.g., with
+psychotherapists and support groups) have also
+been found to have negative consequences, such
+as increased depressive symptoms (Pariseau
+et  al., 2019). For these reasons, it is important
+not to ignore a youth’s gender questioning or
+delay consideration of the youth’s gender-related
+care needs. There is particular value in professionals recognizing youth need individualized
+approaches, support, and consideration of needs
+around gender expression, identity, and embodiment over time and across domains and relationships. Youth may need help coping with the
+tension of tolerating others’ processing/adjusting
+to an adolescent’s identity exploration and
+changes (e.g., Kuper, Lindley et  al., 2019). It is
+important professionals collaborate with parents
+and others as they process their concerns and
+feelings and educate themselves about gender
+diversity because such processes may not necessarily reflect rejection or neutrality but may
+rather represent efforts to develop attitudes and
+gather information that foster acceptance (e.g.,
+Katz-Wise et  al., 2017).
+
+## Statement 6.5: We recommend against offering reparative and conversion therapy aimed at trying to change a person’s gender and lived gender expression to become more congruent with the sex assignedat birth.
+Some health care providers, secular or religious organizations, and rejecting families may
+undertake efforts to thwart an adolescent’s
+expression of gender diversity or assertion of a
+gender identity other than the expression and
+behavior that conforms to the sex assigned at
+birth. Such efforts at blocking reversible social
+expression or transition may include choosing
+not to use the youth’s identified name and pronouns or restricting self-expression in clothing
+and hairstyles (Craig et  al., 2017; Green et  al.,
+2020). These disaffirming behaviors typically
+aim to reinforce views that a young person’s
+gender identity/expression must match the gender associated with the sex assigned at birth or
+expectations based on the sex assigned at birth.
+Activities and approaches (sometimes referred
+to as “treatments”) aimed at trying to change a
+person’s gender identity and expression to
+become more congruent with the sex assigned
+at birth have been attempted, but these
+approaches have not resulted in changes in gender identity (Craig et  al., 2017; Green et  al.,
+2020). We recommend against such efforts
+because they have been found to be ineffective
+and are associated with increases in mental illness and poorer psychological functioning (Craig
+et  al., 2017; Green et  al., 2020; Turban, Beckwith
+et  al., 2020).
+
+Much of the research evaluating “conversion
+therapy” and “reparative therapy” has investigated
+the impact of efforts to change gender expression
+(masculinity or femininity) and has conflated
+sexual orientation with gender identity (APA,
+2009; Burnes et  al., 2016; Craig et  al., 2017).
+Some of these efforts have targeted both gender
+identity and expression (AACAP, 2018).
+Conversion/reparative therapy has been linked to
+increased anxiety, depression, suicidal ideation,
+suicide attempts, and health care avoidance (Craig
+et  al., 2017; Green et  al., 2020; Turban, Beckwith
+et  al., 2020). Although some of these studies have
+been criticized for their methodologies and conclusions (e.g., D’Angelo et  al., 2020), this should
+not detract from the importance of emphasizing
+efforts undertaken a priori to change a person’s
+identity are clinically and ethically unsound. We
+recommend against any type of conversion or
+attempts to change a person’s gender identity
+because 1) both secular and religion-based efforts
+to change gender identity/expression have been
+associated with negative psychological functioning
+that endures into adulthood (Turban, Beckwith
+et  al., 2020); and 2) larger ethical reasons exist
+that should underscore respect for gender diverse
+identities.
+
+It is important to note potential factors driving
+a young person’s gender-related experience and
+report of gender incongruence, when carried out
+in the context of supporting an adolescent with
+self-discovery, is not considered reparative therapy as long as there is no a priori goal to change
+or promote one particular gender identity or
+expression (AACAP, 2018; see Statement 6.2). To
+ensure these explorations are therapeutic, we recommend employing affirmative consideration and
+supportive tone in discussing what steps have
+been tried, considered, and planned for a youth’s
+gender expression. These discussion topics may
+include what felt helpful or affirming, what felt
+unhelpful or distressing and why. We recommend
+employing affirmative responses to these steps
+and discussions, such as those identified in
+SOC-8 Statement 6.4.
+
+## Statement 6.6: We suggest health care professionals provide transgender and gender diverse adolescents with health education on chest binding and genital tucking, including review of the benefits and risks.
+
+TGD youth may experience distress related to
+chest and genital anatomy. Practices such as chest
+binding, chest padding, genital tucking, and genital packing are reversible, nonmedical interventions that may help alleviate this distress
+(Callen-Lorde, 2020a, 2020b; Deutsch, 2016a;
+Olson-Kennedy, Rosenthal et  al., 2018; Transcare
+BC, 2020). It is important to assess the degree
+of distress related to physical development or
+anatomy, educate youth about potential nonmedical interventions to address this distress, and
+discuss the safe use of these interventions.
+
+Chest binding involves compression of the
+breast tissue to create a flatter appearance of the
+chest. Studies suggest that up to 87% of trans
+masculine patients report a history of binding
+(Jones, 2015; Peitzmeier, 2017). Binding methods
+may include the use of commercial binders,
+sports bras, layering of shirts, layering of sports
+bras, or the use of elastics or other bandages
+(Peitzmeier, 2017). Currently, most youth report
+learning about binding practices from online
+communities composed of peers (Julian,
+2019). Providers can play an important role in
+ensuring youth receive accurate and reliable
+information about the potential benefits and risks
+of chest binding. Additionally, providers can
+counsel patients about safe binding practices and
+monitor for potential negative health effects.
+While there are potential negative physical
+impacts of binding, youth who bind report many
+benefits, including increased comfort, improved
+safety, and lower rates of misgendering (Julian,
+2019). Common negative health impacts of chest
+binding in youth include back/chest pain, shortness of breath, and overheating (Julian, 2019).
+More serious negative health impacts such as skin
+infections, respiratory infections, and rib fractures
+are uncommon and have been associated with
+chest binding in adults (Peitzmeier, 2017). If
+binding is employed, youth should be advised to
+use only those methods considered safe for binding—such as binders specifically designed for the
+gender diverse population—to reduce the risk of
+serious negative health effects. Methods that are
+considered unsafe for binding include the use of
+duct tape, ace wraps, and plastic wrap as these
+can restrict blood flow, damage skin, and restrict
+breathing. If youth report negative health
+impacts from chest binding, these should ideally
+be addressed by a gender-affirming medical provider with experience working with TGD youth.
+
+Genital tucking is the practice of positioning
+the penis and testes to reduce the outward
+appearance of a genital bulge. Methods of tucking
+include tucking the penis and testes between the
+legs or tucking the testes inside the inguinal canal
+and pulling the penis back between the legs.
+Typically, genitals are held in place by underwear
+or a gaff, a garment that can be made or purchased. Limited studies are available on the specific risks and benefits of tucking in adults, and
+none have been carried out in youth. Previous
+studies have reported tight undergarments are
+associated with decreased sperm concentration
+and motility. In addition, elevated scrotal temperatures can be associated with poor sperm
+characteristics, and genital tucking could theoretically affect spermatogenesis and fertility
+(Marsh, 2019) although there are no definitive
+studies evaluating these adverse outcomes. Further
+research is needed to determine the specific benefits and risks of tucking in youth.
+
+### Statement 6.7 We recommend providers consider prescribing menstrual suppression agents for adolescents experiencing gender incongruence who may not desire testosterone therapy, who desire but have not yet begun testosterone therapy, or in conjunction with testosterone therapy for breakthrough bleeding.
+
+When discussing the available options of
+menstrual-suppressing medications with gender
+diverse youth, providers should engage in shared
+decision-making, use gender-inclusive language
+(e.g., asking patients which terms they utilize to
+refer to their menses, reproductive organs, and
+genitalia) and perform physical exams in a sensitive, gender-affirmative manner (Bonnington
+et  al., 2020; Krempasky et  al., 2020). There is no
+formal research evaluating how menstrual 
+suppression may impact gender incongruence
+and/or dysphoria. However, the use of menstrual
+suppression can be an initial intervention that
+allows for further exploration of gender-related
+goals of care, prioritization of other mental health
+care, or both, especially for those who experience
+a worsening of gender dysphoria from unwanted
+uterine bleeding (see Statement 6.12d; Mehringer
+& Dowshen, 2019). When testosterone is not
+used, menstrual suppression can be achieved via
+a progestin. To exclude any underlying menstrual
+disorders, it is important to obtain a detailed
+menstrual history and evaluation prior to implementing menstrual-suppressing therapy (Carswell
+& Roberts, 2017). As part of the discussion about
+menstrual-suppressing medications, the need for
+contraception and information regarding the
+effectiveness of menstrual-suppressing medications as methods of contraception also need to
+be addressed (Bonnington et  al., 2020). A variety
+of menstrual suppression options, such as combined estrogen-progestin medications, oral progestins, depot and subdermal progestin, and
+intrauterine devices (IUDs), should be offered to
+allow for individualized treatment plans while
+properly considering availability, cost and insurance coverage, as well as contraindications and
+side effects (Kanj et  al., 2019).
+
+Progestin-only hormonal medication are
+options, especially in trans masculine or nonbinary youth who are not interested in
+estrogen-containing medical therapies as well as
+those at risk for thromboembolic events or who
+have other contraindications to estrogen therapy
+(Carswell & Roberts, 2017). Progestin-only hormonal medications include oral progestins,
+depo-medroxyprogesterone injection, etonogestrel
+implant, and levonorgestrel IUD (Schwartz et  al.,
+2019). Progestin-only hormonal options vary in
+terms of efficacy in achieving menstrual suppression and have lower rates of achieving amenorrhea than combined oral contraception (Pradhan
+& Gomez-Lobo, 2019). A more detailed description of the relevant clinical studies is presented
+in Chapter 12—Hormone Therapy. HCPs should
+not make assumptions regarding the individual’s
+preferred method of administration as some trans
+masculine youth may prefer vaginal rings or IUD
+implants (Akgul et  al., 2019). Although hormonal
+medications require monitoring for potential
+mood lability, depressive effects, or both, the benefits and risks of untreated menstrual suppression
+in the setting of gender dysphoria should be evaluated on an individual basis. Some patients may
+opt for combined oral contraception that includes
+different combinations of ethinyl estradiol, with
+ranging doses, and different generations of progestins (Pradhan & Gomez-Lobo, 2019). Lower
+dose ethinyl estradiol components of combined
+oral contraceptive pills are associated with
+increased breakthrough uterine bleeding.
+Continuous combined oral contraceptives may be
+used to allow for continuous menstrual suppression and can be delivered as transdermal or vaginal rings.
+
+The use of gonadotropin releasing hormone
+(GnRH) analogues may also result in menstrual
+suppression. However, it is recommended gender
+diverse youth meet the eligibility criteria (as outlined in Statement 6.12) before this medication
+is considered solely for this purpose (Carswell &
+Roberts, 2017; Pradhan & Gomez-Lobo, 2019).
+Finally, menstrual-suppression medications may
+be indicated as an adjunctive therapy for breakthrough uterine bleeding that may occur while
+on exogenous testosterone or as a bridging medication while awaiting menstrual suppression with
+testosterone therapy. When exogenous testosterone is employed as a gender-affirming hormone,
+menstrual suppression is typically achieved in the
+first six months of therapy (Ahmad & Leinung,
+2017). However, it is vital adolescents be counseled ovulation and pregnancy can still occur in
+the setting of amenorrhea (Gomez et  al., 2020;
+Kanj et  al., 2019).
+
+## Statement 6.8: We recommend health care professionals maintain an ongoing relationship with the gender diverse and transgender adolescent and any relevant caregivers to support the adolescent in their decision-making throughout the duration of puberty suppression treatment, hormonal treatment, and gender-related surgery until the transition is made to adult care.
+
+HCPs with expertise in child and adolescent
+development, as described in Statement 6.1, play
+an important role in the continuity of care for 
+young people over the course of their
+gender-related treatment needs. Supporting adolescents and their families necessitates approaching care using a developmental lens through
+which understanding a young person’s evolving
+emotional maturity and care needs can take place
+over time. As gender-affirming treatment pathways differ based on the needs and experiences
+of individual TGD adolescents, decision-making
+for these treatments (puberty suppression, estrogens/androgens, gender-affirmation surgeries) can
+occur at different points in time within a span
+of several years. Longitudinal research demonstrating the benefits of pubertal suppression and
+gender-affirming hormone treatment (GAHT)
+was carried out in a setting where an ongoing
+clinical relationship between the adolescents/families and the multidisciplinary team was maintained (de Vries et  al., 2014).
+
+Clinical settings that offer longer appointment
+times provide space for adolescents and caregivers
+to share important psychosocial aspects of emotional well-being (e.g., family dynamics, school,
+romantic, and sexual experiences) that contextualize individualized gender-affirming treatment
+needs and decisions as described elsewhere in
+the chapter. An ongoing clinical relationship can
+take place across settings, whether that be within
+a multidisciplinary team or with providers in
+different locations who collaborate with one
+another. Given the wide variability in the ability
+to obtain access to specialized gender care centers, particularly for marginalized groups who
+experience disparities with access, it is important
+for the HCP to appreciate the existence of any
+barriers to care while maintaining flexibility when
+defining how an ongoing clinical relationship can
+take place in that specific context.
+
+An ongoing clinical relationship that increases
+resilience in the youth and provides support to
+parents/caregivers who may have their own treatment needs may ultimately lead to increased
+parental acceptance—when needed—which is
+associated with better mental health outcomes in
+youth (Ryan, Huebner et  al., 2009).
+
+## Statement 6.9: We recommend health care professionals involve relevant disciplines, including mental health and medical professionals, to reach a decision about whether puberty suppression, hormone initiation, or gender-related surgery for gender diverse and transgender adolescents are appropriate and remain indicated throughout the course of treatment until the transition is made to adult care.
+
+TGD adolescents with gender dysphoria/gender incongruence who seek gender-affirming
+medical and surgical treatments benefit from
+the involvement of health care professionals
+(HCPs) from different disciplines. Providing care
+to TGD adolescents includes addressing 1) diagnostic considerations (see Statements 6.3, 6.12a,
+and 6.12b) conducted by a specialized gender
+HCP (as defined in Statement 6.1) whenever
+possible and necessary; and 2) treatment considerations when prescribing, managing, and
+monitoring medications for gender-affirming
+medical and surgical care, requiring the training
+of the relevant medical/surgical professional. The
+list of key disciplines includes but is not limited
+to adolescent medicine/primary care, endocrinology, psychology, psychiatry, speech/language
+pathology, social work, support staff, and the
+surgical team.
+
+The evolving evidence has shown a clinical
+benefit for transgender youth who receive their
+gender-affirming treatments in multidisciplinary
+gender clinics (de Vries et  al., 2014; Kuper et  al.,
+2020; Tollit et  al., 2019). Finally, adolescents seeking gender-affirming care in multidisciplinary
+clinics are presenting with significant complexity
+necessitating close collaboration between mental
+health, medical, and/or surgical professionals
+(McCallion et  al., 2021; Sorbara et  al., 2020;
+Tishelman et  al., 2015).
+
+As not all patients and families are in the position or in a location to access multidisciplinary
+care, the lack of available disciplines should not
+preclude a young person from accessing needed
+care in a timely manner. When disciplines are
+available, particularly in centers with existing
+multidisciplinary teams, disciplines, or both, it is
+recommended efforts be made to include the relevant providers when developing a gender care
+team. However, this does not mean all disciplines
+are necessary to provide care to a particular
+youth and family.
+
+If written documentation or a letter is required
+to recommend gender-affirming medical and surgical treatment (GAMST) for an adolescent, only
+one letter of assessment from a member of the
+multidisciplinary team is needed. This letter needs
+to reflect the assessment and opinion from the team
+that involves both medical HCPs and MHPs
+(American Psychological Association, 2015; Hembree
+et  al., 2017; Telfer et  al., 2018). Further assessment
+results and written opinions may be requested when
+there is a specific clinical need or when team members are in different locations or choose to write
+their own summaries. For further information see
+Chapter 5—Assessment for Adults, Statement 5.5.
+
+## Statement 6.10: We recommend health care professionals working with transgender and gender diverse adolescents requesting gender-affirming medical or surgical treatments inform them, prior to the initiation of treatment, of the reproductive effects, including the potential loss of fertility and available options to preserve fertility within the context of the youth's stage of pubertal development.
+
+While assessing adolescents seeking
+gender-affirming medical or surgical treatments,
+HCPs should discuss the specific ways in which
+the required treatment may affect reproductive
+capacity. Fertility issues and the specific preservation options are more thoroughly discussed in
+Chapter 12—Hormone Therapy and Chapter 16—
+Reproductive Health.
+
+It is important HCPs understand what fertility
+preservation options exist so they can relay the
+information to adolescents. Parents are advised
+to be involved in this process and should also
+understand the pros and cons of the different
+options. HCPs should acknowledge adolescents
+and parents may have different views around
+reproductive capacity and may therefore come to
+different decisions (Quain et  al., 2020), which is
+why HCPs can be helpful in guiding this process.
+
+HCPs should specifically pay attention to the
+developmental and psychological aspects of fertility preservation and decision-making competency for the individual adolescent. While
+adolescents may think they have made up their
+minds concerning their reproductive capacity, the
+possibility their opinions about having
+biologically related children in the future might
+change over time needs to be discussed with an
+HCP who has sufficient experience, is knowledgeable about adolescent development, and has
+experience working with parents.
+
+Addressing the long-term consequences on fertility of gender-affirming medical treatments and
+ensuring transgender adolescents have realistic
+expectations concerning fertility preservation
+options or adoption cannot not be addressed with
+a one-time discussion but should be part of an
+ongoing conversation. This conversation should
+occur not only before initiating any medical
+intervention (puberty suppression, hormones, or
+surgeries), but also during further treatment and
+during transition.
+
+Currently, there are only preliminary results
+from retrospective studies evaluating transgender
+adults and the decisions they made when they
+were young regarding the consequences of
+medical-affirming treatment on reproductive
+capacity. It is important not to make assumptions
+about what future adult goals an adolescent may
+have. Research in childhood cancer survivors
+found participants who acknowledged missed
+opportunities for fertility preservation reported
+distress and regret surrounding potential infertility
+(Armuand et  al., 2014; Ellis et  al., 2016; Lehmann
+et al., 2017). Furthermore, individuals with cancer
+who did not prioritize having biological children
+before treatment have reported “changing their
+minds” in survivorship (Armuand et  al., 2014).
+
+Given the complexities of the different fertility
+preservation options and the challenges HCPs
+may experience discussing fertility with the adolescent and the family (Tishelman et  al., 2019),
+a fertility consultation is an important consideration for every transgender adolescent who pursues medical-affirming treatments unless the local
+situation is such that a fertility consultation is
+not covered by insurance or public health care
+plans, is not available locally, or the individual
+circumstances make this unpreferable.
+
+## Statement 6.11: We recommend when gender-affirming medical or surgical treatments are indicated for adolescents, health care professionals working with transgender and gender diverse adolescents involve parent(s)/guardian(s) in the assessment and treatment process, unless their involvement is determined to be harmful to the adolescent or not feasible.
+
+When there is an indication an adolescent
+might benefit from a gender-affirming medical
+or surgical treatment, involving the parent(s) or
+primary caregiver(s) in the assessment process is
+recommended in almost all situations
+(Edwards-Leeper & Spack, 2012; Rafferty et  al.,
+2018). Exceptions to this might include situations
+in which an adolescent is in foster care, child
+protective services, or both, and custody and parent involvement would be impossible, inappropriate, or harmful. Parent and family support of
+TGD youth is a primary predictor of youth
+well-being and is protective of the mental health
+of TGD youth (Gower, Rider, Coleman et  al.,
+2018; Grossman et  al., 2019; Lefevor et  al., 2019;
+McConnell et  al., 2015; Pariseau et  al., 2019;
+Ryan, 2009; Ryan et  al., 2010; Simons et  al., 2013;
+Wilson et  al., 2016). Therefore, including
+parent(s)/caregiver(s) in the assessment process
+to encourage and facilitate increased parental
+understanding and support of the adolescent may
+be one of the most helpful practices available.
+
+Parent(s)/caregiver(s) may provide key information for the clinical team, such as the young person’s gender and overall developmental, medical,
+and mental health history as well as insights into
+the young person’s level of current support, general
+functioning, and well-being. Concordance or divergence of reports given by the adolescent and their
+parent(s)/caregiver(s) may be important information for the assessment team and can aid in
+designing and shaping individualized youth and
+family supports (De Los Reyes et  al., 2019;
+Katz-Wise et  al., 2017). Knowledge of the family
+context, including resilience factors and challenges,
+can help providers know where special supports
+would be needed during the medical treatment
+process. Engagement of parent(s)/caregiver(s) is
+also important for educating families about various
+treatment approaches, ongoing follow-up and care
+needs, and potential treatment complications.
+Through psychoeducation regarding clinical gender
+care options and participation in the assessment
+process, which may unfold over time, parent(s)/
+caregiver(s) may better understand their adolescent
+child’s gender-related experience and needs
+(Andrzejewski et al., 2020; Katz-Wise et al., 2017).
+
+Parent/caregiver concerns or questions regarding the stability of gender-related needs over time
+and implications of various gender-affirming
+interventions are common and should not be
+dismissed. It is appropriate for parent(s)/caregiver(s) to ask these questions, and there are
+cases in which the parent(s)/caregiver(s)’ questions or concerns are particularly helpful in
+informing treatment decisions and plans. For
+example, a parent/caregiver report may provide
+critical context in situations in which a young
+person experiences very recent or sudden
+self-awareness of gender diversity and a corresponding gender treatment request, or when there
+is concern for possible excessive peer and social
+media influence on a young person’s current
+self-gender concept. Contextualization of the parent/caregiver report is also critical, as the report
+of a young person’s gender history as provided
+by parent(s)/caregiver(s) may or may not align
+with the young person’s self-report. Importantly,
+gender histories may be unknown to parent(s)/
+caregiver(s) because gender may be internal experience for youth, not known by others unless it
+is discussed. For this reason, an adolescent’s
+report of their gender history and experience is
+central to the assessment process.
+
+Some parents may present with unsupportive
+or antagonistic beliefs about TGD identities, clinical gender care, or both (Clark et  al., 2020).
+Such unsupportive perspectives are an important
+therapeutic target for families. Although challenging parent perspectives may in some cases seem
+rigid, providers should not assume this is the
+case. There are many examples of parent(s)/caregiver(s) who, over time with support and psychoeducation, have become increasingly accepting
+of their TGD child’s gender diversity and
+care needs.
+
+Helping youth and parent(s)/caregiver(s) work
+together on important gender care decisions is a
+primary goal. However, in some cases, parent(s)/
+caregiver(s) may be too rejecting of their adolescent child and their child’s gender needs to be
+part of the clinical evaluation process. In these
+situations, youth may require the engagement of
+larger systems of advocacy and support to move 
+forward with the necessary support and care
+(Dubin et  al., 2020).
+
+## Statement 6.12: We recommend health care professionals assessing transgender and gender diverse adolescents only recommend gender-affirming medical or surgical treatments requested by the patient when:
+
+### Statement 6.12.a: The adolescent meets the diagnostic criteria of gender incongruence as per the ICD-11 in situations where a diagnosis is necessary to access health care. In countries that have not implemented the latest ICD, other taxonomies may be used although efforts should be undertaken to utilize the latest ICD as soon as practicable.
+
+When working with TGD adolescents, HCPs
+should realize while a classification may give
+access to care, pathologizing transgender identities may be experienced as stigmatizing (Beek
+et  al., 2016). Assessments related to gender health
+and gender diversity have been criticized, and
+controversies exist around diagnostic systems
+(Drescher, 2016).
+
+HCPs should assess the overall gender-related
+history and gender care-related needs of youth.
+Through this assessment process, HCPs may provide a diagnosis when it is required to get access
+to transgender-related care.
+
+Gender incongruence and gender dysphoria
+are the two diagnostic terms used in the World
+Health Organization’s International Classification
+of Diseases (ICD) and the American Psychiatric
+Association’s Diagnostic and Statistical Manual
+of Mental Disorders (DSM), respectively. Of
+these two widely used classification systems, the
+DSM is for psychiatric classifications only and
+the ICD contains all diseases and conditions
+related to physical as well as mental health. The
+most recent versions of these two systems, the
+DSM-5 and the ICD-11, reflect a long history
+of reconceptualizing and de-psychopathologizing
+gender-related diagnoses (American Psychiatric
+Association, 2013; World Health Organization,
+2019a). Compared with the earlier version, the
+DSM-5 replaced gender identity disorder with
+gender dysphoria, acknowledging the distress
+experienced by some people stemming from the
+incongruence between experienced gender identity and the sex assigned at birth. In the most
+recent revision, the DSM-5-TR, no changes in
+the diagnostic criteria for gender dysphoria are
+made. However, terminology was adapted into
+the most appropriate current language (e.g.,
+birth-assigned gender instead of natal-gender
+and gender-affirming treatment instead of gender reassignment (American Psychiatric
+Association, 2022). Compared with the ICD 10th
+edition, the gender incongruence classification
+was moved from the Mental Health chapter to
+the Conditions Related to Sexual Health chapter
+in the ICD-11. When compared with the DSM-5
+classification of gender dysphoria, one important
+reconceptualization is distress is not a required
+indicator of the ICD-11 classification of gender
+incongruence (WHO, 2019a). After all, when
+growing up in a supporting and accepting environment, the distress and impairment criterion,
+an inherent part of every mental health condition, may not be applicable (Drescher, 2012). As
+such, the ICD-11 classification of gender incongruence may better capture the fullness of gender diversity experiences and related clinical
+gender needs.
+
+Criteria for the ICD-11 classification gender
+incongruence of adolescence or adulthood require
+a marked and persistent incongruence between an
+individual´s experienced gender and the assigned
+sex, which often leads to a need to “transition” to
+live and be accepted as a person of the experienced gender. For some, this includes hormonal
+treatment, surgery, or other health care services
+to enable the individual´s body to align as much
+as required, and to the extent possible, with the
+person’s experienced gender. Relevant for adolescents is the indicator that a classification cannot
+be assigned “prior to the onset of puberty.” Finally,
+it is noted “that gender variant behaviour and
+preferences alone are not a basis for assigning the
+classification” (WHO, ICD-11, 2019a).
+
+Criteria for the DSM-5 and DSM-5-TR classification of gender dysphoria in adolescence and
+adulthood denote “a marked incongruence between
+one’s experienced/expressed gender and assigned
+gender, of at least 6 months’ duration’ (criterion
+A, fulfilled when 2 of 6 subcriteria are manifest;
+DSM-5, APA, 2013; DSM 5-TR, APA, 2022).
+
+Of note, although a gender-related classification is one of the requirements for receiving
+medical gender-affirming care, such a classification alone does not indicate a person needs
+medical-affirming care. The range of youth experiences of gender incongruence necessitates professionals provide a range of treatments or
+interventions based on the individual’s needs.
+Counseling, gender exploration, mental health
+assessment and, when needed, treatment with
+MHPs trained in gender development may all be
+indicated with or without the implementation of
+medical-affirming care.
+
+### Statement 6.12.b: The experience of gender diversity/incongruence is marked and sustained over time.
+
+Identity exploration and consolidation are
+experienced by many adolescents (Klimstra et  al.,
+2010; Topolewska-Siedzik & Cieciuch, 2018).
+Identity exploration during adolescence may
+include a process of self-discovery around gender
+and gender identity (Steensma, Kreukels et  al.,
+2013). Little is known about how processes that
+underlie consolidation of gender identity during
+adolescence (e.g., the process of commitment to
+specific identities) may impact a young person’s
+experience(s) or needs over time.
+
+Therefore, the level of reversibility of a
+gender-affirming medical intervention should be
+considered along with the sustained duration of
+a young person’s experience of gender incongruence when initiating treatment. Given potential shifts in gender-related experiences and
+needs during adolescence, it is important to
+establish the young person has experienced several years of persistent gender diversity/incongruence prior to initiating less reversible
+treatments such as gender-affirming hormones
+or surgeries. Puberty suppression treatment,
+which provides more time for younger adolescents to engage their decision-making capacities,
+also raises important considerations (see
+Statement 6.12f and Chapter 12—Hormone
+Therapy) suggesting the importance of a sustained experience of gender incongruence/diversity prior to initiation. However, in this age
+group of younger adolescents, several years is
+not always practical nor necessary given the
+premise of the treatment as a means to buy time
+while avoiding distress from irreversible pubertal
+changes. For youth who have experienced a
+shorter duration of gender incongruence, social
+transition-related and/or other medical supports
+(e.g., menstrual suppression/androgen blocking)
+may also provide some relief as well as furnishing additional information to the clinical team
+regarding a young person’s broad gender care
+needs (see Statements 6.4, 6.6, and 6.7).
+
+Establishing evidence of persistent gender
+diversity/incongruence typically requires careful
+assessment with the young person over time (see
+Statement 6.3). Whenever possible and when
+appropriate, the assessment and discernment process should also include the parent(s)/caregiver(s)
+(see Statement 6.11). Evidence demonstrating
+gender diversity/incongruence sustained over time
+can be provided via history obtained directly
+from the adolescent and parents/caregivers when
+this information is not documented in the medical records.
+
+The research literature on continuity versus
+discontinuity of gender-affirming medical care
+needs/requests is complex and somewhat difficult to interpret. A series of studies conducted
+over the last several decades, including some
+with methodological challenges (as noted by
+Temple Newhook et  al., 2018; Winters et  al.,
+2018) suggest the experience of gender incongruence is not consistent for all children as they
+progress into adolescence. For example, a subset
+of youth who experienced gender incongruence
+or who socially transitioned prior to puberty
+over time can show a reduction in or even full
+discontinuation of gender incongruence (de
+Vries et  al., 2010; Olson et  al., 2022; Ristori &
+Steensma, 2016; Singh et  al., 2021; Wagner et  al.,
+2021). However, there has been less research
+focused on rates of continuity and discontinuity
+of gender incongruence and gender-related needs
+in pubertal and adolescent populations. The data
+available regarding broad unselected
+gender-referred pubertal/adolescent cohorts
+(from the Amsterdam transgender clinic) suggest
+that, following extended assessments over time,
+a subset of adolescents with gender incongruence presenting for gender care elect not to
+pursue gender-affirming medical care
+
+(Arnoldussen et  al., 2019; de Vries, Steensma
+et  al., 2011). Importantly, findings from studies
+of gender incongruent pubertal/adolescent
+cohorts, in which participants who have undergone comprehensive gender evaluation over
+time, have shown persistent gender incongruence
+and gender-related need and have received referrals for medical gender care, suggest low levels
+of regret regarding gender-related medical care
+decisions (de Vries et  al., 2014; Wiepjes et  al.,
+2018). Critically, these findings of low regret
+can only currently be applied to youth who have
+demonstrated sustained gender incongruence
+and gender-related needs over time as established through a comprehensive and iterative
+assessment (see Statement 6.3).
+
+### Statement 6.12.c: The adolescent demonstrates the emotional and cognitive maturity required to provide informed consent/assent for the treatment.
+
+The process of informed consent includes communication between a patient and their provider
+regarding the patient’s understanding of a potential intervention as well as, ultimately, the patient’s
+decision whether to receive the intervention. In
+most settings, for minors, the legal guardian is
+integral to the informed consent process: if a
+treatment is to be given, the legal guardian (often
+the parent[s]/caregiver[s]) provides the informed
+consent to do so. In most settings, assent is a
+somewhat parallel process in which the minor
+and the provider communicate about the intervention and the provider assesses the level of
+understanding and intention.
+
+A necessary step in the informed consent/
+assent process for considering gender-affirming
+medical care is a careful discussion with qualified
+HCPs trained to assess the emotional and cognitive maturity of adolescents. The reversible and
+irreversible effects of the treatment, as well as
+fertility preservation options (when applicable),
+and all potential risks and benefits of the intervention are important components of the discussion. These discussions are required when
+obtaining informed consent/assent. Assessment
+of cognitive and emotional maturity is important
+because it helps the care team understand the
+adolescent’s capacity to be informed.
+
+The skills necessary to assent/consent to any
+medical intervention or treatment include the
+ability to 1) comprehend the nature of the treatment; 2) reason about treatment options, including the risks and benefits; 3) appreciate the nature
+of the decision, including the long-term consequences; and 4) communicate choice
+(Grootens-Wiegers et  al., 2017). In the case of
+gender- affirming medical treatments, a young
+person should be well-informed about what the
+treatment may and may not accomplish, typical
+timelines for changes to appear (e.g., with
+gender-affirming hormones), and any implications
+of stopping the treatment. Gender-diverse youth
+should fully understand the reversible, partially
+reversible, and irreversible aspects of a treatment,
+as well as the limits of what is known about certain treatments (e.g., the impact of pubertal suppression on brain development (Chen and Loshak,
+2020)). Gender-diverse youth should also understand, although many gender-diverse youth begin
+gender- affirming medical care and experience
+that care as a good fit for them long-term, there
+is a subset of individuals who over time discover
+this care is not a fit for them (Wiepjes et  al.,
+2018). Youth should know such shifts are sometimes connected to a change in gender needs over
+time, and in some cases, a shift in gender identity
+itself. Given this information, gender diverse
+youth must be able to reason thoughtfully about
+treatment options, considering the implications of
+the choices at hand. Furthermore, as a foundation
+for providing assent, the gender-diverse young
+person needs to be able to communicate
+their choice.
+
+The skills needed to accomplish the tasks
+required for assent/consent may not emerge at
+specific ages per se (Grootens-Wiegers et  al.,
+2017). There may be variability in these capacities
+related to developmental differences and mental
+health presentations (Shumer & Tishelman, 2015)
+and dependent on the opportunities a young person has had to practice these skills (Alderson,
+2007). Further, assessment of emotional and cognitive maturity must be conducted separately for
+each gender-related treatment decision
+(Vrouenraets et  al., 2021).
+
+The following questions may be useful to consider in assessing a young person’s emotional and
+cognitive readiness to assent or consent to a specific gender-affirming treatment:
+
+- Can the young person think carefully into the future and consider the implications of a partially or fully irreversible intervention?
+- Does the young person have sufficient self-reflective capacity to consider the possibility that gender-related needs and priorities can develop over time, and gender-related priorities at a certain point in time might change?
+- Has the young person, to some extent, thought through the implications of what they might do if their priorities around gender do change in the future?
+- Is the young person able to understand and manage the day-to-day short- and long-term aspects of a specific medical treatment (e.g., medication adherence, administration, and necessary medical follow-ups)?
+
+Assessment of emotional and cognitive maturity may be accomplished over time as the care
+team continues to engage in conversations about
+the treatment options and affords the young person the opportunity to practice thinking into
+the future and flexibly consider options and
+implications. For youth with neurodevelopmental
+and/or some types of mental health differences,
+skills for future thinking, planning, big picture
+thinking, and self-reflection may be less-well
+developed (Dubbelink & Geurts, 2017). In these
+cases, a more careful approach to consent and
+assent may be required, and this may include
+additional time and structured opportunities for
+the young person to practice the skills necessary
+for medical decision-making (Strang, Powers
+et  al., 2018).
+
+For unique situations in which an adolescent
+minor is consenting for their own treatment without parental permission (see Statement 6.11),
+extra care must be taken to support the adolescent’s informed decision-making. This will typically require greater levels of engagement of and
+collaboration between the HCPs working with
+the adolescent to provide the young person
+appropriate cognitive and emotional support to
+consider options, weigh benefits and potential
+challenges/costs, and develop a plan for any
+needed (and potentially ongoing) supports associated with the treatment.
+
+### Statement 6.12.d: The adolescent’s mental health concerns (if any) that may interfere with diagnostic clarity, capacity to consent, and/or gender-affirming medical treatments have been addressed.
+
+Evidence indicates TGD adolescents are at
+increased risk of mental health challenges, often
+related to family/caregiver rejection, non-affirming
+community environments, and neurodiversityrelated factors (e.g., de Vries et  al., 2016; Pariseau
+et  al., 2019; Ryan et  al., 2010; Weinhardt et  al.,
+2017). A young person’s mental health challenges
+may impact their conceptualization of their gender development histor y and gender
+identity-related needs, the adolescent’s capacity
+to consent, and the ability of the young person
+to engage in or receive medical treatment.
+Additionally, like cisgender youth, TGD youth
+may experience mental health concerns irrespective of the presence of gender dysphoria or gender incongruence. In particular, depression and
+self-harm may be of specific concern; many studies reveal depression scores and emotional and
+behavioral problems comparable to those reported
+in populations referred to mental health clinics
+(Leibowitz & de Vries, 2016). Higher rates of
+suicidal ideation, suicide attempts, and self-harm
+have also been reported (de Graaf et  al., 2020).
+In addition, eating disorders occur more frequently than expected in non-referred populations (Khatchadourian et  al., 2013; Ristori et  al.,
+2019; Spack et  al., 2012). Importantly, TGD adolescents show high rates of autism spectrum disorder/characteristics (Øien et  al., 2018; van der
+Miesen et  al., 2016; see also Statement 6.1d).
+Other neurodevelopmental presentations and/or
+mental health challenges may also be present,
+(e.g., ADHD, intellectual disability, and psychotic
+disorders (de Vries, Doreleijers et al., 2011; Meijer
+et  al., 2018; Parkes & Hall, 2006).
+
+Of note, many transgender adolescents are
+well-functioning and experience few if any mental
+health concerns. For example, socially transitioned pubertal adolescents who receive medical 
+gender- affirming treatment at specialized gender
+clinics may experience mental health outcomes
+equivalent to those of their cisgender peers (e.g.,
+de Vries et  al., 2014; van der Miesen et  al., 2020).
+A provider’s key task is to assess the direction
+of the relationships that exist between any mental
+health challenges and the young person’s
+self-understanding of gender care needs and then
+prioritize accordingly.
+
+Mental health difficulties may challenge the
+assessment and treatment of gender-related needs
+of TGD adolescents in various ways:
+
+1. First, when a TGD adolescent is experiencing acute suicidality, self-harm, eating disorders, or other mental health crises that threaten physical health, safety must be prioritized. According to the local context and existing guidelines, appropriate care should seek to mitigate the threat or crisis so there is sufficient time and stabilization for thoughtful gender-related assessment and decision-making. For example, an actively suicidal adolescent may not be emotionally able to make an informed decision regarding gender-affirming medical/surgical treatment. If indicated, safety-related interventions should not preclude starting gender-affirming care.
+2. Second, mental health can also complicate the assessment of gender development and gender identity-related needs. For example, it is critical to differentiate gender incongruence from specific mental health presentations, such as obsessions and compulsions, special interests in autism, rigid thinking, broader identity problems, parent/child interaction difficulties, severe
+developmental anxieties (e.g., fear of growing up and pubertal changes unrelated to gender identity), trauma, or psychotic thoughts. Mental health challenges that interfere with the clarity of identity development and gender-related decision-making should be prioritized and addressed.
+3. Third, decision-making regarding gender-affirming medical treatments that have life-long consequences requires thoughtful, future-oriented thinking by the adolescent, with support from the parents/ caregivers, as indicated (see Statement 6.11). To be able to make such an informed decision, an adolescent should be able to understand the issues, express a choice, appreciate and give careful thought regarding the wish for medical-affirming treatment (see Statement 6.12c). Neurodevelopmental differences, such as autistic features or autism spectrum disorder (see Statement 6.1d, e.g., communication differences; a preference for concrete or rigid thinking; differences in self-awareness, future thinking and planning), may challenge the assessment and decision-making process; neurodivergent youth may require extra support, structure, psychoeducation, and time built into the assessment process (Strang, Powers et  al., 2018). Other mental health presentations that involve reduced communication and self-advocacy, difficulty engaging in assessment, memory and concentration difficulties, hopelessness, and difficulty engaging in future-oriented thinking may complicate assessment and decision-making. In such cases, extended time is often necessary before any decisions regarding medical-affirming treatment can be made.
+4. Finally, while addressing mental health concerns is important during the course of medical treatment, it does not mean all mental health challenges can or should be resolved completely. However, it is important any mental health concerns are addressed sufficiently so that gender -affirming medical treatment can be provided optimally (e.g., medication adherence, attending follow-up medical appointments, and self-care, particularly during a postoperative course).
+
+### Statement 6.12.e: The adolescent has been informed of the reproductive effects, including the potential loss of fertility, and available options to preserve fertility, and these have been discussed in the context of the adolescent’s stage of pubertal development.
+
+
+For guidelines regarding the clinical approach,
+the scientific background, and the rationale, see
+Chapter 12—Hormone Therapy and Chapter 16—
+Reproductive Health.
+
+### Statement 6.12.f: The adolescent has reached Tanner stage 2 of puberty for pubertal suppression to be initiated.
+
+The onset of puberty is a pivotal point for
+many gender diverse youth. For some, it creates
+an intensification of their gender incongruence,
+and for others, pubertal onset may lead to gender
+fluidity (e.g., a transition from binary to nonbinary gender identity) or even attenuation of a
+previously affirmed gender identity (Drummond
+et  al., 2008; Steensma et  al., 2011, Steensma,
+Kreukels et  al., 2013; Wallien & Cohen-Kettenis,
+2008). The use of puberty-blocking medications,
+such as GnRH analogues, is not recommended
+until children have achieved a minimum of
+Tanner stage 2 of puberty because the experience
+of physical puberty may be critical for further
+gender identity development for some TGD adolescents (Steensma et  al., 2011). Therefore,
+puberty blockers should not be implemented in
+prepubertal gender diverse youth (Waal &
+Cohen-Kettenis, 2006). For some youth, GnRH
+agonists may be appropriate in late stages or in
+the post-pubertal period (e.g., Tanner stage 4 or
+5), and this should be highly individualized. See
+Chapter 12—Hormone Therapy for a more comprehensive review of the use of GnRH agonists.
+
+Variations in the timing of pubertal onset is
+due to multiple factors (e.g., sex assigned at birth,
+genetics, nutrition, etc.). Tanner staging refers to
+five stages of pubertal development ranging from
+prepubertal (Tanner stage 1) to post-pubertal,
+and adult sexual maturity (Tanner stage 5)
+(Marshall & Tanner, 1969, 1970). For assigned
+females at birth, pubertal onset (e.g., gonadarche)
+is defined by the occurrence of breast budding
+(Tanner stage 2), and for birth-assigned males,
+the achievement of a testicular volume of greater
+than or equal to 4 mL (Roberts & Kaiser, 2020).
+An experienced medical provider should be relied
+on to differentiate the onset of puberty from
+physical changes such as pubic hair and apocrine
+body odor due to sex steroids produced by the
+adrenal gland (e.g., adrenarche) as adrenarche
+does not warrant the use of puberty-blocking
+medications (Roberts & Kaiser, 2020). Educating
+parents and families about the difference between
+adrenarche and gonadarche helps families understand the timing during which shared
+decision-making about gender-affirming medical
+therapies should be undertaken with their multidisciplinary team.
+
+The importance of addressing other risks and
+benefits of pubertal suppression, both hypothetical and actual, cannot be overstated. Evidence
+supports the existence of surgical implications for
+transgender girls who proceed with pubertal suppression (van de Grift et  al., 2020). Longitudinal
+data exists to demonstrate improvement in
+romantic and sexual satisfaction for adolescents
+receiving puberty suppression, hormone treatment
+and surgery (Bungener et  al., 2020). A study on
+surgical outcomes of laparoscopic intestinal vaginoplasty (performed because of limited genital
+tissue after the use of puberty blockers) in transgender women revealed that the majority experienced orgasm after surgery (84%), although a
+specific correlation between sexual pleasure outcomes and the timing of pubertal suppression
+initiation was not discussed in the study (Bouman,
+van der Sluis et  al., 2016), nor does the study
+apply to those who would prefer a different surgical procedure. This underscores the importance
+of engaging in discussions with families about
+the future unknowns related to surgical and sexual health outcomes.
+
+### Statement 6.12.g: The adolescent had at least 12 months of gender-affirming hormone therapy or longer, if required, to achieve the desired surgical result for gender-affirming procedures, including breast augmentation, orchiectomy, vaginoplasty, hysterectomy, phalloplasty, metoidioplasty, and facial surgery as part of gender-affirming treatment unless hormone therapy is either not desired or is medically contraindicated.
+
+GAHT leads to anatomical, physiological, and
+psychological changes. The onset of the anatomic
+effects (e.g., clitoral growth, breast growth, vaginal mucosal atrophy) may begin early after the
+initiation of therapy, and the peak effect is
+expected at 1–2 years (T'Sjoen et  al., 2019). To
+ensure sufficient time for psychological adaptations to the physical change during an important
+developmental time for the adolescent, 12 months
+of hormone treatment is suggested. Depending
+upon the surgical result required, a period of
+hormone treatment may need to be longer (e.g.,
+sufficient clitoral virilization prior to metoidioplasty/phalloplasty, breast growth and skin expansion prior to breast augmentation, softening of
+skin and changes in facial fat distribution prior
+to facial GAS) (de Blok et  al., 2021).
+
+For individuals who are not taking hormones
+prior to surgical interventions, it is important
+surgeons review the impact of hormone therapy
+on the proposed surgery. In addition, for individuals undergoing gonadectomy who are not
+taking hormones, a plan for hormone replacement can be developed with their prescribing
+professional prior to surgery.
+
+## Consideration of ages for gender-affirming medical and surgical treatment for adolescents {-}
+
+Age has a strong, albeit imperfect, correlation
+with cognitive and psychosocial development and
+may be a useful objective marker for determining
+the potential timing of interventions (Ferguson
+et  al., 2021). Higher (i.e., more advanced) ages
+may be required for treatments with greater irreversibility, complexity, or both. This approach
+allows for continued cognitive/emotional maturation that may be required for the adolescent
+to fully consider and consent to increasingly complex treatments (see Statement 6.12c).
+
+A growing body of evidence indicates providing gender-affirming treatment for gender diverse
+youth who meet criteria leads to positive outcomes (Achille et  al., 2020; de Vries et  al., 2014;
+Kuper et  al., 2020). There is, however, limited
+data on the optimal timing of gender-affirming
+interventions as well as the long-term physical,
+psychological, and neurodevelopmental outcomes
+in youth (Chen et  al., 2020; Chew et  al., 2018;
+Olson-Kennedy et  al., 2016). Currently, the only
+existing longitudinal studies evaluating gender
+diverse youth and adult outcomes are based on
+a specific model (i.e., the Dutch approach) that
+involved a comprehensive initial assessment with
+follow-up. In this approach, pubertal suppression
+was considered at age 12, GAHT at age 16, and
+surgical interventions after age 18 with exceptions
+in some cases. It is not clear if deviations from
+this approach would lead to the same or different
+outcomes. Longitudinal studies are currently
+underway to better define outcomes as well as
+the safety and efficacy of gender-affirming treatments in youth (Olson-Kennedy, Garofalo et  al.,
+2019; Olson-Kennedy, Rosenthal et  al., 2019).
+While the long-term effects of gender-affirming
+treatments initiated in adolescence are not fully
+known, the potential negative health consequences
+of delaying treatment should also be considered
+(de Vries et  al., 2021). As the evidence base
+regarding outcomes of gender-affirming interventions in youth continues to grow, recommendations on the timing and readiness for these
+interventions may be updated.
+
+Previous guidelines regarding gender-affirming
+treatment of adolescents recommended partially
+reversible GAHT could be initiated at approximately 16 years of age (Coleman et  al., 2012;
+Hembree et  al., 2009). More recent guidelines
+suggest there may be compelling reasons to initiate GAHT prior to the age of 16, although
+there are limited studies on youth who have
+initiated hormones prior to 14 years of age
+(Hembree et  al., 2017). A compelling reason for
+earlier initiation of GAHT, for example, might
+be to avoid prolonged pubertal suppression,
+given potential bone health concerns and the
+psychosocial implications of delaying puberty as
+described in more detail in Chapter 12—
+Hormone Therapy (Klink, Caris et  al., 2015;
+Schagen et  al., 2020; Vlot et  al., 2017; Zhu &
+Chan, 2017). Puberty is a time of significant
+brain and cognitive development. The potential
+neurodevelopmental impact of extended pubertal
+suppression in gender diverse youth has been
+specifically identified as an area in need of continued study (Chen et  al., 2020). While GnRH
+analogs have been shown to be safe when used
+for the treatment of precocious puberty, there
+are concerns delaying exposure to sex hormones
+(endogenous or exogenous) at a time of peak
+bone mineralization may lead to decreased bone
+mineral density. The potential decrease in bone
+mineral density as well as the clinical significance of any decrease requires continued study
+(Klink, Caris et  al., 2015; Lee, Finlayson et  al.,
+2020; Schagen et  al., 2020). The potential negative psychosocial implications of not initiating
+puberty with peers may place additional stress
+on gender diverse youth, although this has not
+been explicitly studied. When considering the
+timing of initiation of gender-affirming hormones, providers should compare the potential
+physical and psychological benefits and risks of
+starting treatment with the potential risks and
+benefits of delaying treatment. This process can
+also help identify compelling factors that may
+warrant an individualized approach.
+
+Studies carried out with trans masculine youth
+have demonstrated chest dysphoria is associated
+with higher rates of anxiety, depression, and distress and can lead to functional limitations, such
+as avoiding exercising or bathing (Mehringer
+et  al., 2021; Olson-Kennedy, Warus et  al., 2018;
+Sood et  al., 2021). Testosterone unfortunately
+does little to alleviate this distress, although chest
+masculinization is an option for some individuals
+to address this distress long-term. Studies with
+youth who sought chest masculinization surgery
+to alleviate chest dysphoria demonstrated good
+surgical outcomes, satisfaction with results, and
+minimal regret during the study monitoring
+period (Marinkovic & Newfield, 2017;
+Olson-Kennedy, Warus et  al., 2018). Chest masculinization surgery can be considered in minors
+when clinically and developmentally appropriate
+as determined by a multidisciplinary team experienced in adolescent and gender development
+(see relevant statements in this chapter). The
+duration or current use of testosterone therapy
+should not preclude surgery if otherwise indicated. The needs of some TGD youth may be
+met by chest masculinization surgery alone.
+Breast augmentation may be needed by trans
+feminine youth, although there is less data about
+this procedure in youth, possibly due to fewer
+individuals requesting this procedure (Boskey
+et  al., 2019; James, 2016). GAHT, specifically
+estrogen, can help with development of breast
+tissue, and it is recommended youth have a minimum of 12 months of hormone therapy, or longer as is surgically indicated, prior to breast
+augmentation unless hormone therapy is not
+clinically indicated or is medically
+contraindicated.
+
+Data are limited on the optimal timing for initiating other gender-affirming surgical treatments
+in adolescents. This is partly due to the limited
+access to these treatments, which varies in different geographical locations (Mahfouda et al., 2019).
+Data indicate rates of gender-affirming surgeries
+have increased since 2000, and there has been an
+increase in the number of TGD youth seeking
+vaginoplasty (Mahfouda et  al., 2019; Milrod &
+Karasic, 2017). A 2017 study of 20 WPATH-affiliated
+surgeons in the US reported slightly more than
+half had performed vaginoplasty in minors (Milrod
+& Karasic, 2017). Limited data are available on
+the outcomes for youth undergoing vaginoplasty.
+Small studies have reported improved psychosocial
+functioning and decreased gender dysphoria in
+adolescents who have undergone vaginoplasty
+(Becker et al., 2018; Cohen-Kettenis & van Goozen,
+1997; Smith et  al.,2001). While the sample sizes
+are small, these studies suggest there may be a
+benefit for some adolescents to having these procedures performed before the age of 18. Factors
+that may support pursuing these procedures for
+youth under 18 years of age include the increased
+availability of support from family members,
+greater ease of managing postoperative care prior
+to transitioning to tasks of early adulthood (e.g.,
+entering university or the workforce), and safety
+concerns in public spaces (i.e., to reduce transphobic violence) (Boskey et al., 2018; Boskey et al.,
+2019; Mahfouda et al., 2019). Given the complexity
+and irreversibility of these procedures, an assessment of the adolescent’s ability to adhere to postsurgical care recommendations and to comprehend
+the long-term impacts of these procedures on
+reproductive and sexual function is crucial (Boskey
+et  al., 2019). Given the complexity of phalloplasty,
+and current high rates of complications in comparison to other gender-affirming surgical treatments, it is not recommended this surgery be
+considered in youth under 18 at this time (see
+Chapter 13—Surgery and Postoperative Care).
+
+Additional key factors that should be taken
+into consideration when discussing the timing of
+interventions with youth and families are
+addressed in detail in statements 6.12a-f. For a
+summary of the criteria/recommendations for
+medically necessary gender-affirming medical
+treatment in adolescents, see Appendix D.
