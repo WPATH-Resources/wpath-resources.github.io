@@ -1,6 +1,6 @@
 # Introduction {-}
 
-## Purpose and use of the Standards of Care
+## Purpose and use of the Standards of Care {-}
 
 The overall goal of the World Professional
 Association for Transgender Health’s (WPATH)
@@ -71,7 +71,7 @@ Assessment for Adults and Adolescent chapters).
 A summary of the recommendations and criteria
 for GAMST can be found in Appendix D.
 
-## Populations included in the SOC-8
+## Populations included in the SOC-8 {-}
 
 In this document, we use the phrase transgender
 and gender diverse (TGD) to be as broad and
@@ -163,7 +163,7 @@ consider the full range of health services open
 to them in accordance with their clinical needs
 for gender expression.
 
-## Diversity versus Diagnosis
+## Diversity versus Diagnosis {-}
 
 The expression of gender characteristics, including identities, that are not stereotypically associated with one’s sex assigned at birth is a common
 and a culturally diverse human phenomenon that
@@ -205,7 +205,7 @@ in some countries these diagnoses may facilitate
 access to medically necessary health care and can
 guide further research into effective treatments.
 
-## Health care services
+## Health care services {-}
 
 The goal of gender-affirming care is to partner
 with TGD people to holistically address their
@@ -246,7 +246,7 @@ by family members or religious communities to
 undergo conversion therapy. WPATH strongly
 recommends against any use of reparative or conversion therapy (see statements 6.5 and 18.10).
 
-## Health care settings
+## Health care settings {-}
 
 The SOC-8 are guidelines rooted in the fundamental rights of TGD people that apply to all
 settings in which health care is provided regardless
@@ -278,7 +278,7 @@ the principles of gender-affirming care as outlined
 in the SOC-8 should be adapted to align with
 local sociocultural, political, and medical contexts.
 
-## Methodology
+## Methodology {-}
 
 This version of the Standards of Care (SOC-8)
 is based upon a more rigorous and methodological evidence-based approach than previous versions. This evidence is not only based on the
@@ -315,7 +315,7 @@ that included all members of the guidelines committee and required that recommen
 A detailed overview of the SOC-8 Methodology
 is included in Appendix A.
 
-## SOC-8 Chapters Summary
+## SOC-8 Chapters Summary {-}
 
 The SOC-8 represents a significant advancement
 from previous versions. Changes in this version
@@ -343,7 +343,7 @@ the SOC-8 is considerably longer than previous
 versions and provides a more in-depth introduction and recommendations for health care professionals. A summary of every chapter of the
 SOC-8 can be found below:
 
-### Chapter 1—Terminology
+### Chapter 1—Terminology {-}
 
 This new chapter lays the framework for language
 used in the SOC-8 and offers consensually agreed
@@ -353,7 +353,7 @@ Appendix B) of common terms and language to
 provide a framework for use and interpretation
 of the SOC-8.
 
-### Chapter 2—Global Applicability
+### Chapter 2—Global Applicability {-}
 
 This chapter references key literature related to
 development and delivery of health care services,
@@ -362,7 +362,7 @@ beyond Western Europe and North America and
 provides recommendations for adapting and
 translating the SOC-8 to varied contexts.
 
-### Chapter 3—Population Estimates
+### Chapter 3—Population Estimates {-}
 
 This chapter updates the population estimates of
 TGD people in society. Based on the current
@@ -370,7 +370,7 @@ evidence, this proportion may range from a fraction of a percent to several perc
 depending on the inclusion criteria, age group,
 and geographic location.
 
-### Chapter 4—Education
+### Chapter 4—Education {-}
 
 This new chapter provides a general review of
 the literature related to education in TGD health
@@ -382,7 +382,7 @@ in the education area and invite a much broader
 and deeper discussion among educators and
 health care professionals.
 
-### Chapter 5—Assessment of Adults
+### Chapter 5—Assessment of Adults {-}
 
 This new chapter provides guidance on the
 assessment of TGD adults who are requesting
@@ -391,7 +391,7 @@ gender-affirming medical and surgical treatments
 approach and the criteria that health care professionals may follow in order to recommend
 GAMSTs to TGD adults.
 
-### Chapter 6—Adolescents
+### Chapter 6—Adolescents {-}
 
 This new chapter is dedicated to TGD adolescents,
 is distinct from the child chapter, and has been
@@ -402,14 +402,14 @@ provides recommendations regarding the assessment process of adolescents requiri
 well as recommendations when working with TGD
 youth and their families.
 
-### Chapter 7—Children
+### Chapter 7—Children {-}
 
 This new chapter pertains to prepubescent gender
 diverse children and focuses on developmentally
 appropriate psychosocial practices and therapeutic
 approaches.
 
-### Chapter 8—Nonbinary
+### Chapter 8—Nonbinary {-}
 
 This new chapter in the SOC-8 consists of a
 broad description of the term nonbinary and its
@@ -418,26 +418,29 @@ gender-affirming care, specific gender-affirming
 medical interventions, as well as an appropriate
 level of support is discussed.
 
-### Chapter 9—Eunuchs
+### Chapter 9—Eunuchs {-}
 
 This new chapter describes the unique needs of
 eunuchs, and how the SOC can be applied to
 this population.
 
-### Chapter 10—Intersex
+### Chapter 10—Intersex {-}
+
 This chapter focuses on the clinical care of intersex individuals. It addresses the evolving terminology, prevalence, and diverse presentations of
 such individuals and provides recommendations
 for providing psychosocial and medical care with
 their evidence-based explanations.
 
-### Chapter 11—Institutional Environments
+### Chapter 11—Institutional Environments {-}
+
 This chapter has been expanded to include both
 carceral and non-carceral settings and has been
 built upon the last 3 versions of the SOC. This
 chapter describes how the SOC-8 can be applied
 to individuals living in these settings.
 
-### Chapter 12—Hormone Therapy
+### Chapter 12—Hormone Therapy {-}
+
 This chapter describes the initiation of
 gender-affirming hormone therapy, the recommended
 regimens, screening for health concerns before and
@@ -450,26 +453,27 @@ include the development of potential therapy-related
 health concerns, and guidance on how hormone
 providers should collaborate with surgeons.
 
-### Chapter 13—Surgery and Postoperative Care
+### Chapter 13—Surgery and Postoperative Care {-}
+
 This chapter describes a spectrum of
 gender-affirming surgical procedures for the
 diverse and heterogeneous community of individuals who identify as TGD. It provides a discussion about the optimal surgical training in
 GAS procedures, post-surgical aftercare and
 follow-up, access to surgery by adults and adolescents, and individually customized surgeries.
 
-### Chapter 14—Voice and Communication
+### Chapter 14—Voice and Communication {-}
 
 This chapter describes professional voice and communication support and interventions that are inclusive of and attentive to all aspects of diversity and
 no longer limited only to voice feminization and
 masculinization. Recommendations are now framed
 as affirming the roles and responsibilities of professionals involved in voice and communication support.
 
-### Chapter 15—Primary Care
+### Chapter 15—Primary Care {-}
 
 This chapter discusses the importance of primary
 care for TGD individuals, including topics of cardiovascular and metabolic health, cancer screening, and primary care systems.
 
-### Chapter 16—Reproductive Health
+### Chapter 16—Reproductive Health {-}
 
 This chapter provides recent data on fertility perspectives and parenthood goals in gender diverse
 youth and adults, advances in fertility preservation methods (including tissue cryopreservation),
@@ -478,13 +482,14 @@ care, prenatal counseling, and chest feeding.
 Contraceptive methods and considerations for
 TGD individuals are also reviewed.
 
-### Chapter 17—Sexual Health
+### Chapter 17—Sexual Health {-}
+
 This new chapter acknowledges the profound
 impact of sexual health on physical and psychological well-being for TGD people. The chapter
 advocates for sexual functioning, pleasure, and
 satisfaction to be included in TGD-related care.
 
-### Chapter 18—Mental Health
+### Chapter 18—Mental Health {-}
 
 This chapter discusses principles of care for managing mental health conditions in TGD adults
 and the nexus of mental health care and transition care. Psychotherapy may be beneficial but
