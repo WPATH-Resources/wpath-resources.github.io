@@ -856,7 +856,7 @@ characteristics, and genital tucking could theoretically affect spermatogenesis 
 studies evaluating these adverse outcomes. Further
 research is needed to determine the specific benefits and risks of tucking in youth.
 
-### Statement 6.7 We recommend providers consider prescribing menstrual suppression agents for adolescents experiencing gender incongruence who may not desire testosterone therapy, who desire but have not yet begun testosterone therapy, or in conjunction with testosterone therapy for breakthrough bleeding.
+## Statement 6.7 We recommend providers consider prescribing menstrual suppression agents for adolescents experiencing gender incongruence who may not desire testosterone therapy, who desire but have not yet begun testosterone therapy, or in conjunction with testosterone therapy for breakthrough bleeding.
 
 When discussing the available options of
 menstrual-suppressing medications with gender
