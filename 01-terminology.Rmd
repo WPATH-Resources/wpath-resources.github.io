@@ -1,0 +1,250 @@
+# Terminology
+
+This chapter will lay the framework for language used in the SOC-8. It offers recommendations for use of terminology. It provides (1)
+terms and definitions, and (2) best practices
+for utilizing them. This document is accompanied by a glossary of common terms and language to provide a framework for use and
+interpretation of the SOC-8. See Appendix B
+for glossary
+
+## Terminology {-}
+In this document, we use the phrase transgender
+and gender diverse (TGD) to be as broad and
+comprehensive as possible in describing members
+of the many varied communities globally of people with gender identities or expressions that
+differ from the gender socially attributed to the
+sex assigned to them at birth. This includes people who have culturally specific and/or
+language-specific experiences, identities or expressions, and/or that are not based on or encompassed by Western conceptualizations of gender,
+or the language used to describe it. TGD is used
+for convenience as a shorthand for transgender
+and gender diverse.
+
+The decision to use transgender and gender
+diverse resulted from an active process and was
+not without controversy. Discussions centered on
+avoiding over-emphasis on the term transgender,
+integrating nonbinary gender identities and experiences, recognizing global variations in understandings of gender, avoiding the term gender
+nonconforming, and recognizing the changing
+nature of language because what is current now
+may not be so in coming years. Thus, the term
+transgender and gender diverse was chosen with
+the intent to be most inclusive and to highlight
+the many diverse gender identities, expressions,
+experiences, and health care needs of TGD people. A Delphi process was used wherein SOC-8
+chapter authors were anonymously and iteratively
+surveyed over several rounds to obtain consensus
+on terms. The SOC-8 presents standards of care
+that strive to be applicable to TGD people globally, no matter how a person self-identifies or
+expresses their gender.
+
+## Context {-}
+
+The language selected in this chapter may not
+be (nor ever could be) comprehensive of every
+culture and geographic region/locale. Differences
+and debates over appropriate terms and specific
+terminologies are common, and no single term
+can be used without controversy. The goal of this
+chapter is to be as inclusive as possible and offer
+a shared vocabulary that is respectful and reflective of varied experiences of TGD people while
+remaining accessible to health practitioners and
+providers, and the public, for the purposes of
+this document. Ultimately, access to
+transition-related health care should be based on
+providing adequate information and obtaining
+informed consent from the individual, and not
+on what words TGD people, or their service providers, use to describe their identities. Using language and terminology that is respectful and
+culturally responsive is a basic foundation in the
+provision of affirming care, as is reducing the
+stigma and harm experienced by many TGD people seeking health care. It is vital for service providers to discuss with service users what language
+is most comfortable for them and to use that
+language whenever possible.
+
+This chapter explains why current terms are
+being used in preference to others. Rather than
+use specific terms for medical, legal, and advocacy groups, the aim is to foster a shared language and understanding in the field of TGD
+health, and the many related fields (e.g., epidemiology, law), in order to optimize the health of
+transgender and gender diverse people.
+
+Sex, gender, gender identity, and gender
+expression are used in the English language as
+descriptors that can apply to all people—those
+who are TGD, and those who are not. There are
+complex reasons why very specific language may
+be the most respectful, most inclusive, or most
+accepted by global TGD communities, including
+the presence or absence of words to describe
+these concepts in languages other than English;
+the structural relationship between sex and gender; legal landscapes at the local, national, and
+international levels; and the consequences of historical and present-day stigma that TGD people face.
+
+Because at present, the field of TGD health is
+heavily dominated by the English language, there
+are two specific problems that constantly arise in
+setting the context for terminology. The first
+problem is that words exist in English that do
+not exist in other languages (e.g., “sex” and “gender” are only represented by one word in Urdu
+and many other languages). The second problem
+is that there are words that exist outside of
+English that do not have a direct translation into
+English (e.g., *travesti*, *fa’afafine*, *hijra*, *selrata*,
+*muxe*, *kathoey*, *transpinoy*, *waria*, *machi*).
+Practically, this means the heavy influence of
+English in this field impacts both what terms are
+widely used and which people or identities are
+most represented or validated by those terms.
+The words used also shape the narratives that
+contribute to beliefs and perceptions. While in
+past versions of the Standards of Care, World
+Professional Association for Transgender Health
+(WPATH) has used only transgender as a broadly
+defined umbrella term, version 8 broadens this
+language to use TGD as the umbrella term
+throughout the document (see Chapter 2—Global
+Applicability).
+
+Furthermore, the ever-evolving nature of language is impacted by external factors and the
+social, structural, and personal pressures and violence enacted on TGD people and their bodies.
+Many of the terms and phrases used historically
+have been marred by how, when, and why they
+were used in discussing TGD people, and have
+thus fallen out of use or are hotly contested among
+TGD people, with some individuals preferring
+terms others find offensive. Some wish that these
+Standards of Care could provide a coherent set of
+universally accepted terms to describe TGD people, identities, and related health services. Such a
+list, however, does not and cannot exist without
+exclusion of some people and without reinforcing
+structural oppressions, with regards to race, 
+national origin, Indigenous status, socioeconomic
+status, religion, language(s) spoken, and ethnicity,
+among other intersectionalities. It is very likely
+that at least some of the terminology used in
+SOC-8 will be outdated by the time version 9 is
+developed. Some people will be frustrated by this
+reality, but it is hoped it will be seen instead as
+an opportunity for individuals and communities
+to develop and refine their own lexicons and for
+people to develop a still more nuanced understanding of the lives and needs of TGD people,
+including TGD people’s resilience and resistance
+to oppression.
+
+Finally, law and the work of legal professionals
+are within the remit of these Standards of Care.
+As such, language used most widely in international law is included here to help with the development of the functional definitions of these terms
+and encourage their usage in legal contexts in lieu
+of more antiquated and/or offensive terms. The
+currently most thorough document in international
+human rights law uses the term “gender diverse.”
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In some
+cases, we recognize evidence is limited and/or
+services may not be accessible or desirable.
+
+## Statement 1.1: We recommend health care professionals use culturally relevant language (including terms to describe transgender and gender diverse people) when applying the Standards of Care in different global settings.
+
+Culturally relevant language is used to describe
+TGD people in different global settings. For example, the concepts of sex, gender, and gender diversity
+differ across contexts, as does the language used to
+describe them. Thus, the language used when caring 
+for TGD people in Thailand is not going to be the
+same as that used for TGD care in Nigeria. When
+applying the Standards of Care globally, we recommend health care professionals (HCPs) utilize local
+language and terms to deliver care in their specific
+cultural and/or geographical locale.
+
+Gender affirmation refers to the process of recognizing or affirming TGD people in their gender
+identity—whether socially, medically, legally, behaviorally, or some combination of these (Reisner,
+Poteat et  al., 2016). Health care that is
+gender-affirming or trans-competent utilizes culturally specific language in caring for TGD people.
+
+Gender-affirming care is not synonymous with
+transition-related care. Provision of transition-related
+care, such as medical gender affirmation via hormones or surgery, does not alone ensure provision
+of gender-affirming care, nor does it indicate the
+quality or safety of the health care provided.
+
+Consultation and partnerships with TGD communities can help to ensure relevancy and inclusivity of the language used in providing health
+care locally in a particular context and setting.
+
+## Statement 1.2: We recommend health care professionals use language in health care settings that upholds the principles of safety, dignity, and respect.
+
+Safety, dignity, and respect are basic human
+rights (International Commission of Jurists, 2007).
+We recommend HCPs utilize language and terminology that uphold these human rights when providing care for TGD people. Many TGD people
+have experienced stigma, discrimination, and mistreatment in health care settings, resulting in suboptimal care and poor health outcomes (Reisner,
+Poteat et al., 2016; Safer et al., 2016; Winter, Settle
+et  al., 2016). Such experiences include misgendering, being refused care or denied services when
+sick or injured and having to educate HCPs to be
+able to receive adequate care (James et  al., 2016).
+Consequently, many TGD people feel unsafe
+accessing health care. They may avoid health care
+systems and seek other means of getting
+health-related needs met, such as taking hormones
+without a medical prescription or monitoring and
+relying on peers for medical advice. Furthermore,
+previous negative experiences in health care settings are associated with future avoidance of care
+among TGD people.
+
+Many TGD people have been treated unjustly,
+with prejudice, and without dignity or respect by
+HCPs, and lack of trust is often a barrier to care.
+Using language grounded in the principles of
+safety, dignity, and respect in health care settings
+is paramount to ensure the health, well-being,
+and rights of TGD people globally. Language is
+a significant component of gender-affirming care,
+but language alone does not resolve or mitigate
+the systematic abuse and sometimes violence
+TGD people face globally in care settings.
+Language is but one important step toward
+patient/client-centered and equitable health care
+among TGD people. Other concrete actions HCPs
+can take include obtaining informed consent and
+refraining from making assumptions about a person’s needs based on their gender or TGD status.
+
+## Statement 1.3: We recommend health care professionals discuss with transgender and gender diverse people what language or terminology they prefer.
+
+In providing health care to TGD people, we
+recommend HCPs discuss with their patients what
+language or terminology they prefer be used when
+referring to them. This discussion includes asking
+TGD people how they would like to be addressed
+in terms of name and pronouns, how they
+self-identify their gender, and about the language
+that should be used to describe their body parts.
+Utilizing affirming language or terminology is a
+key component of TGD-affirming care (Lightfoot
+et  al., 2021; Vermeir et  al., 2018). Furthermore,
+these discussions and communications can serve
+to build rapport and reduce the mistrust many
+TGD people feel toward HCPs and experience
+within health care systems. Discussions and usage
+of language or terminology can also facilitate
+engagement and retention in care that is not specifically TGD-related, such as uptake of routine
+preventive screenings and any necessary medical
+follow-up of findings. In electronic health records,
+organ/anatomical inventories can be standardly
+used to inform appropriate clinical care, rather
+than relying solely on assigned sex at birth and/
+or gender identity designations.
+
+HCPs and health care settings can implement
+standardized procedures to facilitate these conversations such as: using intake forms that
+include chosen pronouns and name, inviting
+all staff (regardless of gender, i.e., cisgender,
+TGD) to use pronouns in introductions, having
+pronouns accompany names on a document for
+all patients, and not using gendered honorifics
+(e.g., Ms., Mr.). Policies for HCPs and health
+care settings can be put in place to ensure a
+TGD person’s privacy and right to confidentiality, including when they disclose being a TGD
+person, and if/how to appropriately document.
+For example, a clinic policy may be to record 
+this information as private and confidential
+between HCPs and patients/clients, and that it
+should only be disclosed on a “need to
+know” basis.

@@ -1,0 +1,493 @@
+# Introduction {-}
+
+## Purpose and use of the Standards of Care
+
+The overall goal of the World Professional
+Association for Transgender Health’s (WPATH)
+Standards of Care—Eighth Edition (SOC-8) is to
+provide clinical guidance to health care professionals to assist transgender and gender diverse
+(TGD) people in accessing safe and effective
+pathways to achieving lasting personal comfort
+with their gendered selves with the aim of optimizing their overall physical health, psychological
+well-being, and self-fulfillment. This assistance
+may include but is not limited to hormonal and
+surgical treatments, voice and communication
+therapy, primary care, hair removal, reproductive
+and sexual health, and mental health care.
+Healthcare systems should provide medically necessary gender-affirming health care for TGD
+people: See Chapter 2—Global Applicability,
+Statement 2.1.
+
+WPATH is an international, multidisciplinary,
+professional association whose mission is to promote evidence-based care, education, research,
+public policy, and respect in transgender health.
+Founded in 1979, the organization currently has
+over 3,000 health care professionals, social scientists, and legal professionals, all of whom are
+engaged in clinical practice, research, education
+and advocacy that affects the lives of TGD people. WPATH envisions a world wherein people
+of all gender identities and gender expressions
+have access to evidence-based health care, social
+services, justice, and equality.
+
+One of the main functions of WPATH is to
+promote the highest standards of health care for
+individuals through the Standards of Care (SOC)
+for the health of TGD people. The SOC-8 is
+based on the best available science and expert
+professional consensus. The SOC was initially
+developed in 1979, and the last version was published in 2012.
+
+Most of the research and experience in this
+field comes from a North American and Western
+European perspective; thus, adaptations of the
+SOC-8 to other parts of the world are necessary.
+Suggestions for approaches to cultural relativity
+and cultural competence are included in this version of the SOC
+
+WPATH recognizes that health is not only
+dependent upon high-quality clinical care but
+also relies on social and political climates that
+ensure social tolerance, equality, and the full
+rights of citizenship. Health is promoted through
+public policies and legal reforms that advance
+tolerance and equity for gender diversity and that
+eliminate prejudice, discrimination, and stigma.
+WPATH is committed to advocacy for these policy and legal changes. Thus, health care professionals who provide care to TGD people are
+called upon to advocate for improved access to
+safe and licensed gender-affirming care while
+respecting the autonomy of individuals.
+
+While this is primarily a document for health
+care professionals, individuals, their families, and
+social institutions may also use the SOC-8 to understand how it can assist with promoting optimal
+health for members of this diverse population.
+
+The SOC-8 has 18 chapters containing recommendations for health care professionals working
+with TGD people. Each of the recommendations
+is followed by explanatory text with relevant references. The recommendations for the initiation
+of gender-affirming medical and/or surgical treatments (GAMSTs) for adults and adolescents are
+contained in their respective chapters (see
+Assessment for Adults and Adolescent chapters).
+A summary of the recommendations and criteria
+for GAMST can be found in Appendix D.
+
+## Populations included in the SOC-8
+
+In this document, we use the phrase transgender
+and gender diverse (TGD) to be as broad and
+comprehensive as possible in describing members
+of the many varied communities that exist globally of people with gender identities or expressions that differ from the gender socially
+attributed to the sex assigned to them at birth.
+This includes people who have culturally specific
+and/or language-specific experiences, identities or
+expressions, which may or may not be based on
+or encompassed by Western conceptualizations
+of gender or the language used to describe it.
+
+WPATH SOC-8 expands who is included under
+the TGD umbrella, and the settings in which
+these guidelines should be applied to promote
+equity and human rights.
+
+Globally, TGD people encompass a diverse
+array of gender identities and expressions and
+have differing needs for gender-affirming care
+across their lifespan that is related to individual
+goals and characteristics, available health care
+resources, and sociocultural and political contexts.
+When standards of care are absent for certain
+groups this vacuum can result in a multiplicity
+of therapeutic approaches, including those that
+may be counterproductive or harmful. The SOC-8
+includes recommendations to promote health and
+well-being for gender diverse groups that have
+often been neglected and/or marginalized, including nonbinary people, eunuch, and intersex
+individuals.
+
+The SOC-8 continues to outline the appropriate
+care of TGD youth, which includes, when indicated, the use of puberty suppression and, when
+indicated, the use of gender-affirming hormones.
+
+Worldwide, TGD people commonly experience
+transphobia, stigmatization, ignorance, and refusal
+of care when seeking health care services, which
+contributes to significant health disparities. TGD
+people often report having to teach their medical
+providers how to care for them due to the latter’s
+insufficient knowledge and training. Intersectional
+forms of discrimination, social marginalization,
+and hate crimes against TGD people lead to
+minority stress. Minority stress is associated with
+mental health disparities exemplified by increased
+rates of depression, suicidality, and non-suicidal
+self-injuries than rates in cisgender populations.
+Professionals from every discipline should consider the marked vulnerability of many TGD
+people. WPATH urges health care authorities,
+policymakers, and medical societies to discourage
+and combat transphobia among health care professionals and ensure every effort is made to
+refer TGD people to professionals with experience 
+and willingness to provide
+gender-affirming care.
+
+Flexibility in the SOC
+The SOC-8 guidelines are intended to be flexible
+to meet the diverse health care needs of TGD
+people globally. While adaptable, they offer standards for promoting optimal health care and for
+guiding treatment of people experiencing gender 
+incongruence. As in all previous versions of the
+SOC, the criteria put forth in this document for
+gender-affirming interventions are clinical guidelines; individual health care professionals and
+programs may modify them in consultation with
+the TGD person. Clinical departures from the
+SOC may come about because of a patient’s
+unique anatomic, social, or psychological situation; an experienced health care professional’s
+evolving method of handling a common situation;
+a research protocol; lack of resources in various
+parts of the world; or the need for specific
+harm-reduction strategies. These departures
+should be recognized as such, explained to the
+patient, and documented for quality patient care
+and legal protection. This documentation is also
+valuable for the accumulation of new data, which
+can be retrospectively examined to allow for
+health care—and the SOC—to evolve.
+
+The SOC-8 supports the role of informed
+decision-making and the value of harm reduction
+approaches. In addition, this version of the SOC
+recognizes and validates various expressions of
+gender that may not necessitate psychological,
+hormonal, or surgical treatments. Health care
+professionals can use the SOC to help patients
+consider the full range of health services open
+to them in accordance with their clinical needs
+for gender expression.
+
+## Diversity versus Diagnosis
+
+The expression of gender characteristics, including identities, that are not stereotypically associated with one’s sex assigned at birth is a common
+and a culturally diverse human phenomenon that
+should not be seen as inherently negative or
+pathological. Unfortunately, gender nonconformity and diversity in gender identity and expression is stigmatized in many societies around the
+world. Such stigma can lead to prejudice and
+discrimination, resulting in “minority stress."
+Minority stress is unique (additive to general
+stressors experienced by all people), socially
+based, and chronic, and may make TGD individuals more vulnerable to developing mental health
+concerns such as anxiety and depression. In addition to prejudice and discrimination in society
+at large, stigma can contribute to abuse and 
+neglect in one’s interpersonal relationships, which
+in turn can lead to psychological distress.
+However, these symptoms are socially induced
+and are not inherent to being TGD.
+
+While Gender Dysphoria (GD) is still considered a mental health condition in the Diagnostic
+and Statistical Manual of Mental Disorders,
+(DSM-5-TR) of the American Psychiatric
+Association. Gender incongruence is no longer
+seen as pathological or a mental disorder in the
+world health community. Gender Incongruence
+is recognized as a condition in the International
+Classification of Diseases and Related Health
+Problems, 11th Version of the World Health
+Organization (ICD-11). Because of historical and
+current stigma, TGD people can experience distress or dysphoria that may be addressed with
+various gender-affirming treatment options. While
+nomenclature is subject to change and new terminology and classifications may be adopted by
+various health organizations or administrative
+bodies, the medical necessity of treatment and
+care is clearly recognized for the many people
+who experience dissonance between their sex
+assigned at birth and their gender identity.
+
+Not all societies, countries, or health care systems require a diagnosis for treatment. However,
+in some countries these diagnoses may facilitate
+access to medically necessary health care and can
+guide further research into effective treatments.
+
+## Health care services
+
+The goal of gender-affirming care is to partner
+with TGD people to holistically address their
+social, mental, and medical health needs and
+well-being while respectfully affirming their gender identity. Gender-affirming care supports TGD
+people across the lifespan—from the very first
+signs of gender incongruence in childhood
+through adulthood and into older age—as well
+as people with concerns and uncertainty about
+their gender identity, either prior to or after
+transition.
+
+Transgender health care is greater than the
+sum of its parts, involving holistic inter- and
+multidisciplinary care between endocrinology,
+surgery, voice and communication, primary care,
+reproductive health, sexual health and mental 
+health disciplines to support gender-affirming
+interventions as well as preventive care and
+chronic disease management. Gender-affirming
+interventions include puberty suppression, hormone therapy, and gender-affirming surgeries
+among others. It should be emphasized there is
+no ‘one-size-fits-all’ approach and TGD people
+may need to undergo all, some, or none of these
+interventions to support their gender affirmation.
+These guidelines encourage the use of a
+patient-centered care model for initiation of gender- affirming interventions and update many
+previous requirements to reduce barriers to care.
+
+Ideally, communication and coordination of care
+should occur between providers to optimize outcomes and the timing of gender-affirming interventions centered on the patient’s needs and desires and
+to minimize harm. In well-resourced settings, multidisciplinary consultation and care coordination is
+often routine, but many regions worldwide lack facilities dedicated to transgender care. For these regions,
+if possible, it is strongly recommended that individual care providers create a network to facilitate transgender health care that is not available locally.
+
+Worldwide, TGD people are sometime forced
+by family members or religious communities to
+undergo conversion therapy. WPATH strongly
+recommends against any use of reparative or conversion therapy (see statements 6.5 and 18.10).
+
+## Health care settings
+
+The SOC-8 are guidelines rooted in the fundamental rights of TGD people that apply to all
+settings in which health care is provided regardless
+of an individual’s social or medical circumstances.
+This includes a recommendation to apply the standards of care for TGD people who are incarcerated or living in other institutional settings.
+
+Due to a lack of knowledgeable providers,
+untimely access, cost barriers and/or previous stigmatizing health care experiences, many TGD people take non-prescribed hormone therapy. This
+poses health risks associated with the use of
+unmonitored therapy in potentially supratherapeutic doses and the potential exposure to blood-borne
+illnesses if needles are shared for administration.
+However, for many individuals, it is the only
+means of acquiring medically necessary
+gender-affirming treatment that is otherwise inaccessible. Non-prescribed hormone use should be
+approached with a harm-reduction lens to ensure
+individuals are connected with providers who can
+prescribe safe and monitored hormone therapy.
+
+In some countries, the rights of TGD are
+increasingly being recognized, and gender clinics
+are being established that can serve as templates
+for care. In other countries, however, such facilities are lacking and care may be more fragmented and under-resourced. Nonetheless,
+different models of care are being pioneered,
+including efforts to decentralize gender-affirming
+care within primary care settings and establish
+telehealth services to reduce barriers and improve
+access. Regardless of the method of care delivery,
+the principles of gender-affirming care as outlined
+in the SOC-8 should be adapted to align with
+local sociocultural, political, and medical contexts.
+
+## Methodology
+
+This version of the Standards of Care (SOC-8)
+is based upon a more rigorous and methodological evidence-based approach than previous versions. This evidence is not only based on the
+published literature (direct as well as background
+evidence) but also on consensus-based expert
+opinion. Evidence-based guidelines include recommendations intended to optimize patient care
+that are informed by a thorough review of evidence, an assessment of the benefits and harms,
+values and preferences of providers and patients,
+and resource use and feasibility.
+
+While evidence-based research provides the
+basis for sound clinical practice guidelines and
+recommendations, it must be balanced by the
+realities and feasibility of providing care in
+diverse settings. The process for development of
+the SOC-8 incorporated the recommendations on
+clinical practice guideline development set forth
+by the National Academies of Medicine and the
+World Health Organization, which addressed
+transparency, conflict-of-interest policy, committee composition, and group process.
+
+The SOC-8 guidelines committee was multidisciplinary and consisted of subject matter experts,
+health care professionals, researchers, and stakeholders with diverse perspectives and geographic
+representation. A guideline methodologist assisted
+with the planning and development of questions
+and systematic reviews with additional input provided by an international advisory committee and
+during the public comment period. All committee
+members completed conflict of interest declarations. Recommendations in the SOC-8 are based
+on available evidence supporting interventions, a
+discussion of risks and harms, as well as feasibility
+and acceptability within different contexts and
+country settings. Consensus on the final recommendations was attained using the Delphi process
+that included all members of the guidelines committee and required that recommendation statements were approved by at least 75% of members.
+A detailed overview of the SOC-8 Methodology
+is included in Appendix A.
+
+## SOC-8 Chapters Summary
+
+The SOC-8 represents a significant advancement
+from previous versions. Changes in this version
+are based upon a fundamentally different methodology, significant cultural shifts, advances in
+clinical knowledge, and appreciation of the many
+health care issues that can arise for TGD people
+beyond hormone therapy and surgery.
+
+These updated guidelines continue the process
+started with the SOC-7 in 2011 to broaden in
+scope and move from a narrow focus on psychological requirements for “diagnosing transgenderism” and medical treatments for alleviation of
+gender dysphoria to gender-affirming care for the
+whole person. WPATH SOC-8 expands guidelines
+specifying who is included under the TGD
+umbrella, what should and should not be offered
+with gender-affirming care, and the settings in
+which these guidelines should be applied to promote equity and human rights.
+
+The SOC-8 has several new chapters such as
+the Assessment of Adults, Education, Eunuchs,
+and a Nonbinary chapter. In addition, the chapter
+for children and adolescents of the SOC-7 has
+been divided into two different chapters. Overall,
+the SOC-8 is considerably longer than previous
+versions and provides a more in-depth introduction and recommendations for health care professionals. A summary of every chapter of the
+SOC-8 can be found below:
+
+### Chapter 1—Terminology
+
+This new chapter lays the framework for language
+used in the SOC-8 and offers consensually agreed
+upon recommendations for the use of terminology. The chapter provides (1) terms and definitions, and (2) best practices for utilizing them.
+This document is accompanied by a glossary (see
+Appendix B) of common terms and language to
+provide a framework for use and interpretation
+of the SOC-8.
+
+### Chapter 2—Global Applicability
+
+This chapter references key literature related to
+development and delivery of health care services,
+broader advocacy care for TGD people from
+beyond Western Europe and North America and
+provides recommendations for adapting and
+translating the SOC-8 to varied contexts.
+
+### Chapter 3—Population Estimates
+
+This chapter updates the population estimates of
+TGD people in society. Based on the current
+evidence, this proportion may range from a fraction of a percent to several percentage points
+depending on the inclusion criteria, age group,
+and geographic location.
+
+### Chapter 4—Education
+
+This new chapter provides a general review of
+the literature related to education in TGD health
+care. It offers recommendations at governmental,
+nongovernmental, institutional and provider levels
+to increase access to competent, compassionate
+health care. The intent is to lay the groundwork
+in the education area and invite a much broader
+and deeper discussion among educators and
+health care professionals.
+
+### Chapter 5—Assessment of Adults
+
+This new chapter provides guidance on the
+assessment of TGD adults who are requesting
+gender-affirming medical and surgical treatments
+(GAMSTs). It describes and updates the assessment process as part of a patient-centered
+approach and the criteria that health care professionals may follow in order to recommend
+GAMSTs to TGD adults.
+
+### Chapter 6—Adolescents
+
+This new chapter is dedicated to TGD adolescents,
+is distinct from the child chapter, and has been
+created for this 8th edition of the Standards of
+Care given (1) the exponential growth in adolescent referral rates; (2) the increase in studies available specific to adolescent gender diversity-related
+care; and (3) the unique developmental and genderaffirming care issues of this age group. This chapter
+provides recommendations regarding the assessment process of adolescents requiring GAMSTs as
+well as recommendations when working with TGD
+youth and their families.
+
+### Chapter 7—Children
+
+This new chapter pertains to prepubescent gender
+diverse children and focuses on developmentally
+appropriate psychosocial practices and therapeutic
+approaches.
+
+### Chapter 8—Nonbinary
+
+This new chapter in the SOC-8 consists of a
+broad description of the term nonbinary and its
+usage from a biopsychosocial, cultural, and intersectional perspective. The need for access to
+gender-affirming care, specific gender-affirming
+medical interventions, as well as an appropriate
+level of support is discussed.
+
+### Chapter 9—Eunuchs
+
+This new chapter describes the unique needs of
+eunuchs, and how the SOC can be applied to
+this population.
+
+### Chapter 10—Intersex
+This chapter focuses on the clinical care of intersex individuals. It addresses the evolving terminology, prevalence, and diverse presentations of
+such individuals and provides recommendations
+for providing psychosocial and medical care with
+their evidence-based explanations.
+
+### Chapter 11—Institutional Environments
+This chapter has been expanded to include both
+carceral and non-carceral settings and has been
+built upon the last 3 versions of the SOC. This
+chapter describes how the SOC-8 can be applied
+to individuals living in these settings.
+
+### Chapter 12—Hormone Therapy
+This chapter describes the initiation of
+gender-affirming hormone therapy, the recommended
+regimens, screening for health concerns before and
+during hormone therapy, and specific considerations
+regarding hormone therapy prior to surgery. It
+includes an expanded discussion about the safety of
+gonadotropin releasing hormone (GnRH) agonists
+in youth, various hormone regimens, monitoring to
+include the development of potential therapy-related
+health concerns, and guidance on how hormone
+providers should collaborate with surgeons.
+
+### Chapter 13—Surgery and Postoperative Care
+This chapter describes a spectrum of
+gender-affirming surgical procedures for the
+diverse and heterogeneous community of individuals who identify as TGD. It provides a discussion about the optimal surgical training in
+GAS procedures, post-surgical aftercare and
+follow-up, access to surgery by adults and adolescents, and individually customized surgeries.
+
+### Chapter 14—Voice and Communication
+
+This chapter describes professional voice and communication support and interventions that are inclusive of and attentive to all aspects of diversity and
+no longer limited only to voice feminization and
+masculinization. Recommendations are now framed
+as affirming the roles and responsibilities of professionals involved in voice and communication support.
+
+### Chapter 15—Primary Care
+
+This chapter discusses the importance of primary
+care for TGD individuals, including topics of cardiovascular and metabolic health, cancer screening, and primary care systems.
+
+### Chapter 16—Reproductive Health
+
+This chapter provides recent data on fertility perspectives and parenthood goals in gender diverse
+youth and adults, advances in fertility preservation methods (including tissue cryopreservation),
+guidance regarding preconception and pregnancy
+care, prenatal counseling, and chest feeding.
+Contraceptive methods and considerations for
+TGD individuals are also reviewed.
+
+### Chapter 17—Sexual Health
+This new chapter acknowledges the profound
+impact of sexual health on physical and psychological well-being for TGD people. The chapter
+advocates for sexual functioning, pleasure, and
+satisfaction to be included in TGD-related care.
+
+### Chapter 18—Mental Health
+
+This chapter discusses principles of care for managing mental health conditions in TGD adults
+and the nexus of mental health care and transition care. Psychotherapy may be beneficial but
+should not be a requirement for gender-affirming
+treatment, and conversion treatment should not
+be offered.

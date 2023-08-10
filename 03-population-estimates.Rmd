@@ -1,0 +1,354 @@
+# Population Estimates
+
+## Summary of reported proportions of TGD people in the general population {-}
+
+- Health systems-based studies: 0.03–0.1%
+- Survey-based studies of adults: 0.3–0.5% (transgender), 0.3–4.5% (all TGD)
+- Survey-based studies of children and adolescents: 1.2–2.7% (transgender), 2.5–8.4% (all TGD)
+
+In the previous edition of its Standards of Care,
+Version 7, World Professional Association for
+Transgender Health (WPATH) identified only a
+small number of articles attempting to estimate
+the size of the transgender and gender diverse
+(TGD) population and characterized the
+state-of-the-science as “a starting point” requiring
+further systematic study (Coleman et  al., 2012).
+Since then, the literature on this topic has
+expanded considerably as evidenced by a number
+of recent reviews that have sought to synthesize
+the available evidence (Arcelus et  al., 2015; Collin
+et  al., 2016; Goodman et  al., 2019; Meier &
+Labuski, 2013; Zhang et  al., 2020).
+
+In reviewing epidemiologic data pertaining to
+the TGD population, it may be best to avoid the
+terms “incidence” and “prevalence.” Avoiding
+these and similar terms may preclude inappropriate pathologizing of TGD people (Adams
+et  al., 2017; Bouman et  al., 2017). Moreover, the
+term “incidence” may not be applicable in this
+situation because it assumes TGD status has an
+easily identifiable time of onset, a prerequisite
+for calculating incidence estimates (Celentano &
+Szklo, 2019). For all the above reasons, we recommend using the terms “number” and “proportion” to signify the absolute and the relative size
+of the TGD population.
+
+Perhaps the most important consideration in
+reviewing this literature is the variable definition
+applied to the TGD population (Collin et  al.,
+2016; Meier & Labuski, 2013). In clinic-based
+studies, the data on TGD people are typically
+limited to individuals who received
+transgender-related diagnoses or counseling or
+those who requested or underwent gender-affirming
+therapy, whereas survey-based research typically
+relies on a broader, more inclusive definition
+based on self-reported gender identities.
+
+Another methodological consideration in
+assessing the size and distribution of the TGD
+population is the need to understand what constitutes the sampling frame. As noted in recent
+reviews (Goodman et  al., 2019; Zhang et  al.,
+2020), many of the published studies, especially
+those conducted more than a decade ago, first
+assessed the number of patients seen at a particular clinical center and then divided that number 
+by an approximated population size. This was
+unlikely to produce an accurate estimate because
+the numerator in the calculations is not necessarily included in the denominator, and the true
+size of the denominator often remains unknown.
+
+With these considerations in mind, it is advisable to focus specifically on recent (published
+within the last decade) peer-reviewed studies that
+utilized sound methodology in identifying TGD
+people within a well-defined sampling frame. For
+all of the above reasons, the present chapter is
+focused on studies that met the following inclusion criteria 1) appeared in press in 2009 or later;
+2) used a clear definition of TGD status; 3) calculated proportions of TGD people based on a
+well-defined population denominator; and 4)
+were peer-reviewed. These types of studies can
+provide more accurate contemporary estimates.
+
+The available studies can be assigned into three
+groups 1) those that reported proportions of TGD
+people among individuals enrolled in large health
+care systems; 2) those that presented results from
+population surveys of predominantly adult participants; and 3) those that were based on surveys
+of youth conducted in schools. Of these three
+categories, the most informative and methodologically sound studies are summarized below.
+Additional details about these and other similar
+studies can be found in recent literature reviews
+(Goodman et  al., 2019; Zhang et  al., 2020).
+
+Among studies that estimated the size of the
+TGD population enrolled in large health care
+systems, all were conducted in the US, and all
+relied on information obtained from electronic
+health records. Four of those health system-based
+studies relied exclusively on diagnostic codes to
+ascertain the TGD population; two studies
+(Blosnich et  al., 2013; Kauth et  al., 2014) used
+data from the Veterans Health Affairs system,
+which provides care to over 9 million people,
+and two studies (Dragon et  al., 2017; Ewald et  al.,
+2019) used claims data from Medicare, the federal
+health insurance program that primarily covers
+people 65 years of age or older. The proportions
+of TGD people reported in these diagnostic
+code-based studies ranged from approximately
+0.02% to 0.03%. Another more recent publication
+also used Medicare data along with commercial
+insurance claims to identify TGD people and
+applied expanded inclusion criteria to supplement 
+diagnostic codes with information on procedures
+and hormone therapy (Jasuja et  al., 2020). Using
+this methodology, the proportion of TGD people
+among all persons enrolled in the participating
+health plans was 0.03%. The sixth health
+systems-based study (Quinn et  al., 2017) was
+conducted at Kaiser Permanente plans in the
+states of Georgia and California; these plans provide care to approximately 8 million members
+enrolled through employers, government programs, or individually. The TGD population in
+the Kaiser Permanente study was ascertained
+across all age groups using both diagnostic codes
+and free-text clinical notes. The proportions of
+TGD people identified at Kaiser Permanente were
+higher than the corresponding proportions
+reported in the Veterans Health Affairs and
+Medicare studies with the most recent estimates
+ranging from 0.04 to 0.08%.
+
+In contrast to results from the health
+system-based studies, findings from surveys that
+relied on self-reported TGD status produced
+much higher estimates. Two US studies took
+advantage of the Behavioral Risk Factor
+Surveillance Study (BRFSS), which is an annual
+telephone survey conducted in all 50 states and
+US territories (Conron et  al., 2012; Crissman
+et  al., 2017). The first study used data from the
+2007–2009 BRFSS cycles in the state of
+Massachusetts, and the second study used the
+2014 BRFSS data from 19 states and the territory
+of Guam. Both studies reported that approximately 0.5% of adult participants (at least 18
+years of age) responded *“Yes”* to the question *“Do
+you consider yourself to be transgender?”*
+
+An internet-based survey administered to a
+sample of the Dutch population 15–70 years of
+age (Kuyper & Wijsen, 2014) asked participants
+to score the following two questions using a
+5-point Likert scale: *“Could you indicate to which
+degree you psychologically experience yourself as
+a man?”* and *“Could you indicate to which degree
+you psychologically experience yourself as a
+woman?”* The respondents were considered “gender ambivalent” if they gave the same score to
+both statements and “gender incongruent” when
+they reported a lower score for their sex assigned
+at birth than for their gender identity. The proportions of participants reporting incongruent
+and ambivalent gender identity were 1.1% and
+4.6%, respectively, for persons who were assigned
+male at birth (AMAB), and 0.8% and 3.2%,
+respectively, for persons assigned female at
+birth (AFAB).
+
+A similarly designed study estimated the proportion of TGD residents in the Flanders region
+of Belgium using a sample drawn from the country’s National Register (Van Caenegem, Wierckx
+et  al., 2015). Participants were asked to score the
+following statements: “I feel like a woman” and
+“I feel like a man” on a 5-point Likert scale. Using
+the same definitions applied in the Dutch study
+(Kuyper & Wijsen, 2014), the proportion of gender incongruent individuals was 0.7% for AMAB
+people and 0.6% for AFAB people. The corresponding estimates for gender ambivalence among
+AMAB and AFAB people were 2.2% and 1.9%,
+respectively.
+
+A more recent population-based study evaluated the proportion of TGD people among
+approximately 50,000 adult residents of Stockholm
+County, Sweden (Åhs et al., 2018). The numerator
+was determined by asking participants the following question: “I would like hormones or surgery to be more like someone of a different sex.”
+Two additional items were designed to identify
+individuals experiencing gender incongruence: “I
+feel like someone of a different sex” and “I would
+like to live as or be treated as someone of a different sex.” The need for either hormone therapy
+or gender-affirming surgery was reported by 0.5%
+of participants. Individuals who expressed feeling
+like someone of a different sex and those who
+wanted to live as or be treated as a person of
+another sex constituted 2.3% and 2.8% of the
+total sample, respectively.
+
+Population-based data outside of North
+America and Western Europe are less common.
+One recent study offers valuable data from a large
+representative survey of 6,000 adults in Brazil
+(Spizzirri et  al., 2021). Gender identity of participants was assessed based on the following three
+questions 1) *“Which of the following options best
+describes how you currently feel?”* (Options: I feel
+I am a man, I feel I am a woman, and I feel I
+am neither a man nor a woman); 2) *“What is
+the sex on your birth certificate?”* (Options: male,
+female, and undetermined); and 3) *“Which of
+these situations do you most closely relate to?”*
+(Options: I was born male, but I have felt female
+since childhood; I was born female, but I have
+felt male since childhood; I was born male, and
+I feel comfortable with my body; I was born
+female, and I feel comfortable with my body).
+Based on the responses to these three questions,
+the authors determined 1.9% of the survey
+respondents were TGD (0.7% defined as transgender, and 1.2% defined as nonbinary).
+
+The literature on the population proportions
+of TGD youth (persons under 19 years of age)
+includes several survey studies conducted in
+schools. A 2012 national cross-sectional survey
+in New Zealand collected information on TGD
+identity among high school students (Clark et  al.,
+2014). Among over 8,000 survey participants,
+1.2% self-identified as TGD and 2.5% reported
+they were not sure. Another study of schoolchildren was based on a 2016 survey of 9th and 11th
+grade students (ages 14–18 years) in the US state
+of Minnesota (Eisenberg et  al., 2017). Of the
+nearly 81,000 survey respondents, 2.7% reported
+being TGD. A more recent study (Johns et  al.,
+2019) presented results of the Youth Risk Behavior
+Survey (YRBS), which is conducted biennially
+among local, state, and nationally representative
+samples of US high school students in grades
+9–12 (approximate age range 13–19 years). The
+2017 YRBS cycle was carried out in 10 states and
+9 large urban areas and included the following
+sequence: *“Some people describe themselves as
+transgender when their sex at birth does not match
+the way they think or feel about their gender. Are
+you transgender?*” Among nearly 120,000 participants across the 19 sites, 1.8% responded *“Yes,
+I am transgender,”* and 1.6% responded *“I am not
+sure if I am transgender.”*
+
+Another recently published school-based study
+in the US presented results of a 2015 survey
+conducted in Florida and California with the aim
+of identifying gender diverse children and adolescents in a sample of just over 6,000 students
+in grades 9–12 (Lowry et  al., 2018). “High
+gender-nonconforming” was used to define
+AMAB children who reported being very/mostly/
+somewhat feminine or AFAB children who
+reported being very/mostly/somewhat masculine.
+Based on these definitions, the proportions of 
+TGD participants were reported to be 13% among
+AMAB students, 4% among AFAB students, and
+8.4% overall.
+
+Only one study examined the proportion of
+self-identified TGD children in a younger age
+group. Shields et  al. analyzed the data from a
+2011 survey of 2,700 students in grades 6–8 (age
+range 11–13 years) across 22 San Francisco public
+middle schools (Shields et  al., 2013). Thirty-three
+children self-identified as TGD based on the
+question “What is your gender?” where the possible responses were “female, male, or transgender.” The resulting proportion of transgender
+survey respondents was 1.3%. However, this definition would exclude TGD persons self-identifying
+as nonbinary and those who do not explicitly
+identify as transgender.
+
+Taken together, these data indicate among
+health system-based studies that relied on diagnostic codes or other evidence documented in
+the medical records (Blosnich et al., 2013; Dragon
+et  al., 2017; Ewald et  al., 2019; Kauth et  al., 2014;
+Quinn et  al., 2017), the proportions of TGD people reported in recent years (2011–2016) ranged
+from 0.02% to 0.08%. By contrast, when the TGD
+status was ascertained based on self-report, the
+corresponding proportions were orders of magnitude higher and reasonably consistent, if the
+studies used similar definitions. When the surveys specifically inquired about “transgender”
+identity, the estimates ranged from 0.3% to 0.5%
+among adults and from 1.2% to 2.7% in children
+and adolescents. When the definition was
+expanded to include broader manifestations of
+gender diversity, such as gender incongruence or
+gender ambivalence, the corresponding proportions were higher: 0.5% to 4.5% among adults
+and 2.5% to 8.4% among children and
+adolescents.
+
+As reviewed elsewhere (Goodman et  al., 2019),
+another noteworthy observation is the continuous
+increase in both the size and the composition of
+the TGD population with upward trends in the
+proportion of TGD people observed in health
+care systems, through population-based surveys,
+as well as in the data on legal gender recognition.
+The higher estimates observed in more recent
+literature support some of the previous publications indicating the size of TGD population was 
+likely underestimated in earlier studies (Olyslager
+& Conway, 2008).
+
+The temporal trends in AMAB to AFAB ratio
+have also been reported in studies analyzing
+referrals to clinics as well as data from integrated
+health systems; this ratio has changed from predominantly AMAB in previous decades to predominantly AFAB in recent years, especially
+among TGD youth (Aitken et  al., 2015; de Graaf,
+Carmichael et  al., 2018; de Graaf, Giovanardi
+et  al. 2018; Steensma et  al., 2018; Zhang et  al.,
+2021). The trend towards a greater proportion of
+TGD people in younger age groups and the
+age-related differences in the AMAB to AFAB
+ratio likely represent the “cohort effect,” which
+reflects sociopolitical advances, changes in referral
+patterns, increased access to health care and to
+medical information, less pronounced cultural
+stigma, and other changes that have a differential
+impact across generations (Ashley 2019d; Pang
+et  al., 2020; Zhang et  al., 2020).
+
+Despite recent improvements in the quality of
+published studies, an important limitation of the
+existing literature is the relative paucity of
+peer-reviewed publications from regions outside
+of Western Europe or North America. Some of
+the relevant information on global estimates can
+be obtained from reports supported by the governments or non-governmental organizations
+(Fisher et  al., 2019; Kasianczuk & Trofymenko,
+2020), but these reports may be difficult to systematically identify and evaluate until they appear
+in peer-reviewed literature. Other barriers to evaluating the global distribution of the TGD populations include inadequate access to demographic
+data and over-representation of English-language
+journals in the world literature.
+
+These limitations notwithstanding, the available
+highest-quality data clearly indicate TGD people
+represent a sizable and growing proportion of the
+general population. Based on the credible evidence available to date, this proportion may range
+from a fraction of a percent to several percentage
+points depending on the inclusion criteria, age
+group, and geographic location. Accurate estimates of the proportion, distribution, and composition of the TGD population as well as a
+projection of resources required to adequately
+support the health needs of TGD people should
+rely on systematically collected high-quality data,
+which are now increasingly available. Continuous
+and routine collection of these data is needed to
+decrease variability and minimize over- and
+under-estimation of the reported results. For
+example, far more accurate and precise estimates
+should become available when population censuses begin systematically collecting and reporting data on sex assigned at birth and gender
+identity, including asexual and nonbinary categories, using the now well-validated two-step
+method. The first such census-based estimate was
+released by the national statistical office of
+Canada. Based on the 2021 census data, 100,815
+of 30.5 million Canadians self-identified as transgender or nonbinary; this accounted for 0.33%
+of the population 15 years of age or older
+(Statistics Canada, 2022). Consistent with the
+published literature, the proportions of transgender and nonbinary people were much higher for
+Generation Z (born between 1997 and 2006,
+0.79%) and millennials (born between 1981 and
+1996, 0.51%) than for Generation X (born
+between 1966 and 1980, 0.19%), baby boomers
+(born between 1946 and 1965, 0.15%), and the
+Interwar and Greatest Generations (born in 1945
+or earlier, 0.12%). While these results represent
+the highest quality data available to date, it is
+not clear how the population proportions reported
+in Canada may compare with those in other
+countries. The variability in the definitions of
+what constitutes the TGD population and the
+differences in data collection methods can be
+reduced further by improving international
+collaborations.
+
