@@ -1,0 +1,953 @@
+# Children
+
+These Standards of Care pertain to prepubescent
+gender diverse children and are based on research,
+ethical principles, and accumulated expert knowledge. The principles underlying these standards
+include the following 1) childhood gender diversity
+is an expected aspect of general human development (Endocrine Society and Pediatric Endocrine
+Society, 2020; Telfer et  al., 2018); 2) childhood
+gender diversity is not a pathology or mental
+health disorder (Endocrine Society and Pediatric
+Endocrine Society, 2020; Oliphant et  al., 2018;
+Telfer et  al., 2018); 3) diverse gender expressions
+in children cannot always be assumed to reflect a
+transgender identity or gender incongruence
+(Ehrensaft, 2016; Ehrensaft, 2018; Rael et  al.,
+2019); 4) guidance from mental health professionals (MHPs) with expertise in gender care for children can be helpful in supporting positive
+adaptation as well as discernment of gender-related
+needs over time (APA, 2015; Ehrensaft, 2018;
+Telfer et  al., 2018); 5) conversion therapies for
+gender diversity in children (i.e., any “therapeutic”
+attempts to compel a gender diverse child through
+words, actions, or both to identify with, or behave
+in accordance with, the gender associated with the
+sex assigned at birth are harmful and we repudiate
+their use (APA, 2021; Ashley, 2019b, Paré, 2020;
+SAMHSA, 2015; Telfer et al., 2018; UN Human
+Rights Council, 2020).
+
+Throughout the text, the term “health care
+professional” (HCP) is used broadly to refer to
+professionals working with gender diverse children. Unlike pubescent youth and adults, prepubescent gender diverse children are not eligible
+to access medical intervention (Pediatric
+Endocrine Society, 2020); therefore, when professional input is sought, it is most likely to be from
+an HCP specialized in psychosocial supports and
+gender development. Thus, this chapter is
+uniquely focused on developmentally appropriate
+psychosocial practices, although other HCPs, such
+as pediatricians and family practice HCPs may
+also find these standards useful as they engage
+in professional work with gender diverse children
+and their families.
+
+This chapter employs the term “gender diverse”
+given that gender trajectories in prepubescent
+children cannot be predicted and may evolve over
+time (Steensma, Kreukels et  al., 2013). At the
+same time, this chapter recognizes some children
+will remain stable in a gender identity they articulate early in life that is discrepant from the sex
+assigned at birth (Olson et  al., 2022). The term,
+“gender diverse” includes transgender binary and
+nonbinary children, as well as gender diverse
+children who will ultimately not identify as transgender later in life. Terminology is inherently
+culturally bound and evolves over time. Thus, it
+is possible terms used here may become outdated
+and we will find better descriptors.
+
+This chapter describes aspects of medical necessary care intended to promote the well-being
+and gender-related needs of children (see medically necessary statement in the Global Applicability
+chapter, Statement 2.1). This chapter advocates
+everyone employs these standards, to the extent
+possible. There may be situations or locations in
+which the recommended resources are not fully
+available. HCPs/teams lacking resources need to
+work toward meeting these standards. However, if
+unavoidable limitations preclude components of
+these recommendations, this should not hinder
+providing the best services currently available. In
+those locations where some but not all recommended services exist, choosing not to implement
+potentially beneficial care services risks harm to
+a child (Murchison et  al., 2016; Telfer et  al., 2018;
+Riggs et  al., 2020). Overall, it is imperative to
+prioritize a child’s best interests.
+
+A vast empirical psychological literature indicates
+early childhood experiences frequently set the stage
+for lifelong patterns of risk and/or resilience and
+contribute to a trajectory of development more or
+less conducive to well-being and a positive quality
+of life (Anda et al., 2010; Masten & Cicchetti, 2010;
+Shonkoff & Garner, 2012). The available research
+indicates, in general, gender diverse youth are at
+greater risk for experiencing psychological difficulties (Ristori & Steensma, 2016) than age- matched
+cisgender peers as a result of encountering destructive experiences, including trauma and maltreatment
+stemming from gender diversity-related rejection
+and other harsh, non-accepting interactions (Barrow
+& Apostle, 2018; Giovanardi et  al., 2018; Gower,
+Rider, Brown et  al., 2018; Grossman & D’Augelli,
+2006; Hendricks & Testa, 2012; Reisner, Greytak 
+S68 E. COLEMAN ET AL.
+et  al., 2015; Roberts et  al., 2014; Tishelman &
+Neumann-Mascis, 2018). Further, literature indicates
+prepubescent children who are well accepted in
+their gender diverse identities are generally
+well-adjusted (Malpas et  al., 2018; Olson et  al.,
+2016). Assessment and treatment of children typically emphasizes an ecological approach, recognizing
+children need to be safe and nurtured in each setting they frequent (Belsky, 1993; Bronfenbrenner,
+1979; Kaufman & Tishelman, 2018; Lynch &
+Cicchetti, 1998; Tishelman et  al., 2010; Zielinski &
+Bradshaw, 2006). Thus, the perspective of this chapter draws on basic psychological literature and
+knowledge of the unique risks to gender diverse
+children and emphasizes the integration of an ecological approach to understanding their needs and
+to facilitating positive mental health in all gender
+care. This perspective prioritizes fostering well-being
+and quality of life for a child throughout their
+development. Additionally, this chapter also
+embraces the viewpoint, supported by the substantial psychological research cited above, that psychosocial gender-affirming care (Hidalgo et  al., 2013)
+for prepubescent children offers a window of opportunity to promote a trajectory of well-being that
+will sustain them over time and during the transition to adolescence. This approach potentially can
+mitigate some of the common mental health risks
+faced by transgender and gender diverse (TGD)
+teens, as frequently described in literature (Chen
+et al., 2021; Edwards-Leeper et al., 2017; Haas et al.,
+2011; Leibowitz & de Vries, 2016; Reisner, Bradford
+et  al., 2015; Reisner, Greytak et  al., 2015).
+
+Developmental research has focused on understanding various aspects of gender development
+in the earliest years of childhood based on a
+general population of prepubescent children.
+This research has typically relied on the assumption that child research participants are cisgender (Olezeski et  al., 2020) and has reported
+gender identity stability is established in the
+preschool years for the general population of
+children, most of whom are likely not gender
+diverse (Kohlberg, 1966; Steensma, Kreukels
+et  al., 2013). Recently, developmental research
+has demonstrated gender diversity can be
+observed and identified in young prepubescent
+children (Fast & Olson, 2018; Olson & Gülgöz,
+2018; Robles et  al., 2016). Nonetheless, empirical
+study in this area is limited, and at this time
+there are no psychometrically sound assessment
+measures capable of reliably and/or fully ascertaining a prepubescent child’s self-understanding
+of their own gender and/or gender-related needs
+and preferences (Bloom et  al., 2021). Therefore,
+this chapter emphasizes the importance of a
+nuanced and individualized clinical approach to
+gender assessment, consistent with the recommendations from various guidelines and literature (Berg & Edwards-Leeper, 2018; de Vries &
+Cohen-Kettenis, 2012; Ehrensaft, 2018; Steensma
+& Wensing-Kruger, 2019). Research and clinical
+experience have indicated gender diversity in
+prepubescent children may, for some, be fluid;
+there are no reliable means of predicting an
+individual child’s gender evolution
+(Edwards-Leeper et  al., 2016; Ehrensaft, 2018;
+Steensma, Kreukels et  al., 2013), and the
+gender-related needs for a particular child may
+vary over the course of their childhood.
+
+It is important to understand the meaning of
+the term “assessment” (sometimes used synonymously with the term “evaluation”). There are
+multiple contexts for assessment (Krishnamurthy
+et  al., 2004) including rapid assessments that
+take place during an immediate crisis (e.g., safety
+assessment when a child may be suicidal) and
+focused assessments when a family may have a
+circumscribed question, often in the context of
+a relatively brief consultation (Berg &
+Edwards-Leeper, 2018). The term assessment is
+also often used in reference to “diagnostic assessment,” which can also be called an “intake” and
+is for the purpose of determining whether there
+is an issue that is diagnosable and/or could benefit from a therapeutic process. This chapter
+focus on comprehensive assessments, useful for
+understanding a child and family’s needs and
+goals (APA, 2015; de Vries & Cohen-Kettenis,
+2012; Srinath et  al., 2019; Steensma &
+Wensing-Kruger, 2019). This type of psychosocial
+assessment is not necessary for all gender diverse
+children, but may be requested for a number of
+reasons. Assessments may present a useful
+opportunity to start a process of support for a
+gender diverse child and their family, with the
+understanding that gender diverse children benefit when their family dynamics include 
+acceptance of their gender diversity and parenting guidance when requested. Comprehensive
+assessments are appropriate when solicited by a
+family requesting a full understanding of the
+child’s gender and mental health needs in the
+context of gender diversity.
+
+In these circumstances, family member mental
+health issues, family dynamics, and social and cultural contexts, all of which impact a gender diverse
+child, should be taken into consideration (Barrow
+& Apostle, 2018; Brown & Mar, 2018; Cohen-Kettenis
+et  al., 2003; Hendricks & Testa, 2012; Kaufman &
+Tishelman, 2018; Ristori & Steensma, 2016;
+Tishelman & Neumann-Mascis, 2018). This is further elaborated upon in the text below.
+
+It is important HCPs working with gender
+diverse children strive to understand the child and
+the family’s various aspects of identity and experience: racial, ethnic, immigrant/refugee status,
+religious, geographic, and socio-economic, for
+example, and be respectful and sensitive to cultural
+context in clinical interactions (Telfer et al., 2018).
+Many factors may be relevant to culture and gender, including religious beliefs, gender-related
+expectations, and the degree to which gender
+diversity is accepted (Oliphant et  al., 2018).
+Intersections between gender diversity, sociocultural diversity, and minority statuses can be sources
+of strength, social stress, or both (Brown & Mar,
+2018; Oliphant et al., 2018; Riggs & Treharne, 2016).
+
+Each child, family member, and family dynamic
+is unique and potentially encompasses multiple
+cultures and belief patterns. Thus, HCPs of all
+disciplines should avoid stereotyping based on
+preconceived ideas that may be incorrect or
+biased (e.g., that a family who belongs to a religious organization that is opposed to appreciating
+gender diversity will necessarily be unsupportive
+of their child’s gender diversity) (Brown & Mar,
+2018). Instead, it is essential to approach each
+family openly and understand each family member and family pattern as distinct.
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In some
+cases, we recognize evidence is limited and/or
+services may not be accessible or desirable.
+
+## Statement 7.1: We recommend the health care professionals working with gender diverse children receive training and have expertise in gender development and gender diversity in children and possess general knowledge of gender diversity across the life span. {-}
+
+HCPs working with gender diverse children
+should acquire and maintain the necessary training and credentials relevant to the scope of their
+role as professionals. This includes licensure, certification, or both by appropriate national and/
+or regional accrediting bodies. We recognize the
+specifics of credentialing and regulation of professionals vary globally. Importantly, basic licensure, certification, or both may be insufficient in
+and of itself to ensure competency working with
+gender diverse children, as HCPs specifically
+require in-depth training and supervised experience in childhood gender development and gender diversity to provide appropriate care.
+
+## Statement 7.2: We recommend health care professionals working with gender diverse children receive theoretical and evidenced-based training and develop expertise in general child and family mental health across the developmental spectrum. {-}
+
+HCPs should receive training and supervised
+expertise in general child and family mental
+health across the developmental spectrum from
+toddlerhood through adolescence, including
+evidence-based assessment and intervention
+approaches. Gender diversity is not a mental
+health disorder; however, as cited above, we know
+mental health can be adversely impacted for gender diverse children (e.g., through gender minority
+stress) (Hendricks & Testa, 2012) that may benefit
+from exploration and support; therefore, mental
+health expertise is highly recommended. Working
+with children is a complex endeavor, involving
+an understanding of a child’s developmental needs
+at various ages, the ability to comprehend the
+forces impacting a child’s well-being both inside
+and outside the family (Kaufman & Tishelman,
+2018), and an ability to fully assess when a child
+is unhappy or experiencing significant mental
+health difficulties, related or unrelated to gender.
+Research has indicated high levels of adverse
+experiences and trauma in the gender diverse
+community of children, including susceptibility
+to rejection or even maltreatment (APA, 2015;
+Barrow & Apostle, 2018; Giovanardi et  al., 2018;
+Reisner, Greytak et  al., 2015; Roberts et  al., 2012;
+Tishelman & Neumann-Mascis, 2018). HCPs need
+to be cognizant of the potential for adverse experiences and be able to initiate effective interventions to prevent harm and promote positive
+well-being.
+
+## Statement 7.3 We recommend health care professionals working with gender diverse children receive training and develop expertise in autism spectrum disorders and other neurodiversity or collaborate with an expert with relevant expertise when working with autistic/neurodivergent, gender diverse children. {-}
+
+The experience of gender diversity in autistic
+children as well as in children with other forms
+of neurodivergence may present extra clinical
+complexities (de Vries et  al., 2010; Strang,
+Meagher et  al., 2018). For example, autistic children may find it difficult to self-advocate for
+their gender-related needs and may communicate
+in highly individualistic ways (Kuvalanka et  al.,
+2018; Strang, Powers et  al., 2018). They may have
+varied interpretations of gender-related experiences given common differences in communication and thinking style. Because of the unique
+needs of gender diverse neurodivergent children,
+they may be at high risk for being misunderstood
+(i.e., for their communications to be misinterpreted). Therefore, professionals providing support to these children can best serve them by
+receiving training and developing expertise in
+autism and related neurodevelopmental presentations and/or collaborating with autism specialists (Strang, Meagher et  al., 2018). Such training
+is especially relevant as research has documented
+higher rates of autism among gender diverse
+youth than in the general population (de Vries
+et  al., 2010; Hisle-Gorman et  al., 2019; Shumer
+et  al., 2015).
+
+## Statement 7.4: We recommend health care professionals working with gender diverse children engage in continuing education related to gender diverse children and families. {-}
+
+Continuing professional development regarding
+gender diverse children and families may be
+acquired through various means, including
+through readings (journal articles, books, websites
+associated with gender knowledgeable organizations), attending on-line and in person trainings,
+and joining peer supervision/consultation groups
+(Bartholomaeus et  al., 2021).
+
+Continuing education includes 1) maintaining
+up-to-date knowledge of available and relevant
+research on gender development and gender
+diversity in prepubescent children and gender
+diversity across the life span; 2) maintaining current knowledge regarding best practices for
+assessment, support, and treatment approaches
+with gender diverse children and families. This
+is a relatively new area of practice and health
+care professionals need to adapt as new information emerges through research and other avenues
+(Bartholomaeus et  al., 2021).
+
+## Statement 7.5: We recommend health care professionals conducting an assessment with gender diverse children access and integrate information from multiple sources as part of the assessment. {-}
+
+A comprehensive assessment, when requested
+by a family and/or an HCP can be useful for
+developing intervention recommendations, as
+needed, to benefit the well-being of the child and
+other family members. Such an assessment can be
+beneficial in a variety of situations when a child
+and/or their family/guardians, in coordination with
+providers, feel some type of intervention would
+be helpful. Neither assessments nor interventions
+should ever be used as a means of covertly or
+overtly discouraging a child’s gender diverse
+expressions or identity. Instead, with appropriately
+trained providers, assessment can be an effective
+means of better understanding how to support a
+child and their family without privileging any particular gender identity or expression. An assessment can be especially important for some children
+and their families by collaborating to promote a
+child’s gender health, well-being, and self-fulfillment.
+
+A comprehensive assessment can facilitate the
+formation of an individualized plan to assist a
+gender diverse prepubescent children and family
+members (de Vries & Cohen-Kettenis, 2012;
+Malpas et  al., 2018; Steensma & Wensing-Kruger,
+2019; Telfer et  al., 2018; Tishelman & Kaufman,
+2018). In such an assessment, integrating information from multiple sources is important to 1)
+best understand the child’s gender needs and
+make recommendations; and 2) identify areas of
+child, family/caregiver, and community strengths
+and supports specific to the child’s gender status
+and development as well as risks and concerns
+for the child, their family/caregivers and environment. Multiple informants for both evaluation
+and support/intervention planning purposes may
+include the child, parents/caregivers, extended
+family members, siblings, school personnel, HCPs,
+the community, broader cultural and legal contexts and other sources as indicated (Berg &
+Edwards-Leeper, 2018; Srinath, 2019).
+
+An HCP conducting an assessment of gender
+diverse children needs to explore gender-related
+issues but must also take a broad view of the
+child and the environment, consistent with the
+ecological model described above
+(Bronfenbrenner, 1979) to fully understand the
+factors impacting a child’s well-being and areas
+of gender support and risk (Berg &
+Edwards-Leeper, 2018; Hendricks & Testa, 2012;
+Kaufman & Tishelman, 2018; Tishelman &
+Neumann-Mascis, 2018). This includes understanding the strengths and challenges experienced by the child/family and that are present
+in the environment. We advise HCPs conducting
+an assessment with gender diverse children to
+consider incorporating multiple assessment
+domains, depending on the child and the family’s needs and circumstances. Although some
+of the latter listed domains below do not directly
+address the child’s gender (see items 7–12
+below), they need to be accounted for in a gender assessment, as indicated by clinical judgment, to understand the complex web of factors
+that may be affecting the child’s well-being in
+an integrated fashion, including gender health,
+consistent with evaluation best practices a (APA,
+2015; Berg & Edwards-Leeper, 2018; Malpas
+et al., 2018) and develop a multi-pronged intervention when needed.
+
+Summarizing from relevant research and clinical
+expertise, assessment domains often include 1) a
+child’s asserted gender identity and gender expression, currently and historically; 2) evidence of
+dysphoria, gender incongruence, or both; 3)
+strengths and challenges related to the child, family, peer and others’ beliefs and attitudes about
+gender diversity, acceptance and support for child;
+4) child and family experiences of gender minority
+stress and rejection, hostility, or both due to the
+child’s gender diversity; 5) level of support related
+to gender diversity in social contexts (e.g., school,
+faith community, extended family); 6) evaluation
+of conflict regarding the child’s gender and/or
+parental/caregiver/sibling concerning behavior
+related to the child’s gender diversity; 7) child
+mental health, communication and/or cognitive
+strengths and challenges, neurodivergence, and/or
+behavioral challenges causing significant functional
+difficulty; 8) relevant medical and developmental
+history; 9) areas that may pose risks (e.g., exposure
+to domestic and/or community violence, any form
+of child maltreatment; history of trauma; safety
+and/or victimization with peers or in any other
+setting; suicidality); 10) co-occurring significant
+family stressors, such as chronic or terminal illness, homelessness or poverty; 11) parent/caregiver
+and/or sibling mental health and/or behavioral
+challenges causing significant functional difficulty;
+and 12) child’s and family’s strengths and challenges.
+
+A thorough assessment incorporating multiple
+forms of information gathering is helpful for
+understanding the needs, strengths, protective
+factors, and risks for a specific child and family
+across environments (e.g., home/school). Methods
+of information gathering often include 1) interviews with the child, family members and others
+(e.g., teachers), structured and unstructured; 2)
+caregiver and child completed standardized measures related to gender; general child well-being;
+child cognitive and communication skills and
+developmental disorders/disabilities; support and
+acceptance by parent/caregiver, sibling, extended
+family and peers; parental stress; history of childhood adversities; and/or other issues as appropriate (APA, 2020; Berg & Edwards-Leeper, 2018;
+Kaufman & Tishelman, 2018; Srinath, 2019).
+
+Depending on the family characteristics, the
+developmental profile of the child, or both, methods of information gathering also may also benefit
+from including the following 1) child and/or family observation, structured and unstructured; and
+2) structured and visually supported assessment
+techniques (worksheets; self-portraits; family drawings, etc.) (Berg & Edwards-Leeper, 2018).
+
+## Statement 7.6: We recommend that health care professionals conducting an assessment with gender diverse children consider relevant developmental factors, neurocognitive functioning and language skills. {-}
+
+Given the complexities of assessing young
+children who, unlike adults, are in the process
+of development across a range of domains (cognitive, social, emotional, physiological), it is
+important to consider the developmental status
+of a child and gear assessment modalities and
+interactions to the individualized abilities of the
+child. This includes tailoring the assessment to
+a child’s developmental stage and abilities (preschoolers, school age, early puberty prior to
+adolescence), including using language and
+assessment approaches that prioritize a child's
+comfort, language skills, and means of
+self-expression (Berg & Edwards-Leeper, 2018;
+Srinath, 2019). For example, relevant developmental factors, such as neurocognitive differences (e.g., autism spectrum conditions), and
+receptive and expressive language skills should
+be considered in conducting the assessment.
+Health care professionals may need to consult
+with specialists for guidance in cases in which
+they do not possess the specialized skills themselves (Strang et  al., 2021).
+
+## Statement 7.7: We recommend health care professionals conducting an assessment with gender diverse children consider factors that may constrain accurate reporting of gender identity/gender expression by the child and/or family/caregiver(s). {-}
+
+HCPs conducting an assessment with gender
+diverse children and families need to account for
+developmental, emotional, and environmental factors that may constrain a child’s, caregiver’s, sibling or other’s report or influence their belief
+systems related to gender (Riggs & Bartholomaeus,
+2018). As with all child psychological assessments, environmental and family/caregiver reactions (e.g., punishment), and/or cognitive and
+social factors may influence a child’s comfort
+and/or ability to directly discuss certain factors,
+including gender identity and related issues
+(Srinath, 2019). Similarly, family members may
+feel constrained in freely expressing their concerns and ideas depending on family conflicts or
+dynamics and/or other influences (e.g., cultural/
+religious; extended family pressure) (Riggs &
+Bartholomaeus, 2018).
+
+## Statement 7.8: We recommend health care professionals consider consultation, psychotherapy, or both for a gender diverse child and family/caregivers when families and health care professionals believe this would benefit the well-being and development of a child and/or family. {-}
+
+The goal of psychotherapy should never be aimed
+at modifying a child's gender identity (APA, 2021;
+Ashley, 2019b; Paré, 2020; SAMHSA, 2015; UN
+Human Rights Council, 2020), either covertly or
+overtly. Not all gender diverse children or their
+families need input from MHPs as gender diversity
+is not a mental health disorder (Pediatric Endocrine
+Society, 2020; Telfer et al., 2018). Nevertheless, it is
+often appropriate and helpful to seek psychotherapy
+when there is distress or concerns are expressed by
+parents to improve psychosocial health and prevent
+further distress (APA, 2015). Some of the common
+reasons for considering psychotherapy for a gender
+diverse child and family include the following 1)
+A child is demonstrating significant conflicts, confusion, stress or distress about their gender identity
+or needs a protected space to explore their gender
+(Ehrensaft, 2018; Spivey and Edwards-Leeper, 2019);
+2) A child is experiencing external pressure to
+express their gender in a way that conflicts with
+their self-knowledge, desires, and beliefs (APA,
+2015); 3) A child is struggling with mental health
+concerns, related to or independent of their gender
+(Barrow & Apostle, 2018); 4) A child would benefit
+from strengthening their resilience in the face of
+negative environmental responses to their gender
+identity or presentation (Craig & Auston, 2018;
+Malpas et al., 2018); 5) A child may be experiencing
+mental health and/or environmental concerns,
+including family system problems that can be misinterpreted as gender congruence or incongruence
+(Berg & Edwards-Leeper, 2018); and 6) A child
+expresses a desire to meet with an MHP to get
+gender-related support. In these situations, the psychotherapy will focus on supporting the child with
+the understanding that the child’s parent(s)/caregiver(s) and potentially other family members will
+be included as necessary (APA, 2015; Ehrensaft,
+2018; McLaughlin & Sharp, 2018). Unless contraindicated, it is extremely helpful for parents/guardians to participate in some capacity in the
+psychotherapy process involving prepubescent children as family factors are often central to a child’s
+well-being. Although relatively unexplored in
+research involving gender diverse children, it may
+be important to attend to the relationship between
+siblings and the gender diverse child (Pariseau
+et  al., 2019; Parker & Davis-McCabe, 2021).
+
+HCPs should employ interventions tailor-made
+to the individual needs of the child that are
+designed to 1) foster protective social and emotional coping skills to promote resilience in the
+face of potential negative reactions to the child’s
+gender identity, expressions, or both (Craig &
+Austin, 2016; Malpas et  al., 2018; Spencer, Berg
+et  al., 2021); 2) collaboratively problem-solve
+social challenges to reduce gender minority stress
+(Barrow & Apostle, 2018; Tishelman &
+Neumann-Mascis, 2018); 3) strengthen environmental supports for the child and/or members of
+the immediate and extended family (Kaufman &
+Tishelman, 2018); and 4) provide the child an
+opportunity to further understand their internal
+gender experiences (APA, 2015; Barrow& Apostle,
+2018; Ehrensaft, 2018; Malpas et  al., 2018;
+McLaughlin & Sharp, 2018). It is helpful for HCPs
+to develop a relationship with a gender diverse
+child and family that can endure over time as
+needed. This enables the child/family to establish
+a long-term trusting relationship throughout
+childhood whereby the HCP can offer support
+and guidance as a child matures and as potentially
+
+different challenges or needs emerge for the child/
+family (Spencer, Berg et  al., 2021; Murchison
+et  al., 2016). In addition to the above and within
+the limits of available resources, when a child is
+neurodivergent, an HCP who has the skill set to
+address both neurodevelopmental differences and
+gender is most appropriate (Strang et  al., 2021).
+
+As outlined in the literature, there are numerous reasons parents/caregivers, siblings, and
+extended family members of a prepubescent child
+may find it useful to seek psychotherapy for
+themselves (Ehrensaft, 2018; Malpas et  al., 2018;
+McLaughlin & Sharp, 2018). As summarized
+below, some of these common catalysts for seeking such treatment occur when one or more family members 1) desire education around gender
+development (Spivey & Edwards-Leeper, 2019);
+2) are experiencing significant confusion or stress
+about the child’s gender identity, expression, or
+both (Ashley, 2019c; Ehrensaft, 2018); 3) need
+guidance related to emotional and behavioral
+concerns regarding the gender diverse child
+(Barrow & Apostle, 2018; 4) need support to
+promote affirming environments outside of the
+home (e.g., school, sports, camps) (Kaufman &
+Tishelman, 2018); 5) are seeking assistance to
+make informed decisions about social transition,
+including how to do so in a way that is optimal
+for a child’s gender development and health (Lev
+& Wolf-Gould, 2018); 6) are seeking guidance
+for dealing with condemnation from others,
+including political entities and accompanying legislation, regarding their support for their gender
+diverse child (negative reactions directed toward
+parents/caregivers can sometimes include rejection and/or harassment/abuse from the social
+environment arising from affirming decisions
+(Hidalgo & Chen, 2019); 7) are seeking to process
+their own emotional reactions and needs about
+their child’s gender identity, including grief about
+their child’s gender diversity and/or potential
+fears or anxieties for their child’s current and
+future well-being (Pullen Sansfaçon et  al., 2019);
+and 8) are emotionally distressed and/or in conflict with other family members regarding the
+child’s gender diversity (as needed, HCPs can
+provide separate sessions for parents/caregivers,
+siblings and extended family members for support, guidance, and/or psychoeducation)
+(McLaughlin & Sharp, 2018; Pullen Sansfaçon
+et al., 2019; Spivey & Edwards-Leeper, 2019).
+
+## Statement 7.9: We recommend health care professionals offering consultation, psychotherapy, or both to gender diverse children and families/caregivers work with other settings and individuals important to the child to promote the child's resilience and emotional well-being. {-}
+
+Consistent with the ecological model described
+above and, as appropriate, based on individual/
+family circumstances, it can be extremely helpful
+for HCPs to prioritize coordination with important others (e.g., teachers, coaches, religious leaders) in a child’s life to promote emotional and
+physical safety across settings (e.g., school settings, sports and other recreational activities,
+faith-based involvement) (Kaufman & Tishelman,
+2018). Therapeutic and/or support groups are
+often recommended as a valuable resource for
+families/caregivers and/or gender diverse children
+themselves (Coolhart, 2018; Horton et  al., 2021;
+Malpas et  al., 2018; Murchison et  al., 2016).
+
+## Statement 7.10: We recommend HCPs offering consultation, psychotherapy, or both to gender diverse children and families/caregivers provide both parties with age appropriate psycho-education about gender development. {-}
+
+Parents/caregivers and their gender diverse child
+should have the opportunity to develop knowledge
+regarding ways in which families/caregivers can
+best support their child to maximize resilience,
+self-awareness, and functioning (APA, 2015;
+Ehrensaft, 2018; Malpas, 2018; Spivey &
+Edwards-Leeper, 2019). It is neither possible nor
+is it the role of the HCP to predict with certainty
+the child’s ultimate gender identity; instead, the
+HCP’s task is to provide a safe space for the child’s
+identity to develop and evolve over time without
+attempts to prioritize any particular developmental
+trajectory with regard to gender (APA, 2015;
+Spivey & Edwards-Leeper, 2019). Gender diverse
+children and early adolescents have different needs
+and experiences than older adolescents, socially
+and physiologically, and those differences should
+be reflected in the individualized approach HCPs
+provide to each child/family (Keo-Meir &
+Ehrensaft, 2018; Spencer, Berg et  al., 2021).
+
+Parents/caregivers and their children should
+also have the opportunity to develop knowledge
+about gender development and gender literacy
+through age-appropriate psychoeducation (Berg
+& Edwards-Leeper, 2018; Rider, Vencill et  al.,
+2019; Spencer, Berg et  al., 2021). Gender literacy
+involves understanding the distinctions between
+sex designated at birth, gender identity, and gender expression, including the ways in which these
+three factors uniquely come together for a child
+(Berg & Edwards-Leeper, 2018; Rider, Vencill
+et  al., 2019; Spencer, Berg et  al., 2021). As a child
+gains gender literacy, they begin to understand
+their body parts do not necessarily define their
+gender identity and/or their gender expression
+(Berg & Edwards-Leeper, 2018; Rider, Vencill
+et  al., 2019; Spencer, Berg et  al., 2021). Gender
+literacy also involves learning to identify messages
+and experiences related to gender within society.
+As a child gains gender literacy, they may view
+their developing gender identity and gender
+expression more positively, promoting resilience
+and self-esteem, and diminishing risk of shame
+in the face of negative messages from the environment. Gaining gender literacy through psychoeducation may also be important for siblings
+and/or extended family members who are important to the child (Rider, Vencill et  al., 2019;
+Spencer, Berg et  al., 2021).
+
+## Statement 7.11: We recommend health care professionals provide information to gender diverse children and their families/caregivers as the child approaches puberty about potential gender-affirming medical interventions, the effects of these treatments on future fertility, and options for fertility preservation. {-}
+
+As a child matures and approaches puberty,
+HCPs should prioritize working with children and
+their parents/caregivers to integrate psychoeducation about puberty, engage in shared
+decision-making about potential gender-affirming
+medical interventions, and discuss fertility-related
+and other reproductive health implications of
+medical treatments (Nahata, Quinn et  al., 2018;
+Spencer, Berg et  al., 2021). Although only limited
+empirical research exists to evaluate such interventions, expert consensus and developmental
+psychological literature generally support the
+notion that open communication with children
+about their bodies and preparation for physiological changes of puberty, combined with
+gender-affirming acceptance, will promote resilience and help to foster positive sexuality as a
+child matures into adolescence (Spencer, Berg
+et al., 2019). All these discussions may be extended
+(e.g., starting earlier) to include neurodivergent
+children, to ensure there is enough time for
+reflection and understanding, especially as choices
+regarding future gender- affirming medical care
+potentially arise (Strang, Jarin et  al., 2018). These
+discussions could include the following topics:
+
+- Review of body parts and their different functions;
+- The ways in which a child’s body may change over time with and without medical intervention;
+- The impact of medical interventions on later sexual functioning and fertility;
+- The impact of puberty suppression on potential later medical interventions;
+- Acknowledgment of the current lack ofclinical data in certain areas related to the impacts of puberty suppression;
+- The importance of appropriate sex education prior to puberty.
+
+These discussions should employ developmentally appropriate language and teaching styles,
+and be geared to the specific needs of each individual child (Spencer, Berg et  al., 2021).
+
+## Statement 7.12: We recommend parents/caregivers and health care professionals respond supportively to children who desire to be acknowledged as the gender that matches their internal sense of gender identity. {-}
+
+Gender social transition refers to a process by
+which a child is acknowledged by others and has
+the opportunity to live publicly, either in all situations or in certain situations, in the gender
+identity they affirm and has no singular set of
+parameters or actions (Ehrensaft et  al., 2018).
+
+Gender social transition has often been conceived in the past as binary—a girl transitions to
+a boy, a boy to a girl. The concept has expanded
+to include children who shift to a nonbinary or
+individually shaped iteration of gender identity
+(Chew et  al., 2020; Clark et  al., 2018). Newer
+research indicates the social transition process may
+serve a protective function for some prepubescent
+children and serve to foster positive mental health
+and well-being (Durwood et  al., 2017; Gibson
+et  al., 2021; Olson et  al., 2016). Thus, recognition
+that a child’s gender may be fluid and develop
+over time (Edwards-Leeper et  al., 2016; Ehrensaft,
+2018; Steensma, Kreukels et  al., 2013) is not sufficient justification to negate or deter social transition for a prepubescent child when it would be
+beneficial. Gender identity evolution may continue
+even after a partial or complete social transition
+process has taken place (Ashley, 2019e;
+Edwards-Leeper et  al., 2018; Ehrensaft, 2020;
+Ehrensaft et  al., 2018; Spivey & Edwards-Leeper,
+2019). Although empirical data remains limited,
+existing research has indicated children who are
+most assertive about their gender diversity are
+most likely to persist in a diverse gender identity
+across time, including children who socially transition prior to puberty (Olson et  al., 2022; Rae
+et al., 2019; Steensma, McGuire et al., 2013). Thus,
+when considering a social transition, we suggest
+parents/caregivers and HCPs pay particular attention to children who consistently and often persistently articulate a gender identity that does not
+match the sex designated at birth. This includes
+those children who may explicitly request or desire
+a social acknowledgement of the gender that better
+matches the child's articulated gender identity and/
+or children who exhibit distress when their gender
+as they know it is experienced as incongruent with
+the sex designated at birth (Rae et  al., 2019;
+Steensma, Kreukels et  al., 2013).
+
+Although there is a dearth of empirical literature regarding best practices related to the social
+transition process, clinical literature and expertise
+provides the following guidance that prioritizes
+a child’s best interests (Ashley, 2019e; Ehrensaft,
+2018; Ehrensaft et al, 2018; Murchison et  al.,
+2016; Telfer et  al., 2018): 1) social transition
+should originate from the child and reflect the
+child’s wishes in the process of making the
+decision to initiate a social transition process; 2)
+an HCP may assist exploring the advantages/benefits, plus potential challenges of social transition;
+3) social transition may best occur in all or in
+specific contexts/settings only (e.g., school, home);
+and 4) a child may or may not choose to disclose
+to others that they have socially transitioned, or
+may designate, typically with the help of their
+parents/caregivers, a select group of people with
+whom they share the information.
+
+In summary, social transition, when it takes
+place, is likely to best serve a child’s well-being
+when it takes place thoughtfully and individually
+for each child. A child’s social transition (and
+gender as well) may evolve over time and is not
+necessarily static, but best reflects the cross-section
+of the child’s established self-knowledge of their
+present gender identity and desired actions to
+express that identity (Ehrensaft et  al., 2018).
+
+A social transition process can include one or
+more of a number of different actions consistent
+with a child’s affirmed gender (Ehrensaft et  al.,
+2018), including:
+
+- Name change;
+- Pronoun change;
+- Change in sex/gender markers (e.g., birth certificate; identification cards; passport; school and medical documentation; etc.);
+- Participation in gender-segregated programs (e.g., sports teams; recreational clubs and camps; schools; etc.);
+- Bathroom and locker room use;
+- Personal expression (e.g., hair style; clothing choice; etc.);
+- Communication of affirmed gender to others (e.g., social media; classroom or school announcements; letters to extended families or social contacts; etc.).
+
+## Statement 7.13: We recommend health care professionals and parents/caregivers support children to continue to explore their gender throughout the pre-pubescent years, regardless of social transition. {-}
+
+It is important children who have engaged in
+social transition be afforded the same opportunities as other children to continue considering 
+meanings and expressions of gender throughout
+their childhood years (Ashley 2019e; Spencer,
+Berg et  al., 2021). Some research has found children may experience gender fluidity or even
+detransition after an initial social transition.
+Research has not been conclusive about when in
+the life span such detransition is most likely to
+occur, or what percentage of youth will eventually
+experience gender fluidity and/or a desire to
+detransition—due to gender evolution, or potentially other reasons (e.g., safety concerns; gender
+minority stress) (Olson et  al., 2022; Steensma,
+Kreukels et  al., 2013). A recent research report
+indicates in the US, detransition occurs with only
+a small percentage of youth five years after a
+binary social transition (Olson et  al., 2022); further follow-up of these young people would be
+helpful. Replication of these findings is important
+as well since this study was conducted with a
+limited and self-selected participant pool in the
+US and thus may not be applicable to all gender
+diverse children. In summary, we have limited
+ability to know in advance the ways in which a
+child’s gender identity and expressions may evolve
+over time and whether or why detransition may
+take place for some. In addition, not all gender
+diverse children wish to explore their gender
+(Telfer et  al., 2018). Cisgender children are not
+expected to undertake this exploration, and therefore attempts to force this with a gender diverse
+child, if not indicated or welcomed, can be experienced as pathologizing, intrusive and/or cisnormative (Ansara & Hegarty, 2012; Bartholomaeus
+et  al., 2021; Oliphant et  al., 2018).
+
+## Statement 7.14: We recommend health care professionals discuss the potential benefits and risks of a social transition with families who are considering it. {-}
+
+Social transition in prepubescent children consists of a variety of choices, can occur as a process over time, is individualized based on both
+a child’s wishes and other psychosocial considerations (Ehrensaft, 2018), and is a decision for
+which possible benefits and challenges should be
+weighted and discussed.
+
+A social transition may have potential benefits
+as outlined in clinical literature (e.g., Ehrensaft
+et  al., 2018) and supported by research (Fast &
+Olson, 2018; Rae et  al., 2019). These include
+facilitating gender congruence while reducing
+gender dysphoria and enhancing psychosocial
+adjustment and well-being (Ehrensaft et al., 2018).
+Studies have indicated socially transitioned gender diverse children largely mirror the mental
+health characteristics of age matched cisgender
+siblings and peers (Durwood et  al., 2017). These
+findings differ markedly from the mental health
+challenges consistently noted in prior research
+with gender diverse children and adolescents
+(Barrow & Apostle, 2018) and suggest the impact
+of social transition may be positive. Additionally,
+social transition for children typically can only
+take place with the support and acceptance of
+parents/caregivers, which has also been demonstrated to facilitate well-being in gender diverse
+children (Durwood et  al., 2021; Malpas et  al.,
+2018; Pariseau et  al., 2019), although other forms
+of support, such as school-based support, have
+also been identified as important (Durwood
+et  al., 2021; Turban, King et  al., 2021). HCPs
+should discuss the potential benefits of a social
+transition with children and families in situations
+in which 1) there is a consistent, stable articulation of a gender identity that is incongruent with
+the sex assigned at birth (Fast & Olson, 2018).
+This should be differentiated from gender diverse
+expressions/behaviors/interests (e.g., playing with
+toys, expressing oneself through clothing or
+appearance choices, and/or engaging in activities
+socially defined and typically associated with the
+other gender in a binary model of gender)
+(Ehrensaft, 2018; Ehrensaft et  al., 2018); 2) the
+child is expressing a strong desire or need to
+transition to the gender they have articulated as
+being their authentic gender (Ehrensaft et  al.,
+2018; Fast & Olson, 2018; Rae et  al., 2019); and
+3) the child will be emotionally and physically
+safe during and following transition (Brown &
+Mar, 2018). Prejudice and discrimination should
+be considerations, especially in localities where
+acceptance of gender diversity is limited or prohibited (Brown & Mar, 2018; Hendricks & Testa,
+2012; Turban, King et  al., 2021). Of note, there
+can also be possible risks to a gender diverse
+child who does not socially transition, including
+1) being ostracized or bullied for being perceived
+as not conforming to prescribed community
+gender roles and/or socially expected patterns of
+behavior; and 2) living with the internal stress
+or distress that the gender they know themselves
+to be is incongruent with the gender they are
+being asked to present to the world.
+
+To promote gender health, the HCP should discuss the potential challenges of a social transition.
+One concern often expressed relates to fear that a
+child will preclude considering the possible evolution
+of their gender identity as they mature or be reluctant to initiate another gender transition even if they
+no longer feel their social transition matches their
+current gender identity (Edwards-Leeper et al., 2016;
+Ristori & Steensma, 2016). Although limited, recent
+research has found some parents/caregivers of children who have socially transitioned may discuss
+with their children the option of new gender iterations (for example, reverting to an earlier expression of gender) and are comfortable about this
+possibility (Olson et  al., 2019). Another often identified social transition concern is that a child may
+suffer negative sequelae if they revert to the former
+gender identity that matches their sex designated at
+birth (Chen et al., 2018; Edwards-Leeper et al., 2019;
+Steensma & Cohen-Kettenis, 2011). From this point
+of view, parents/caregivers should be aware of the
+potential developmental effect of a social transition
+on a child.
+
+HCPs should provide guidance to parents/caregivers and supports to a child when a social gender transition is being considered or taking place
+by 1) providing consultation, assessment, and gender supports when needed and sought by the parents/caregivers; 2) aiding family members, as
+needed, to understand the child’s desires for a
+social transition and the family members’ own
+feelings about the child’s expressed desires; 3)
+exploring with, and learning from, the parents/
+caregivers whether and how they believe a social
+transition would benefit their child both now and
+in their ongoing development; 4) providing guidance when parents/caregivers are not in agreement
+about a social transition and offering the opportunity to work together toward a consistent understanding of their child’s gender status and needs;
+5) providing guidance about safe and supportive
+ways to disclose their child’s social transition to
+others and to facilitate their child transitioning in
+their various social environments (e.g., schools,
+extended family); 6) facilitating communication,
+when desired by the child, with peers about gender
+and social transition as well as fortifying positive
+peer relationships; 7) providing guidance when
+social transition may not be socially accepted or
+safe, either everywhere or in specific situations, or
+when a child has reservations about initiating a
+transition despite their wish to do so; there may
+be multiple reasons for reservations, including
+fears and anxieties; 8) working collaboratively with
+family members and MHPs to facilitate a social
+transition in a way that is optimal for the child's
+unfolding gender development, overall well-being,
+and physical and emotional safety; and 9) providing psychoeducation about the many different trajectories the child’s gender may take over time,
+leaving pathways open to future iterations of gender for the child, and emphasizing there is no
+need to predict an individual child’s gender identity in the future (Malpas et  al., 2018).
+
+All of these tasks incorporate enhancing the
+quality of communication between the child and
+family members and providing an opportunity
+for the child to be heard and listened to by all
+family members involved. These relational processes in turn facilitate the parents/caregivers’
+success in making informed decisions about the
+advisability and/or parameters of a social transition for their child (Malpas et  al., 2018).
+
+One role of HCPs is to provide guidance and
+support in situations in which children and parents/caregivers wish to proceed with a social transition but conclude that the social environment
+would not be accepting of those choices, by 1)
+helping parents/caregivers define and extend safe
+spaces in which the child can express their authentic gender freely; 2) discussing with parents/caregivers ways to advocate that increase the likelihood
+of the social environment being supportive in the
+future, if this is a realistic goal; 3) intervening as
+needed to help the child/family with any associated
+distress and/or shame brought about by the continued suppression of authentic gender identity
+and the need for secrecy; and 4) building both
+the child’s and the family’s resilience, instilling the
+understanding that if the social environment is
+having difficulty accepting a child’s social transition and affirmed gender identity, it is not because
+of some shortcoming in the child but because of 
+insufficient gender literacy in the social environment (Ehrensaft et  al., 2018).
+
+## Statement 7.15: We suggest health care professionals consider working collaboratively with other professionals and organizations to promote the well-being of gender diverse children and minimize the adversities they may face. {-}
+
+All children have the right to be supported
+and respected in their gender identities (Human
+Rights Campaign, 2018; Paré, 2020; SAMHSA,
+2015). As noted above, gender diverse children
+are a particularly vulnerable group (Barrow &
+Apostle, 2018; Cohen-Kettenis et  al., 2003;
+Giovanardi et  al., 2018; Gower, Rider, Coleman
+et  al., 2018; Grossman & D’Augelli, 2007;
+Hendricks & Testa, 2012; Reisner, Greytak et  al.,
+2015; Ristori & Steensma, 2016; Roberts et  al.,
+2012; Tishelman & Neumann-Mascis, 2018). The
+responsibilities of HCPs as advocates encompass
+acknowledging social determinants of health are
+critical for marginalized minorities (Barrow &
+Mar, 2018; Hendricks & Testa, 2012). Advocacy
+is taken up by all HCPs in the form of child and
+family support (APA, 2015; Malpas et  al., 2018).
+Some HCPs may be called on to move beyond
+their individual offices or programs to advocate
+for gender diverse children in the larger community, often in partnership with stakeholders,
+including parents/caregivers, allies, and youth
+(Kaufman & Tishelman, 2018; Lopez et  al., 2017;
+Vanderburgh, 2009). These efforts may be instrumental in enhancing children’s gender health and
+promoting their civil rights (Lopez et  al., 2017).
+
+HCP’s voices may be essential in schools, in
+parliamentary bodies, in courts of law, and in
+the media (Kuvalanka et  al., 2019; Lopez et  al.,
+2017; Whyatt-Sames, 2017; Vanderburgh, 2009).
+In addition, HCPs may have a more generalized
+advocacy role in acknowledging and addressing
+the frequent intentional or unintentional negating of the experience of gender diverse children
+that may be transmitted or communicated by
+adults, peers, and in media (Rafferty et  al.,
+2018). Professionals who possess the skill sets
+and find themselves in appropriate situations
+can provide clear de-pathologizing statements
+on the needs and rights of gender diverse children and on the damage caused by discriminatory and transphobic rules, laws, and norms
+(Rafferty et  al., 2018).
+
