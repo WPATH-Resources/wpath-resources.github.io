@@ -136,9 +136,9 @@ cases, we recognize evidence is limited and/or
 services may not be accessible or desirable.
 
 
-## Statement 5.1: We recommend health care professional assessing transgender and gender diverse adults for gender-affirming treatments:
+## Statement 5.1: We recommend health care professional assessing transgender and gender diverse adults for gender-affirming treatments: {-}
 
-### Statement 5.1.a: Are licensed by their statutory body and hold, at a minimum, a master’s degree or equivalent training in a clinical field relevant to this role and granted by a nationally accredited statutory institution.
+### Statement 5.1.a: Are licensed by their statutory body and hold, at a minimum, a master’s degree or equivalent training in a clinical field relevant to this role and granted by a nationally accredited statutory institution. {-}
 
 TGD people, as with all other people seeking
 health care, should have the highest quality of care
@@ -189,7 +189,7 @@ of care of TGD people (American Psychological
 Association, 2015; T'Sjoen et  al., 2020). For more
 information see Chapter 4—Education.
 
-### Statement 5.1.b: For countries requiring a diagnosis for access to care, the health care professional should be competent using the latest edition of the World Health Organization's International Classification of Diseases (ICD) for diagnosis. 
+### Statement 5.1.b: For countries requiring a diagnosis for access to care, the health care professional should be competent using the latest edition of the World Health Organization's International Classification of Diseases (ICD) for diagnosis. {-}
 
 In countries that
 have not implemented the latest ICD, other taxonomies may be used; efforts should be undertaken to utilize the latest ICD as soon as practicable.
@@ -203,7 +203,7 @@ person’s experienced identity and any need for
 GAMSTs and does not consider a TGD identity
 to be a mental illness.
 
-### Statement 5.1.c: Are able to identify co-existing mental health or other psychosocial concerns and distinguish these from gender dysphoria, incongruence, and diversity.
+### Statement 5.1.c: Are able to identify co-existing mental health or other psychosocial concerns and distinguish these from gender dysphoria, incongruence, and diversity. {-}
 
 Gender diversity is a natural variation in people
 and is not inherently pathological (American
@@ -235,7 +235,7 @@ request mental health input or support during their
 transition. For additional information see Chapter
 18—Mental Health.
 
-### Statement 5.1.d: Are able to assess capacity to consent for treatment.
+### Statement 5.1.d: Are able to assess capacity to consent for treatment. {-}
 
 An assessment for GAMSTs must include an
 examination of the TGD person’s ability to consent
@@ -268,9 +268,9 @@ regulator-approved independent decision maker
 with the power to determine health care treatment grants consent and confirms the proposed
 treatment is in alignment with the TGD individual’s needs and wishes.
 
-### Statement 5.1.e: Have experience or be qualified to assess clinical aspects of gender dysphoria, incongruence, and diversity. For supporting text, see Statement 5.1.f.
+### Statement 5.1.e: Have experience or be qualified to assess clinical aspects of gender dysphoria, incongruence, and diversity. For supporting text, see Statement 5.1.f. {-}
 
-### Statement 5.1.f: Undergo continuing education in health care relating to gender dysphoria, incongruence, and diversity.
+### Statement 5.1.f: Undergo continuing education in health care relating to gender dysphoria, incongruence, and diversity. {-}
 
 As in any other area of clinical practice, it is vital
 HCPs who are providing assessment for the initiation
@@ -290,7 +290,7 @@ Thorne, Yip et  al., 2019). Consequently, keeping up
 to date in the areas of TGD health is vital for anyone
 involved in an assessment for GAMSTs.
 
-## Statement 5.2: We suggest health care professionals assessing transgender and gender diverse adults seeking gender-affirming treatment liaise with professionals from different disciplines within the field of transgender health for consultation and referral, if required.
+## Statement 5.2: We suggest health care professionals assessing transgender and gender diverse adults seeking gender-affirming treatment liaise with professionals from different disciplines within the field of transgender health for consultation and referral, if required. {-}
 
 If required and if possible, assessment for
 GAMST should be conducted by a multidisciplinary team (Costa, Rosa-e-Silva et  al., 2018;
@@ -315,9 +315,9 @@ regarding the requirements for gender-affirming
 medical and surgical treatment (all should
 be met):**
 
-## Statement 5.3: We recommend health care professionals assessing transgender and gender diverse adults for gender-affirming medical and surgical treatment:
+## Statement 5.3: We recommend health care professionals assessing transgender and gender diverse adults for gender-affirming medical and surgical treatment: {-}
 
-### Statement 5.3.a: Only recommend gender-affirming medical treatment requested by a TGD person when the experience of gender incongruence is marked and sustained.
+### Statement 5.3.a: Only recommend gender-affirming medical treatment requested by a TGD person when the experience of gender incongruence is marked and sustained. {-}
 
 To access GAMSTs, a TGD person’s gender
 incongruence must be marked and sustained.
@@ -365,7 +365,7 @@ are encouraged to give due consideration to the
 life stage, history, and current circumstances of
 the adult being assessed.
 
-### Statement 5.3.b: Ensure fulfillment of diagnostic criteria prior to initiating gender-affirming treatments in regions where a diagnosis is necessary to access health care.
+### Statement 5.3.b: Ensure fulfillment of diagnostic criteria prior to initiating gender-affirming treatments in regions where a diagnosis is necessary to access health care. {-}
 
 A diagnosis of gender incongruence may be necessary in some regions to access transition-related
 care. When a diagnosis is necessary to access
@@ -400,7 +400,7 @@ be undertaken with sensitivity to facilitate the
 best relationship between the provider and the
 TGD individual.
 
-### Statement 5.3.c: Identify and exclude other possible causes of apparent gender incongruence prior to the initiation of gender-affirming treatments.
+### Statement 5.3.c: Identify and exclude other possible causes of apparent gender incongruence prior to the initiation of gender-affirming treatments. {-}
 
 In rare cases, TGD individuals might have a condition that may be mistaken for gender incongruence or may have another reason for seeking
 treatment aside from the alleviation of gender incongruence. In these cases, and when there is ambiguity
@@ -436,7 +436,7 @@ from TGD people who have gender incongruence
 simply on the basis that they have a mental health
 or neurodevelopmental condition. For more information see Chapter 18—Mental Health.
 
-### Statement 5.3.d: Ensure any mental health conditions that could negatively impact the outcome of genderaffirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment.
+### Statement 5.3.d: Ensure any mental health conditions that could negatively impact the outcome of genderaffirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment. {-}
 
 Like their cisgender counterparts, TGD people may have mental health problems. Treatment
 for mental health problems can and should
@@ -482,7 +482,7 @@ health problems may exacerbate symptoms
 consequently, this should be done only when all
 other avenues have been exhausted.
 
-### Statement 5.3.e: Ensure any physical health conditions that could negatively impact the outcome of gender-affirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment.
+### Statement 5.3.e: Ensure any physical health conditions that could negatively impact the outcome of gender-affirming medical treatments are assessed, with risks and benefits discussed, before a decision is made regarding treatment. {-}
 
 In rare cases, GAMSTs, such as hormonal and
 surgical interventions, may have iatrogenic consequences or may exacerbate pre-existing physical
@@ -526,7 +526,7 @@ made with a view toward re-initiating treatment
 as soon as practicable. It is also important HCPs
 develop a treatment strategy for managing physical conditions that facilitates health and promotes consistent adherence to a treatment plan.
 
-### Statement 5.3.f: Assess the capacity to consent for the specific gender-affirming treatments prior to the initiation of this treatment. 
+### Statement 5.3.f: Assess the capacity to consent for the specific gender-affirming treatments prior to the initiation of this treatment. {-}
 
 The practice of informed consent to treatment
 is central to the provision of health care. Informed
@@ -593,7 +593,7 @@ the most affirmative and least restrictive health
 care is provided to the individual. Also see
 Chapter 11—Institutional Environments.
 
-### Statement 5.3.g: Assess the capacity of the gender diverse and transgender adult to understand the effect of gender-affirming treatment on reproduction and explore reproductive options with the individual prior to the initiation of gender-affirming treatment.
+### Statement 5.3.g: Assess the capacity of the gender diverse and transgender adult to understand the effect of gender-affirming treatment on reproduction and explore reproductive options with the individual prior to the initiation of gender-affirming treatment. {-}
 
 As gender-affirming medical interventions
 often affect reproductive capacity, HCPs should
@@ -638,7 +638,7 @@ preservation procedures (Vyas et  al., 2021). For
 more information see Chapter 16—
 Reproductive Health.
 
-## Statement 5.4: We suggest, as part of the assessment for gender-affirming hormonal or surgical treatment, professionals who have competencies in the assessment of transgender and gender diverse people wishing gender-related medical treatment consider the role of social transition together with the individual.
+## Statement 5.4: We suggest, as part of the assessment for gender-affirming hormonal or surgical treatment, professionals who have competencies in the assessment of transgender and gender diverse people wishing gender-related medical treatment consider the role of social transition together with the individual. {-}
 
 Social transition can be extremely beneficial
 to many TGD people although not all TGD people are able to socially transition or wish to
@@ -691,7 +691,7 @@ GAMSTs. Given the lack of data on health outcomes for TGD people who do not soci
 Loo et  al., 2021), GAMSTs should be approached
 cautiously in such circumstances.
 
-## Statement 5.5: We recommend transgender and gender diverse adults who fulfill the criteria for gender-affirming medical and surgical treatment require a single opinion for the initiation of this treatment from a professional who has competencies in the assessment of transgender and gender diverse people wishing gender-related medical and surgical treatment.
+## Statement 5.5: We recommend transgender and gender diverse adults who fulfill the criteria for gender-affirming medical and surgical treatment require a single opinion for the initiation of this treatment from a professional who has competencies in the assessment of transgender and gender diverse people wishing gender-related medical and surgical treatment. {-}
 
 Previous versions of the SOC guidelines have
 required TGD individuals to be assessed for
@@ -726,7 +726,7 @@ and diagnose (Bouman et  al., 2014; Yuan et al,
 2021). Further written opinions/signatures may be
 requested where there is a specific clinical need.
 
-## Statement 5.6: We suggest health care professionals assessing transgender and gender diverse people seeking gonadectomy consider a minimum of 6 months of hormone therapy as appropriate to the TGD person’s gender goals before the TGD person undergoes irreversible surgical intervention (unless hormones are not clinically indicated for the individual).
+## Statement 5.6: We suggest health care professionals assessing transgender and gender diverse people seeking gonadectomy consider a minimum of 6 months of hormone therapy as appropriate to the TGD person’s gender goals before the TGD person undergoes irreversible surgical intervention (unless hormones are not clinically indicated for the individual). {-}
 
 The Endocrine Society Clinical Practice
 Guidelines advise a period of consistent hormone
@@ -758,7 +758,7 @@ they are contraindicated due to health reasons.
 For more information see Chapter 13—Surgery
 and Postoperative Care.
 
-## Statement 5.7: We recommend health care professionals assessing adults who wish to detransition and seek gender-related hormone intervention, surgical intervention, or both, utilize a comprehensive multidisciplinary assessment that will include additional viewpoints from experienced health care professionals in transgender health and that considers, together with the individual, the role of social transition as part of the assessment process.
+## Statement 5.7: We recommend health care professionals assessing adults who wish to detransition and seek gender-related hormone intervention, surgical intervention, or both, utilize a comprehensive multidisciplinary assessment that will include additional viewpoints from experienced health care professionals in transgender health and that considers, together with the individual, the role of social transition as part of the assessment process. {-}
 
 Many TGD adults may consider a range of
 identities and elements of gender presentation

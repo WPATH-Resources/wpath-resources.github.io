@@ -178,7 +178,7 @@ health care for TGD people, regardless of where
 they live or whether there are resources available
 to those who seek to provide such health care.
 
-## Statement 2.1: We recommend health care systems should provide medically necessary gender-affirming health care for transgender and gender diverse people.
+## Statement 2.1: We recommend health care systems should provide medically necessary gender-affirming health care for transgender and gender diverse people. {-}
 
 Medical necessity is a term common to health
 care coverage and insurance policies globally. A
@@ -296,12 +296,7 @@ gender-affirming hormones; counseling or psychotherapeutic treatment as appropri
 patient and based on a review of the patient’s
 individual circumstances and needs.
 
-Statement 2.2
-We recommend health care professionals and
-other users of the Standards of Care, Version
-8 (SOC-8) apply the recommendations in ways
-that meet the needs of local transgender and
-gender diverse communities, by providing culturally sensitive care that recognizes the realities of the countries they are practicing in.
+## Statement 2.2: We recommend health care professionals and other users of the Standards of Care, Version 8 (SOC-8) apply the recommendations in ways that meet the needs of local transgender and gender diverse communities, by providing culturally sensitive care that recognizes the realities of the countries they are practicing in. {-}
 
 TGD people identify in many different ways
 worldwide, and those identities exist within a
@@ -358,7 +353,7 @@ provide support that is sensitive to the local
 needs and identities of TGD people and provide
 them with culturally competent and safe care.
 
-## Statement 2.3: We recommend health care providers understand the impact of social attitudes, laws, economic circumstances, and health systems on the lived experiences of transgender and gender diverse people worldwide.
+## Statement 2.3: We recommend health care providers understand the impact of social attitudes, laws, economic circumstances, and health systems on the lived experiences of transgender and gender diverse people worldwide. {-}
 
 TGD people’s lived experiences vary greatly,
 depending on a range of factors, including social,
@@ -454,7 +449,7 @@ rate in the general population (Baral et  al., 2013).
 Sexual health outcomes for transgender men are
 also problematic (e.g., Mujugira et  al., 2021).
 
-## Statement 2.4: We recommend translations of the SOC focus on cross-cultural, conceptual and literal equivalence to ensure alignment with the core principles that underpin the SOC-8.
+## Statement 2.4: We recommend translations of the SOC focus on cross-cultural, conceptual and literal equivalence to ensure alignment with the core principles that underpin the SOC-8. {-}
 
 Much of the research literature on TGD people
 is produced in high-income and English-speaking
@@ -487,7 +482,7 @@ translation should follow established processes for
 quality assurance (Centers for Medicare & Medicaid
 Services, 2010; Sprager & Martinez, 2015)
 
-## Statement 2.5: We recommend health care professionals and policymakers always apply the SOC-8 core principles to their work with transgender and gender diverse people to ensure respect for human rights and access to appropriate and competent health care, including:
+## Statement 2.5: We recommend health care professionals and policymakers always apply the SOC-8 core principles to their work with transgender and gender diverse people to ensure respect for human rights and access to appropriate and competent health care, including: {-}
 
 ### General principles {-}
 

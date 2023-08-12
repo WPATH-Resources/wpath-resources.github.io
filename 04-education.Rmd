@@ -81,7 +81,7 @@ some cases, we recognize evidence is limited
 and/or services may not be accessible or
 desirable.
 
-## Recommendation 4.1: We recommend all personnel working in governmental, nongovernmental, and private agencies receive cultural-knowledge training focused on treating transgender and gender diverse individuals with dignity and respect.
+## Recommendation 4.1: We recommend all personnel working in governmental, nongovernmental, and private agencies receive cultural-knowledge training focused on treating transgender and gender diverse individuals with dignity and respect. {-}
 
 Article 1 of the United Nations Universal
 Declaration of Human Rights states, “All human
@@ -140,7 +140,7 @@ the training and to dedicate the time, money, and
 human capital to delivering initial and ongoing
 training.
 
-## Recommendation 4.2: We recommend all members of the health care workforce receive cultural-knowledge training focused on treating transgender and gender diverse individuals with dignity during orientation and as part of annual or continuing education.
+## Recommendation 4.2: We recommend all members of the health care workforce receive cultural-knowledge training focused on treating transgender and gender diverse individuals with dignity during orientation and as part of annual or continuing education. {-}
 
 Across disciplines, curricula at all levels—
 undergraduate, graduate, residency, or continuing 
@@ -201,7 +201,7 @@ better served employing generic traits that focus
 on the values of openness, non-judgment, and
 responsiveness (Shepherd, 2018).
 
-## Recommendation 4.3: We recommend institutions involved in the training of health professionals develop competencies and learning objectives for transgender and gender diverse health within each of the competency areas for their specialty.
+## Recommendation 4.3: We recommend institutions involved in the training of health professionals develop competencies and learning objectives for transgender and gender diverse health within each of the competency areas for their specialty. {-}
 
 Each health profession has its own educational
 institutions, administrative, and licensing bodies,
