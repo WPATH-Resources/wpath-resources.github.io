@@ -1,0 +1,1294 @@
+# Hormone Therapy
+
+Transgender and gender diverse (TGD) persons
+may require medically necessary gender-affirming
+hormone therapy (GAHT) to achieve changes
+consistent with their embodiment goals, gender
+identity, or both (see medically necessary statement in Chapter 2—Global Applicability,
+Statement 2.1). This chapter describes hormone
+therapy recommendations for TGD adults and
+adolescents. Please refer to Chapter 5—
+Assessment of Adults and Chapter 6—Adolescents
+for the assessment criteria related to initiation
+of hormone therapy for adults and adolescents,
+respectively. A summary of the recommendations and assessment criteria can be found in
+Appendix D.
+
+Ever since the first World Professional
+Association for Transgender Health (WPATH)
+Standards of Care (SOC) was published in 1979
+and in subsequent updates of the SOC, including
+SOC version 7, GAHT has been accepted as medically necessary (Coleman et  al., 2012). WPATH
+endorsed the Endocrine Society’s guidelines for
+GAHT for TGD persons in 2009 and 2017
+(Hembree et  al., 2009; Hembree et  al., 2017). The
+European Society for Sexual Medicine has also
+published a position statement on hormone management in adolescent and adult TGD people
+(T’Sjoen et al., 2020). When provided under medical supervision, GAHT in adults is safe
+(Tangpricha & den Heijer, 2017; Safer &
+Tangpricha, 2019). However, there are some
+potential long-term risks, and careful monitoring
+and screening are required to reduce adverse
+events (Hembree et  al., 2017; Rosenthal, 2021).
+
+In general, the goal is to target serum levels
+of the sex steroids to match the levels associated
+with the individual’s gender identity, although
+optimal target ranges have not been established
+(Hembree et  al., 2017). Health care professionals
+(HCPs) can use serum testosterone and/or estradiol levels to monitor most sex steroid treatments.
+However, conjugated estrogens or synthetic estrogen use cannot be monitored. The assumption
+that the estrone/estradiol ratio should be monitored was not supported in a recent cohort study
+as there was no relationship between estrone
+concentration and change in body fat or breast
+development seen in a European cohort of 212
+adult transgender women during a 1-year
+follow-up of hormone treatment (Tebbens et  al.,
+2021). This study demonstrated higher estrone
+concentrations or higher estrone/estradiol ratios
+are not associated with antagonistic effects on
+feminization (fat percentage and breast development) (Tebbens et  al., 2021). Thus, monitoring
+of the estrone to estradiol ratio is not supported
+by the current published evidence. Previously
+used conjugated estrogens have been abandoned
+in favor of bioidentical estrogens. Even if several
+studies have shown a significantly greater risk of
+thromboembolic and cardiovascular complications
+with the use of oral conjugated estrogens compared with oral estradiol in postmenopausal
+women, no randomized controlled trials have
+taken place, either in postmenopausal women or
+in transgender people undergoing estrogen treatment (Smith et  al., 2014).
+
+The approach to GAHT differs and depends on
+the developmental stage of the individual at the
+time of initiation of hormone therapy as well as
+their treatment goals. Hormone therapy is not recommended for children who have not begun
+endogenous puberty. In eligible youth (as per
+Chapter 6—Adolescents) who have reached the
+early stages of puberty, the focus is usually to delay
+further pubertal progression with gonadotropin
+releasing hormone agonists (GnRHas) until an
+appropriate time when GAHT can be introduced.
+In these cases, pubertal suppression is considered
+medically necessary. Eligible adults may initiate
+GAHT if they fulfill the criteria as per Chapter
+5—Assessment for Adults. In addition, health care
+providers should discuss fertility goals and fertility
+preservation procedures prior to initiating GAHT.
+See Chapter 16—Reproductive Health.
+
+GAHT with feminine embodiment goals typically consists of estrogen and an androgen-lowering
+medication (Hembree et  al., 2017). Although
+there are anecdotal reports of progesterone use
+for breast development and mood management,
+there is currently insufficient evidence the potential benefits of progesterone administration outweigh the potential risks (Iwamoto, T’Sjoen et  al.,
+2019). Masculinizing GAHT typically consists of
+testosterone. Both WPATH and the Endocrine
+Society recommend monitoring levels of sex 
+hormones. While GAHT is customized to meet
+the individual needs of the TGD person, typically
+hormone levels are maintained at a concentration
+sufficient to support good bone health and are
+not supraphysiologic (Hembree et al., 2017; Rosen
+et  al., 2019).
+
+In most cases, GAHT is maintained throughout
+life. It is not known if doses of GAHT should be
+reduced in older TGD people. Discontinuation of
+hormone therapy may result in bone loss in TGD
+individuals and will definitely do so in individuals
+whose gonads have been removed (Wiepjes et  al.,
+2020). Routine primary care should also be performed (see Chapter 15—Primary Care).
+Epidemiology studies have reported an increased
+incidence of cardiovascular disease and venous
+thromboembolism (VTE) in TGD people receiving
+estrogen, most notably in older people and with
+different preparations of GAHT (Irwig, 2018;
+Maraka et al., 2017). TGD individuals treated with
+testosterone may also have increased adverse cardiovascular risks and events, such as increased
+myocardial infarction, blood pressure, decreased
+HDL-cholesterol, and excess weight (Alzahrani
+et al., 2019; Irwig, 2018; Kyinn et al., 2021). Health
+care professionals (HCPs) should discuss lifestyle
+and pharmacologic therapy with patients who are
+at the highest risk of developing cardiovascular
+disease (see Chapter 15—Primary Care).
+Polycythemia is another disorder that may present
+in TGD people taking testosterone (Antun et  al.,
+2020). Therefore, it is important to continuously
+monitor for the development of conditions that
+can be exacerbated by GAHT throughout life
+(Hembree et  al., 2017).
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In some
+cases, we recognize evidence is limited and/or
+services may not be accessible or desirable.
+
+## Gender-Affirming Hormone Therapy in Youth {-}
+
+The following sections will discuss hormone therapy in TGD youth. Depending on the developmental stage of the youth, this hormone therapy
+generally comprises two phases, namely pubertal
+suppression followed by the addition of GAHT.
+During the first phase, pubertal development is
+halted to allow the youth to explore their gender
+identity and embodiment goals to prepare for the
+next phase, which may include GAHT. This section
+will discuss the recommendations for the use of
+gonadotropin releasing hormone agonists (GnRHas)
+as well as alternate approaches to pubertal suppression and will be followed by recommendations for
+GAHT. Sections that are applicable to youth and
+adults will follow in the next section.
+
+## Statement 12.1: We recommend health care professionals begin pubertal hormone suppression in eligible\* transgender and gender diverse adolescents only after they first exhibit physical changes of puberty (Tanner stage 2). {-}
+
+In general, the goal of GnRHa administration
+in TGD adolescents is to prevent further development of the endogenous secondary sex characteristics corresponding to the sex designated at
+birth. Since this treatment is fully reversible, it
+is regarded as an extended time for adolescents
+to explore their gender identity by means of an
+early social transition (Ashley, 2019e). Treatment
+with GnRHas also has therapeutic benefit since
+it often results in a vast reduction in the level
+of distress stemming from physical changes that
+occur when endogenous puberty begins
+(Rosenthal, 2014; Turban, King et  al., 2020).
+
+For those prepubertal TGD children who have
+been persistent in their gender identity, any
+amount of permanent development of secondary
+sex characteristics could result in significant distress. While one might consider use of a GnRHa
+to prevent initiation of puberty in such individuals
+who remain at Tanner Stage 1, this use of GnRHa
+has not been recommended (Hembree et al., 2017).
+When a child reaches an age where pubertal development would normally begin (typically from 7-8
+to 13 years for those with ovaries and from 9 to
+14 years for those with testes), it would be appropriate to screen the child more frequently, perhaps
+at 4-month intervals, for signs of pubertal development (breast budding or testicular volume >
+4 cc). Given the typical tempo of pubertal development (3.5–4 years for completion), it would be
+very unlikely for permanent pubertal changes to
+develop if one is only in puberty for 4 months or
+less. Thus, with frequent follow-up, the initiation
+of puberty can easily be detected before there are
+irreversible physical changes, and GnRHa can be
+started at that time with great efficacy. Of note,
+following initiation of a GnRHa, there is typically 
+a regression of one Tanner stage. Thus, if there is
+only Tanner stage 2 breast development, it typically
+fully regresses to the prepubertal Tanner stage 1;
+the same is typically true with Tanner stage 2
+testes (often not even discernable to the patient
+and is not associated with development of secondary sex characteristics).
+
+Given GnRHas work through GnRH receptor
+desensitization, if there’s no uptick in endogenous
+GnRH stimulation of the pituitary (the first biochemical sign of puberty), there’s no need for
+GnRH receptor desensitization. In addition,
+because of the wide variability in the timing of
+the start of puberty (as noted above), it is hard
+to justify using a GnRHa that might have some
+unknown risk if there’s no physiological benefit
+before pubertal onset. Using a GnRHa with a
+child at Tanner stage 1 would only be indicated
+in cases of constitutional delay in growth and
+puberty, likely alongside the start of GAHT.
+
+However, the use of a GnRHa could be considered in a child who, due to a constitutional delay
+in growth and puberty, starts GAHT while still in
+Tanner Stage 1. Initiating GAHT may activate the
+hypothalamic-pituitary gonadal axis in the beginning but may also mask the effects on the body
+of this activation. To avoid body changes with the
+potential to exacerbate an individual’s gender
+incongruence, the GnRHa can be started as an
+adjunctive therapy to the GAHT shortly after the
+initiation of the GAHT to provide for pubertal
+development of the identified phenotype.
+
+In addition, the suppression of the development of secondary sex characteristics is most
+effective when sex hormonal treatment is initiated
+in early to mid-puberty when compared with the
+initiation of sex hormonal treatment after puberty
+is completed (Bangalore-Krisha et  al., 2019).
+Correspondingly, for adolescents who have already
+completed endogenous puberty and are considering starting GAHT, GnRHas can be used to
+inhibit physical functions, such as menses or
+erections, and can serve as a bridge until the
+adolescent, guardian(s) (if the adolescent is not
+able to consent independently), and treatment
+team reach a decision (Bangalore-Krishna et  al.,
+2019; Rosenthal, 2021).
+
+The onset of puberty occurs through reactivation of the hypothalamic-pituitary-gonadal axis.
+Clinical assessment of the stages of puberty is
+based on physical features that reflect that reactivation. In individuals with functioning ovaries,
+Tanner stage 2 is characterized by the budding of
+the mammary gland. The development of the
+mammary gland occurs from exposure to estrogen
+produced by the ovaries. In individuals with functioning testes, Tanner stage 2 is characterized by
+an increase in testicular volume (typically greater
+than 4ml). The growth of the testes is mediated
+through the gonadotropins luteinizing hormone
+(LH) and follicle stimulating hormone (FSH). In
+the later stages, the testes produce enough testosterone to induce masculinization of the body.
+
+## Statement 12.2: We recommend health care professionals use GnRH agonists to suppress endogenous sex hormones in eligible\* transgender and gender diverse people for whom puberty blocking is indicated. For supporting text, see Statement 12.4. {-}
+
+## Statement 12.3: We suggest health care professionals prescribe progestins (oral or injectable depot) for pubertal suspension in eligible\* transgender and gender diverse youth when GnRH agonists are not available or are cost prohibitive. For supporting text, see Statement 12.4. {-}
+
+## Statement 12.4: We suggest health care professionals prescribe GnRH agonists to suppress sex steroids without concomitant sex steroid hormone replacement in eligible transgender and gender diverse adolescents seeking such intervention who are well into or have completed pubertal development (past Tanner stage 3) but are unsure about or do not wish to begin sex steroid hormone therapy. {-}
+
+GnRHas reduce gonadotrophin and sex steroid
+concentrations in TGD adolescents and thus halt
+the further development of secondary sex characteristics (Schagen et  al., 2016). Their use is
+generally safe with the development of hypertension being the only short-term adverse event
+reported in the literature (Delemarre-van de Waal
+& Cohen-Kettenis, 2006; Klink, Bokenkamp et  al.,
+2015). GnRHas prevent the pituitary gland from 
+secreting LH and FSH (Gava et  al., 2020). When
+the gonadotropins decrease, the gonad is no longer stimulated to produce sex hormones (estrogens or androgens), and the sex hormone levels
+in the blood decrease to prepubertal levels.
+GnRHa treatment leads to partial regression of
+the initial stages of the already developed secondary sex characteristics (Bangalore et  al., 2019).
+TGD adolescents with functioning ovaries will
+experience diminished growth of breast tissue,
+and if treatment is started at Tanner stage 2, the
+breast tissue may disappear completely (Shumer
+et  al., 2016). Menarche can be prevented or discontinued following the administration of GnRHas
+in adolescents with a uterus. In TGD adolescents
+with functioning testes, testicular volume will
+regress to a lower volume.
+
+When GnRHa treatment is started in adolescents at the later phases of pubertal development,
+some physical changes of pubertal development,
+such as late-stage breast development in TGD
+adolescents with functioning ovaries and a lower
+voice and growth of facial hair in TGD adolescents with functioning testes, will not regress
+completely, although any further progression will
+be stopped (Delemarre-van de Waal &
+Cohen-Kettenis, 2006). GnRHas have been used
+since 1981 for the treatment of central precocious
+puberty (Comite et  al., 1981; Laron et  al., 1981),
+and their benefits are well established (please also
+see the statements in Chapter 6—Adolescents).
+The use of GnRHas in individuals with central
+precocious puberty is regarded as both safe and
+effective, with no known long-term adverse
+effects (Carel et  al., 2009). However, the use of
+GnRHas in TGD adolescents is considered
+off-label because they were not initially developed
+for this purpose. Nonetheless, data from adolescents prescribed GnRHas in a similar dose and
+fashion demonstrate effectiveness in delaying the
+onset of puberty although the long-term effects
+on bone mass have not been well established
+(Klink, Caris et  al., 2015). Although long-term
+data are more limited in TGD adolescents than
+in adolescents with precocious puberty, data collection specifically in this population are ongoing
+(Klaver et  al., 2020; Lee, Finlayson et  al., 2020;
+Millington et  al., 2020; Olson-Kennedy, Garofalo
+et  al., 2019).
+
+We recognize even though GnRHas are a medically necessary treatment, they may not be available for eligible adolescents because it is not
+covered by health insurance plans in some countries or may be cost-prohibitive. Therefore, other
+approaches should be considered in these cases,
+such as oral or injectable progestin formulations.
+In addition, for adolescents older than 14 years,
+there are currently no data to inform HCPs
+whether GnRHas can be administered as monotherapy (and for what duration) without posing
+a significant risk to skeletal health. This is because
+the skeleton will not have any exposure to adequate levels of sex steroid hormones
+(Rosenthal, 2021).
+
+A prolonged hypogonadal state in adolescence,
+whether due to medical conditions such as hypergonadotropic hypogonadism, iatrogenic causes
+such as GnRHa monotherapy or physiological
+conditions such as conditional delay of growth
+and development, is often associated with an
+increased risk of poor bone health later in life
+(Bertelloni et  al., 1998; Finkelstein et  al., 1996).
+However, bone mass accrual is a multifactorial
+process that involves a complex interplay between
+endocrine, genetic, and lifestyle factors (Anai
+et  al., 2001). When deciding on the duration of
+GnRHa monotherapy, all contributing factors
+should be considered, including factors such as
+pretreatment bone mass, bone age, and pubertal
+stage from an endocrine perspective and height
+gain, as well as psychosocial factors such as mental maturity and developmental stage relative to
+one’s adolescent cohort and the adolescent’s individual treatment goals (Rosenthal, 2021). For
+these reasons, a multidisciplinary team and an
+ongoing clinical relationship with the adolescent
+and the family should be maintained when initiating GnRHa treatment (see Statements 6.8, 6.9,
+and 6.12 in Chapter 6—Adolescents). The clinical
+course of the treatment, e.g., the development of
+bone mass during GnRHa treatment and the adolescent’s response to treatment, can help to determine the length of GnRHa monotherapy.
+
+## Statement 12.5: We recommend health care professionals prescribe sex hormone treatment regimens as part of gender-affirming treatment in eligible\* transgender and gender diverse adolescents who are at least Tanner stage 2, with parental/guardian involvement unless their involvement is determined to be harmful or unnecessary to the adolescent. For supporting text, see Statement 12.6. {-}
+
+## Statement 12.6: We recommend health care professionals measure hormone levels during gender-affirming treatment to ensure endogenous sex steroids are lowered and administered sex steroids are maintained at a level appropriate for the treatment goals of transgender and gender diverse people according to the Tanner stage. {-}
+
+Sex steroid hormone therapy generally comprises two treatment regimens, depending on the
+timing of the GnRHa treatment. When GnRHa
+treatment is started in the early stages of endogenous pubertal development, puberty corresponding with gender identity or embodiment goals is
+induced with doses of sex steroid hormones similar to those used in peripubertal hypogonadal
+adolescents. In this context, adult doses of sex
+steroid hormones are typically reached over
+approximately a 2-year period (Chantrapanichkul
+et  al., 2021). When GnRHa treatment is started
+in late- or postpubertal transgender adolescents,
+sex steroid hormones can be given at a higher
+starting dose and increased more rapidly until a
+maintenance dose is achieved, resembling treatment protocols used in transgender adults
+(Hembree et  al., 2017). An additional advantage
+of GnRHa treatment is sex steroid hormones do
+not have to be administered in supraphysiological
+doses, which would otherwise be needed to suppress endogenous sex steroid production (Safer
+& Tangpricha, 2019). For TGD individuals with
+functioning testes, GnRHa treatment (or another
+testosterone-blocking medication) should be continued until such time as the TGD adolescent/
+young adult ultimately undergoes gonadectomy,
+if this surgical procedure is pursued as a medically necessary part of their gender-affirming
+care. Once adult levels of testosterone are reached
+in TGD individuals with functioning ovaries who
+have been initially suppressed with GnRHa’s, testosterone alone at physiological doses is typically
+sufficient to lower ovarian estrogen secretion, and
+GnRHas can be discontinued as discussed below
+(Hembree et  al., 2017). For TGD adolescents with
+functioning ovaries who are new to care, GAHT
+can be accomplished with physiological doses of
+testosterone alone without the need for concomitant GnRHa administration (Hembree et al., 2017).
+
+Gender-affirming sex steroid hormone therapy
+induces the development of secondary sex characteristics of the gender identity. Also, the rate
+of bone mineralization, which decreases during
+treatment with GnRHa’s, rapidly recovers (Klink,
+Caris et  al., 2015). During GnRHa treatment in
+early-pubertal TGD adolescents, the bone epiphyseal plates are still unfused (Kvist et  al., 2020;
+Schagen et  al., 2020). Following the initiation of
+sex steroid hormone treatment, a growth spurt
+can occur, and bone maturation continues (Vlot
+et  al., 2017). In postpubertal TGD adolescents,
+sex steroid hormone treatment will not affect
+height since the epiphyseal plates have fused, and
+bone maturation is complete (Vlot et  al., 2017).
+In TGD adolescents with functioning testes,
+the use of 17-ß-estradiol for pubertal induction
+is preferred over that of synthetic estrogens, such
+as the more thrombogenic ethinyl estradiol (see
+Appendix D (Asscheman et  al., 2015). It is still
+necessary to either continue GnRHa’s to suppress
+endogenous testosterone production or transition
+to another medication that suppresses endogenous testosterone production (Rosenthal et  al.,
+2016). Breast development and a female-typical
+fat distribution are among a number of physical
+changes that occur in response to estrogen treatment. See Appendix C—Table 1.
+
+For TGD adolescents seeking masculinizing
+treatment, androgens are available as injectable
+preparations, transdermal formulations, and subcutaneous pellets. For pubertal induction, the use
+of testosterone-ester injection is generally recommended by most experts initially because of cost,
+availability, and experience (Shumer et  al., 2016).
+It is advised to continue GnRHas at least until
+a maintenance level of testosterone is reached. In
+response to androgen treatment, virilization of
+the body occurs, including a lowering of the
+voice, more muscular development particularly
+in the upper body, growth of facial and body
+hair, and clitoral enlargement (Rosenthal et  al.,
+2016). See Appendix C—Table 1.
+
+In almost all situations, parental/caregiver consent should be obtained. Exceptions to this recommendation, in particular when caregiver or
+parental involvement is determined to be harmful
+to the adolescent, are described in more detail
+in Chapter 6—Adolescents (see Statement 6.11)
+where the rationale for involving parents/caregivers in the consent process is also described.
+
+## Statement 12.7: We recommend health care professionals prescribe progestogens or a GnRH agonist for eligible\* transgender and gender diverse adolescents with a uterus to reduce dysphoria caused by their menstrual cycle when gender-affirming testosterone use is not yet indicated. {-}
+
+Menstrual suppression is a treatment option
+commonly needed by TGD individuals who experience distress related to menses or the anticipation of menarche. Statement 6.7 in Chapter
+6—Adolescents describes this in more detail. To
+achieve amenorrhea, menstrual suppression can
+be initiated as a solo option before initiating testosterone or alongside testosterone therapy
+(Carswell & Roberts, 2017). Some youth, who are
+not ready for testosterone therapy or are not yet
+at an appropriate pubertal/developmental stage
+to begin such treatment, will benefit from the
+induction of amenorrhea (Olson-Kennedy,
+Rosenthal et  al., 2018). Adolescents who experience an exacerbation of dysphoria related to the
+onset of puberty may elect to be treated with
+GnRHas for pubertal suppression (also see the
+Adolescents chapter).
+
+Progestogens may be effective in adolescents
+whose goal is solely menstrual suppression.
+Continuous administration of progestin-only oral
+pills (including the contraceptive and noncontraceptive options), medroxyprogesterone injections,
+or levonorgestrel intrauterine device can be used
+for induction of amenorrhea (Pradhan &
+Gomez-Lobo, 2019). TGD individuals with functioning ovaries who start testosterone therapy
+may have 1–5 menstrual cycles before amenorrhea is achieved (Taub et  al., 2020). Once amenorrhea is achieved, some TGD individuals with
+functioning ovaries may also choose to continue
+progestin treatment for birth control if relevant
+to their sexual practices.
+
+TGD individuals with functioning ovaries and
+a uterus should be counseled about the potential
+for breakthrough menstrual bleeding in the first
+few months after initiating menstrual suppression.
+With GnRHa therapy, breakthrough bleeding may
+occur 2–3 weeks after initiation of the medication. For individuals seeking contraception or for
+those who continue to experience menstrual
+bleeding on progestin therapy, an estrogen combination with progestin may be considered for
+the maintenance of amenorrhea, yet they should
+be counseled on the possible side effect of breast
+development (Schwartz et  al., 2019).
+
+## Statement 12.8: We recommend health care providers involve professionals from multiple disciplines who are experts in transgender health and in the management of the care of transgender and gender diverse adolescents. {-}
+
+As with the care of adolescents, we suggest
+where possible a multidisciplinary expert team
+of medical and mental health professionals
+(MHPs) be assembled to manage this treatment.
+In adolescents who pursue GAHT (given this is
+a partly irreversible treatment), we suggest initiating treatment using a schedule of gradually
+increasing doses after a multidisciplinary team
+of medical and MHPs has confirmed the persistence of GD/gender incongruence and has
+established the individual possesses the mental
+capacity to give informed consent (Hembree
+et  al., 2017). Specific aspects concerning the
+assessment of adolescents and the involvement
+of their caregivers and a multidisciplinary team
+are described in more detail in Chapter
+6—Adolescents.
+
+If possible, TGD adolescents should have access
+to experts in pediatric transgender health from
+multiple disciplines including primary care, endocrinology, fertility, mental health, voice, social
+work, spiritual support, and surgery (Chen,
+Hidalgo et  al., 2016; Eisenberg et  al., 2020;
+Keo-Meier & Ehrensaft, 2018). Individual providers are encouraged to form collaborative working
+relationships with providers from other disciplines to facilitate referrals as needed for the
+individual youth and their family (Tishelman
+et  al., 2015). However, the lack of available 
+experts and resources should not constitute a
+barrier to care (Rider, McMorris et  al., 2019).
+Helpful support for adolescents includes access
+to accurate, culturally informed information
+related to gender and sexual identities, transition
+options, the impact of family support, and connections to others with similar experiences and
+with TGD adults through online and in person
+support groups for adolescents and their family
+members (Rider, McMorris et  al., 2019).
+
+Many TGD adolescents have been found to
+experience mental health disparities and initial
+mental health screening (e.g., PHQ-2, GAD) can
+be employed as indicated (Rider, McMorris et  al.,
+2019). Providers should keep in mind being
+transgender or questioning one’s gender does not
+constitute pathology or a disorder. Therefore,
+individuals should not be referred for mental
+health treatment exclusively on the basis of a
+transgender identity. HCPs and MHPs who treat
+these youths and make referrals should, at a minimum, be familiar with the impact of trauma,
+gender dysphoria, and gender minority stressors
+on any potential mental health symptomatology,
+such as disordered eating, suicidal ideation, social
+anxiety. These health care providers should also
+be knowledgeable about the level of readiness of
+inpatient mental health services in their region
+to provide competent, gender-affirming care to
+TGD youth (Barrow & Apostle, 2018; Kuper,
+Wright et  al., 2018; Kuper, Mathews et  al., 2019;
+Tishelman & Neumann-Mascis, 2018). Statements
+6.3, 6.4, and 6.12d in Chapter 6—Adolescents
+address this in more detail. Because parents of
+these youth commonly experience high levels of
+anxiety immediately after learning their youth is
+TGD, and their response to their child predicts
+that child’s long-term physical and mental health
+outcomes, appropriate referrals for mental health
+support of the parents can be of great utility
+(Coolhart et  al., 2017; Pullen Sansfaçon et  al.,
+2015; Taliaferro et  al., 2019).
+
+## Statement 12.9: We recommend health care professionals organize regular clinical evaluations for physical changes and potential adverse reactions to sex steroid hormones, including laboratory monitoring of sex steroid hormones every 3 months during the first year of hormone therapy or with dose changes until a stable adult dosing is reached followed by clinical and laboratory testing once or twice a year once an adult maintenance dose is attained.
+
+Sex steroid hormone therapy is associated with
+a broad array of physical and psychological
+changes (Irwig, 2017; Tangpricha & den Heijer,
+2017) (see Appendix C—Table 1). After sex steroid hormone therapy has been initiated, the
+HCP should regularly assess the progress and
+response of the individual to the treatment (also
+see Chapter 6—Adolescents). This evaluation
+should assess the presence of any physical changes
+as well as the impact of treatment on gender
+dysphoria (if present) and psychological well-being
+(see Appendix C—Table 1). Clinical visits provide
+important opportunities for HCPs to educate
+patients about the typical time course required
+for physical changes to manifest and encourage
+realistic expectations. During the first year of
+hormone therapy, sex steroid hormone doses are
+often increased. A major factor guiding the dose
+is the serum level of the corresponding sex steroid hormone. In general, the goal is to target
+serum levels of the sex steroids to match the
+levels associated with the individual’s gender
+identity, although optimal target ranges have not
+been established (Hembree et  al., 2017).
+
+In addition to assessing the positive changes
+associated with sex steroid hormone therapy, the
+HCP should regularly assess whether the treatment has caused any adverse effects (see Appendix
+C—Table 2). Examples of adverse signs and
+symptoms include androgenic acne or bothersome
+sexual dysfunction (Braun et  al., 2021; Kerckhof
+et  al., 2019). GAHT also has the potential to
+adversely influence several laboratory tests. For
+example, spironolactone may cause hyperkalemia,
+although it is an uncommon and transient phenomenon (Millington et  al., 2019). Testosterone
+increases the red blood cell count (hematocrit),
+which may occasionally cause erythrocytosis
+(Antun et  al., 2020) (see Statement 12.17)
+(Hembree et  al., 2017). Both estrogen and testosterone can alter lipid parameters, such as
+high-density protein lipoprotein (HDL) cholesterol and triglycerides (Maraka et  al., 2017). See
+Appendix C—Tables 3 and 4.
+
+The frequency of clinical evaluations should
+be individualized and guided by the individual’s
+response to treatment. We suggest clinical assessments be performed approximately every 3
+months during the first year of hormone therapy
+in patients who are stable and are not experiencing significant adverse effects (Appendix C—Table
+5). We suggest rather than recommend testing
+be carried out every 3 months in the first year
+to allow some flexibility on the timing of these
+tests as there is no strong evidence or evidence
+from published studies supporting specific testing
+intervals. If an individual does experience an
+adverse effect, more frequent laboratory testing
+and/or clinical visits are often needed. Given the
+potential harm associated with sex hormone levels that exceed expected ranges in humans, we
+strongly recommend regular testing be performed
+as a standard practice when initiating GAHT in
+TGD individuals. Once a person has reached a
+stable adult dose of sex steroid hormone with no
+significant adverse effects, the frequency of clinic
+visits can be reduced to one to two per year
+(Hembree et  al., 2017).
+
+## Statement 12.10: We recommend health care professionals inform and counsel all individuals seeking gender-affirming medical treatment about options for fertility preservation prior to initiating puberty suppression and prior to administering hormone therapy. {-}
+
+Pubertal suppression and hormone treatment
+with sex steroid hormones may have potential
+adverse effects on a person’s future fertility
+(Cheng et  al., 2019) (see also Chapter 6—
+Adolescents and Chapter 16—Reproductive
+Health). Although some TGD people may not
+have given much thought to their future reproductive potential at the time of their initial
+assessment to begin medical therapy, the potential
+implications of the treatment and fertility preservation options should be reviewed by the hormone prescriber and discussed with the person
+seeking these therapies (Ethics Committee of the
+American Society for Reproductive Medicine
+et  al., 2015; De Roo et  al., 2016).
+
+Individuals with testes should be advised prolonged treatment with estrogen often causes
+testicular atrophy and a reduction in sperm count
+and other semen parameters (Adeleye et  al.,
+2018). Nonetheless, there are major gaps in
+knowledge, and findings regarding the fertility of
+trans feminine people who take estrogen and
+antiandrogens are inconsistent (Cheng et  al.,
+2019). In one study, heterogeneity in testicular
+histology was evident whether patients discontinued or continued therapy prior to orchiectomies (Schneider et  al., 2015). For example, the
+discontinuation of estrogen and antiandrogens for
+six weeks resulted in complete spermatogenesis
+in 45% of individuals with the remainder showing
+meiotic arrest or spermatogonial arrest (Schneider
+et  al., 2015). However, serum testosterone levels
+confirmed to be within female reference ranges
+leads to complete suppression of spermatogenesis
+in most transgender women (Vereecke et  al.,
+2020). The principal fertility preservation option
+for patients with functioning testes is sperm cryopreservation, also known as sperm banking
+(Mattawanon et  al., 2018). For prepubertal
+patients, suppression of puberty with GnRHs
+pauses the maturation of sperm (Finlayson
+et  al., 2016).
+
+Individuals with functioning ovaries should
+be advised testosterone therapy usually results
+in the cessation of menses and ovulation, often
+within a few months of initiation (Taub et  al.,
+2020). There are also major gaps in knowledge
+regarding the potential effects of testosterone
+on oocytes and subsequent fertility of TGD
+patients (Eisenberg et  al., 2020; Stuyver et  al.,
+2020). One study found testosterone treatment
+may be associated with polycystic ovarian morphology, whereas other studies reported no
+metabolic (Chan et  al., 2018) or histologic (De
+Roo et  al., 2017; Grynberg et  al., 2010) evidence of polycystic ovary syndrome (PCOS)
+following treatment with testosterone, and some
+studies have found a pre-existing higher prevalence of PCOS in transgender patients with
+ovaries (Baba, 2007; Gezer et  al., 2021). TGD
+patients with an intact uterus and ovaries often
+regain their fertility potential if testosterone
+therapy is discontinued (Light et  al., 2014).
+Indeed, a live birth after assisted reproductive
+technology has been reported following
+hormone-stimulated egg retrieval from a TGD 
+individual who did not discontinue testosterone
+therapy (Greenwald et  al., 2021; Safer and
+Tangpricha, 2019). Other fertility preservation
+options for TGD patients with ovaries are
+oocyte cryopreservation and embryo cryopreservation with sperm from a partner or donor.
+The above options require hormonal stimulation for egg retrieval and the use of assisted
+reproductive technology.
+
+For early pubertal transgender youth, suppression of puberty with GnRHa’s pauses the maturation of germ cells, although a recent report
+noted ovarian stimulation of a TGD adolescent
+treated with a GnRHa’s in early puberty (and
+continued during ovarian stimulation) resulted in
+a small number of mature oocytes that were cryopreserved (Rothenberg et  al., 2019). Treating an
+TGD adolescent with functioning testes in the
+early stages of puberty with a GnRHa not only
+pauses maturation of germ cells but will also
+maintains the penis in a prepubertal size. This
+will likely impact surgical considerations if that
+person eventually undergoes a penile-inversion
+vaginoplasty as there will be less penile tissue to
+work with. In these cases, there is an increased
+likelihood a vaginoplasty will require a more
+complex surgical procedure, e.g., intestinal vaginoplasty (Dy et  al., 2021; van de Grift et  al.,
+2020). Such considerations should be included in
+any discussions with patients and families considering use of pubertal blockers in early pubertal
+adolescents with functioning testes.
+
+## Statement 12.11: We recommend health care professionals evaluate and address medical conditions that can be exacerbated by lowered endogenous sex hormone concentrations and treatment with exogenous sex hormones before beginning treatment in transgender and gender diverse people. {-}
+
+TGD people seeking masculinization must be
+informed about the possibilities, consequences,
+limitations, and risks associated with testosterone
+treatment. Testosterone therapy is contraindicated
+during pregnancy or while attempting to become
+pregnant given its potential iatrogenic effects on
+the fetus. Relative contraindications to testosterone therapy include severe hypertension, sleep
+apnea, and polycythemia since these conditions
+can be exacerbated by testosterone. Monitoring
+blood pressure and lipid profiles should be performed before and after the onset of testosterone
+therapy. The increase in blood pressure typically
+occurs within 2 to 4 months following the initiation of testosterone therapy (Banks et  al.,
+2021). Patients who develop hypercholesterolemia
+and/or hypertriglyceridemia may require treatment with dietary modifications, medication,
+or both.
+
+TGD people seeking feminizing treatment
+with a history of thromboembolic events, such
+as deep vein thrombosis and pulmonary embolism, should undergo evaluation and treatment
+prior to the initiation of hormone therapy. This
+is because estrogen therapy is strongly associated
+with an increased risk of thromboembolism, a
+potentially life-threatening complication. In
+addition, risk factors that can increase the risk
+of thromboembolic conditions, such as smoking,
+obesity, and sedentary lifestyle, should be modified. In patients with nonmodifiable risk factors,
+such as a known history of thrombophilia, a
+past history of thrombosis, or a strong family
+history of thromboembolism, treatment with
+transdermal estrogen concomitant with anticoagulants may decrease the risk of thromboembolism. However, there are limited data to guide
+treatment decisions. The presence of a disease
+at baseline such as a hormone sensitive cancer,
+coronary artery disease, cerebrovascular disease,
+hyperprolactinemia, hypertriglyceridemia, and
+cholelithiasis should be evaluated prior to the
+initiation of gender-affirming hormone therapy
+as relative risks may be shifted in association
+with exogenous hormone treatment (Hembree
+et  al., 2017).
+
+## Statement 12.12: We recommend health care professionals educate transgender and gender diverse people undergoing gender-affirming treatment about the onset and time course of physical changes induced by sex hormone treatment. {-}
+
+The effects of testosterone treatment are multiple and may include the appearance of increased
+body and facial hair, male pattern baldness,
+increased muscle mass and strength, decreased
+fat mass, deepening of the voice, interruption of 
+menses (if still present), increased prevalence and
+severity of acne, clitoral enlargement, and
+increased sexual desire (Defreyne, Elaut et  al.,
+2020; Fisher, Castellini et  al., 2016; Giltay &
+Gooren, 2000; T'Sjoen et  al., 2019; Yeung et  al.,
+2020). Other testosterone-associated changes
+include increased lean body mass, skin oiliness,
+(de Blok et  al., 2020; Hembree et  al., 2017; Kuper,
+Mathews et  al., 2019; Taliaferro et  al., 2019;
+Tishelman & Neumann-Mascis, 2018) (see
+Appendix C—Table 1).
+
+Estrogen treatment induces breast development.
+However, fewer than 20% of individuals reach
+Tanner breast stages 4–5 after 2 years of treatment (de Blok et  al., 2021). Additional changes
+include decreases in testicular volume, lean body
+mass, skin oiliness, sexual desire, spontaneous
+erections, facial hair, and body hair along with
+increased subcutaneous body fat) (see Appendix
+C—Table 1). In adult patients, estrogen does not
+alter a person’s voice or height (Iwamoto, Defreyne
+et  al., 2019; Wiepjes et  al., 2019).
+The time course and extent of physical changes
+vary among individuals and are related to factors
+such as genetics, age of initiation, and overall
+state of health (Deutsch, Bhakri et  al., 2015; van
+Dijk et  al., 2019). Knowledge of the extent and
+timing of sex hormone–induced changes, if available, may prevent the potential harm and expense
+of unnecessary treatment changes, dosage
+increases, and premature surgical procedures
+(Dekker et  al., 2016).
+
+## Statement 12.13: We recommend health care professionals not prescribe ethinyl estradiol for transgender and gender diverse people as part of a gender-affirming hormonal treatment. For supporting text, see Statement 12.15. {-}
+
+## Statement 12.14: We suggest health care professionals prescribe transdermal estrogen for eligible\* transgender and gender diverse people at higher risk of developing venous thromboembolism based on age >45 years or a previous history of venous thromboembolism, when gender-affirming estrogen treatment is recommended. For supporting text, see Statement 12.15). {-}
+
+## Statement 12.15: We suggest health care professionals not prescribe conjugated estrogens in transgender and gender diverse people when estradiol is available as part of a gender- affirming hormonal treatment. {-}
+
+Determining the safest and most efficacious
+estrogen compound and route of administration
+for TGD people is an important topic. The recommended estrogen-based regimens are presented
+in Appendix C—Table 4. The Amsterdam Medical
+Center (AMC) first reported 45 events of VTE
+occurring in 816 transgender women, notably an
+expected incidence ratio of VTE 20-fold higher
+than that reported in a reference population (van
+Kesteren et  al., 1997). Following this report, the
+AMC clinic recommended the use of transdermal
+estradiol for transgender women older than 40
+years of age, which subsequently lowered the
+incidence of VTE (Nota et  al., 2019; Toorians
+et  al., 2003). Other studies suggested ethinyl
+estradiol is associated with a higher risk of blood
+clotting due to an increased resistance to the
+anticoagulating effects of activated protein C
+(APC) and elevated concentrations of the clotting
+factors protein C and protein S (Toorians et  al.,
+2013). Other studies published within the past
+15 years from other clinics reported transgender
+women taking other forms of estrogen had lower
+rates of VTE than transgender women taking
+ethinyl estradiol (Asscheman et  al., 2013).
+Furthermore, a 2019 systematic review concluded
+ethinyl estradiol administration was associated
+with the highest risk of VTE in transgender
+women, while an association between progesterone use and VTE was also identified (Goldstein
+et  al., 2019).
+
+The 2017 Endocrine Society guidelines did not
+recommend conjugated equine estrogens (CEEs)
+as a treatment option because blood levels of
+conjugated estrogens cannot be measured in
+transgender women making it difficult to prevent
+supraphysiologic dosing of estrogen and thereby
+increasing the potential risk of VTE (Hembree
+et  al., 2017). A retrospective study from the UK
+examined the risks of oral CEE versus oral estradiol valerate versus oral ethinyl estradiol and
+found up to a 7-fold increase in the percentage
+of transgender women in the oral CEE group 
+who developed VTE compared with transgender
+women using other forms of estrogen (Seal et  al.,
+2012). In a nested, case-control study, over 80,000
+cisgender women aged 40–79 who developed a
+VTE were matched to approximately 390,000 cisgender women without VTE; the results showed
+oral estradiol use had a lower risk of VTE than
+conjugated estrogens, and transdermal estrogen
+was not associated with an increased risk of VTE
+(Vinogradova et  al., 2019).
+
+A systematic review evaluated several formulations of estrogen and identified a retrospective
+and a cross-sectional study that made head-tohead comparisons of the risks associated with
+different formulations (Wierckx, Mueller et  al.,
+2012; Wierckx et  al., 2013). No identified studies
+evaluating the risk of different formulations of
+estrogen employed a prospective interventional
+design. The retrospective study examined 214
+transgender women taking transdermal estradiol
+(17β-estradiol gel 1.5 mg/d or estradiol patch
+50 mcg/d) or a daily intake of oral estrogens
+(estradiol 2 mg/d, estriol 2 mg/d, ethinyl estradiol
+50 mcg/day, or ethinyl estradiol 30–50 mcg in an
+oral contraceptive) (Wierckx et  al., 2013). Within
+a 10-year observation period, 5% of the cohort
+developed a VTE, 1.4% (3 of 214) experienced
+a myocardial infarction (MI), and 2.3% (5 of 214)
+a transient ischemic attack or cerebrovascular
+accident (TIA/CVA). The prevalence of VTE, MI
+and TIA/CVA was increased following the initiation of estrogen therapy. However, the authors
+did not report differences between regimens of
+estrogen in terms of these endpoints.
+
+The same group of investigators conducted a
+cross-sectional study that examined 50 transgender women (mean age 43 ± 10) taking oral estrogen (estradiol valerate 2 mg/d, estriol 2 mg/d or
+ethinyl estradiol 50–120 mcg/day) or using transdermal estradiol (17β-estradiol 1.5 mg/day or
+estradiol 50 mcg/day) over a follow-up duration
+of 9.2 years (Wierckx, Mueller et  al., 2012).
+Twelve percent (n = 6) developed either a VTE,
+MI, or a TIA/CVA. Two of the participants were
+taking conjugated estrogen 0.625 mg/d (one person in combination with cyproterone acetate), 2
+participants were taking ethinyl estradiol
+20–50 mcg/d, 1 was taking cyproterone acetate
+50 mg/d, while the estrogen regimen used by the
+sixth participant was not defined. None of the
+subjects taking oral estradiol or transdermal
+estradiol developed a VTE, MI, or TIA/CVA.
+
+One prospective study examined the route of
+estrogen administration in 53 transgender women
+in a multicenter study carried out throughout
+Europe. Transgender women younger than 45
+years of age (n = 40) received estradiol valerate
+4mg/d in combination with cyproterone acetate
+(CPA) 50mg/d and transgender women older than
+45 years of age (n = 13) received transdermal
+17β-estradiol, also with CPA. No VTE, MI, or
+TIA/CVA was reported after a 1-year follow-up in
+either the oral or transdermal estrogen group. An
+additional retrospective study from Vienna found
+no occurrences of VTE among 162 transgender
+women using transdermal estradiol who were followed for a mean of 5 years (Ott et  al., 2010).
+
+We are strongly confident in our recommendation against the use of ethinyl estradiol based on
+historical data from the Amsterdam clinic demonstrating a reduction in the incidence of VTE after
+discontinuing the use of ethinyl estradiol and the
+recent systematic review demonstrating an increased
+risk of VTE in transgender women taking ethinyl
+estradiol (Weinand & Safer, 2015). We are confident
+in our recommendation against the use of CEE
+based on the 2012 study by Seal et al. demonstrating an increased risk of VTE in transgender women
+taking CEE compared with other formulations of
+estrogen and with data from cisgender women on
+hormone replacement therapy (Canonico et  al.,
+2007; Seal et  al., 2012). Prospective and retrospective studies in transgender women have reported
+occurrences of VTE/MI/CVA only in those taking
+CEE or ethinyl estradiol. Since estradiol is inexpensive, more widely available, and appears safer
+than CEE in limited studies, the committee recommends against using CEE when estradiol is an
+available treatment option. The quality of studies
+may be limited to prospective, cohort or
+cross-sectional study designs; however, the stronger
+level of recommendation is based on the consistent
+evidence supporting the association between the
+use of ethinyl estradiol and CEE and a greater risk
+of VTE/MI/CVA in transgender women.
+We are also confident in our recommendation
+for the administration of transdermal preparations of estrogen in older transgender women 
+(age > 45 years) or those with a previous history
+of VTE. The confidence in our recommendation
+is based on the decreased incidence of VTE
+reported from the Amsterdam clinic when transgender women are switched to using transdermal
+preparations after age 40 (van Kesteren et  al.,
+1997). Furthermore, the prospective, multicenter
+cohort study ENIGI found no incidence of VTE/
+MI/CVA in transgender women who are routinely
+switched to transdermal estrogen at age 45
+(Dekker et  al., 2016). In addition, a study by Ott
+et  al. demonstrated no incidence of VTE in 162
+transgender women treated with estradiol patches
+(Ott et  al., 2010).
+
+With the exception of cyproterone acetate (note
+this is not approved for use in the US because
+of concerns of potential hepatotoxicity), the use
+of progestins in hormone therapy regimens
+remains controversial. To date, there have been
+no quality studies evaluating the role of progesterones in hormone therapy for transgender
+patients.
+
+We are aware some practitioners who prescribe
+progestins, including micronized progesterone,
+are under the impression there may be improvements in breast and/or areolar development,
+mood, libido, and overall shape for those seeking
+it along with other benefits yet to be demonstrated (Deutsch, 2016a; Wierckx, van Caenegem
+et al., 2014). However, these improvements remain
+anecdotal, and there are no quality data to support such progestin use. An attempted systematic
+review we commissioned for this version of the
+SOC failed to identify enough data to make a
+recommendation in favor of any progestins.
+Instead, existing data suggest harm is associated
+with extended progestin exposure (Safer, 2021).
+
+For cisgender women who have a uterus, progestins in combination with estrogens are necessary to avoid the endometrial cancer risk
+associated with the administration of unopposed
+estrogen. For cisgender women who do not have
+a uterus, progestins are not used. The best data
+for the concerns related to progestin use come
+from comparisons between the above two cisgender populations, which we acknowledge is not
+necessarily generalizable to this population.
+Although not definitive of a class effect for all
+progestins, medroxyprogesterone added to
+combined equine estrogens is associated with
+greater breast cancer and cardiac risks (Chlebowski
+2020; Manson, 2013). It is important to note data
+from the Women’s Health Initiative (WHI) studies
+may not be generalizable to transgender populations. Compared with the cisgender women in
+the studies, transgender populations seeking hormone therapy tend to be younger, do not use
+equine estrogen, and hormone therapy in these
+cases address current mental health and quality
+of life and not solely risk prevention
+(Deutsch, 2016a).
+
+Potential adverse effects of progestins include
+weight gain, depression, and lipid changes.
+Micronized progesterone may be better tolerated
+and may have a more favorable impact on the
+lipid profile than medroxyprogesterone (Fitzpatrick
+et  al., 2000). When paired with estrogens for
+transgender women, the progestin cyproterone
+acetate is associated with elevated prolactin,
+decreased HDL cholesterol, and rare meningiomas—none of which are seen when estrogens are
+paired with GnRH agonists or spironolactone
+(Bisson, 2018; Borghei-Razavi, 2014; Defreyne,
+Nota et  al., 2017; Sofer et  al., 2020).
+
+Thus, data to date do not include quality evidence supporting a benefit of progestin therapy
+for transgender women. However, the literature
+does suggest a potential harm of some progestins,
+at least in the setting of multi-year exposure. If,
+after a discussion of the risks and benefits of progesterone treatment, there is a collaborative decision to begin a trial of progesterone therapy, the
+prescriber should evaluate the patient within a year
+to review the patient's response to this treatment.
+
+## Statement 12.16: We recommend health care professionals prescribe testosterone-lowering medications (either cyproterone acetate, spironolactone, or GnRH agonists) for eligible\* transgender and gendered diverse people with testes taking estrogen as part of a hormonal treatment plan if their individual goal is to approximate levels of circulating sex hormone in cisgender women. {-}
+
+Most gender clinics in the US and Europe prescribe estrogen combined with a
+testosterone-lowering medication (Mamoojee
+et  al., 2017) (see Appendix C—Table 5). In the 
+US, spironolactone is the most commonly prescribed testosterone-lowering medication, while
+GnRHas are commonly used in the UK, and
+cyproterone acetate are most often prescribed in
+the rest of Europe (Angus et  al., 2021; Kuijpers
+et  al., 2021). The rationale for adding a
+testosterone-lowering medication is two-fold 1)
+to lower testosterone levels to within the reference range of cisgender women; and 2) to reduce
+the amount of estrogen needed to achieve adequate physical effects. Each testosterone-lowering
+medication has a different side effect profile.
+Spironolactone is an antihypertensive and
+potassium-sparing diuretic, and thus may lead to
+hyperkalemia, increased frequency of urination,
+and a reduction in blood pressure (Lin et  al.,
+2021). Cyproterone acetate has been associated
+with the development of meningioma and hyperprolactinemia (Nota et  al., 2018). GnRHa’s, while
+very effective in lowering testosterone levels, can
+result in osteoporosis if doses of estrogen given
+concurrently are insufficient (Klink, Caris
+et  al., 2015).
+
+One systematic review identified one study that
+reported findings from a head-to-head comparison of the testosterone-lowering medications
+cyproterone acetate and leuprolide (Gava et  al.,
+2016). Two studies compared a group of transgender women taking estrogen plus
+testosterone-lowering medications with a group
+who received only estrogen. The systematic
+review did not provide sufficient evidence to suggest any of the three testosterone-lowering medications had a better safety profile in terms of
+improved outcomes in bone health, testosterone
+levels, potassium levels, or in the incidence of
+hyperprolactinemia or meningiomas (Wilson
+et  al., 2020). Therefore, no recommendation can
+be given. There view did report
+spironolactone-based regimens were associated
+with a 45% increase in prolactin levels, whereas
+cyproterone-based regimens increased prolactin
+levels by more than 100%. However, the clinical
+significance of elevated prolactin levels is not
+clear because the rates of prolactinomas were not
+significantly elevated in either the spironolactoneor CPA-treated groups (Wilson et  al., 2020). One
+retrospective, cohort study from a single center
+in the US reported no clinically significant
+increases in prolactin levels in 100 transgender
+women treated with estrogen plus spironolactone
+(Bisson et  al., 2018). A retrospective study from
+the Netherlands of 2,555 transgender women taking primarily CPA with various formulations of
+estrogen reported an increased standardized incidence ratio of meningiomas in patients who used
+cyproterone acetate after gonadectomy for many
+years when compared with the general Dutch
+population (Nota et  al., 2018). Furthermore, in
+a shorter study in Belgium, 107 transgender
+women had transient elevations in prolactin levels
+following treatment with cyproterone acetate,
+which declined to normal after discontinuation
+(Defreyne, Nota et  al., 2017). A recent publication, not included in the systematic review, examined 126 transgender women taking spironolactone,
+GnRHas, or cyproterone and concluded cyproterone was associated with higher prolactin levels
+and a worse lipid profile than spironolactone or
+GnRHas (Sofer et  al., 2020). After balancing the
+costs and accessibility of measuring prolactin levels against the clinical significance of an elevated
+level, a decision was made not to make a recommendation for or against monitoring prolactin
+levels at this time. HCPs should therefore make
+individualized clinical decisions about the necessity to measure prolactin levels based on the type
+of hormone regimen and/or the presence of
+symptoms of hyperprolactinemia or a pituitary
+tumor (e.g., galactorrhea, visual field changes).
+
+Cyproterone has also been linked to meningiomas. Nine cases of meningioma have been
+reported in the literature among transgender
+women primarily taking cyproterone acetate
+(Mancini et al., 2018). This increased risk has also
+been identified in cisgender populations. In 2020,
+the European Medicines Agency published a report
+recommending cyproterone products with daily
+doses of 10 mg or more should be restricted
+because of the risk of developing meningioma
+(European Medicines Agency, 2020). Most likely
+this association is a specific effect of cyproterone
+acetate and has not been extrapolated to include
+other testosterone-lowering drugs. In the US,
+where cyproterone acetate is not available, the
+North American Association of Central Cancer
+Registries (NAACCRs) database did not identify
+an increased risk of brain tumors (not specific to 
+meningiomas) among transgender women (Nash
+et  al., 2018). Furthermore, there was not an
+increase in the hazard ratio of brain tumors in
+the Kaiser cohort of 2,791 transgender women
+compared with cisgender controls (Silverberg et al.,
+2017). No long-term studies have reported on the
+risk of meningiomas and prolactinomas in transgender women taking GnRHas.
+
+Our strong recommendation for the use of
+testosterone-lowering medications as part of a
+hormone regimen for transgender individuals
+with testes is based on the global practice of
+using these medications in addition to estrogen
+therapies as well as the relatively minimal risk
+associated with these therapies. However, we are
+not able to make a recommendation favoring
+one testosterone-lowering medication over
+another at this time. The published data thus
+far raises some concerns about the risk of
+meningiomas with the prolonged use (>2 years)
+and higher doses (>10mg daily) of cyproterone
+acetate (Nota et  al., 2018; Ter Wengel et  al.,
+2016; Weill et  al., 2021).
+
+Bicalutamide is an antiandrogen that has been
+used in the treatment of prostate cancer. It competitively binds to the androgen receptor to block
+the binding of androgens. Data on the use of
+bicalutamide in trans feminine populations is
+very sparse and safety data is lacking. One small
+study looked at the use of bicalutamide 50 mg
+daily as a puberty blocker in 23 trans feminine
+adolescents who could not obtain treatment with
+a GnRH analogue (Neyman et  al., 2019). All adolescents experienced breast development which is
+also commonly seen in men with prostate cancer
+who are treated with bicalutamide. Although rare,
+fulminant hepatotoxicity resulting in death has
+been described with bicalutamide (O’Bryant et al.,
+2008). Given that bicalutamide has not been adequately studied in trans feminine populations, we
+do not recommend its routine use.
+
+The administration of 5α-reductase inhibitors
+block the conversion of testosterone to the more
+potent androgen dihydrotestosterone. The Food
+& Drug Administration (FDA) approved indications of finasteride administration include benign
+prostatic hypertrophy and androgenetic alopecia.
+Data on the use of 5α-reductase inhibitors in
+trans feminine populations is very sparse (Irwig,
+2021). It is unclear whether this class of medication could have any clinical benefit in trans
+feminine individuals whose testosterone and dihydrotestosterone levels have already been lowered
+with estrogen and an antiandrogen. We therefore
+do not recommend their routine use in trans
+feminine populations. Finasteride may be an
+appropriate treatment option in trans masculine
+individuals experiencing bothersome alopecia
+resulting from higher dihydrotestosterone levels.
+Nonetheless, treatment with a 5α-reductase inhibitor may impair clitoral growth and the development of facial and body hair in trans masculine
+individuals. Studies are needed to assess the efficacy and safety of 5α-reductase inhibitors in
+transgender populations.
+
+## Statement 12.17: We recommend health care professionals monitor hematocrit (or hemoglobin) levels in transgender and gender diverse people treated with testosterone. {-}
+
+There are good quality data suggesting a rise
+in hematocrit (or hemoglobin) is associated with
+TGD persons treated with testosterone (Defreyne
+et al., 2018). The testosterone regimens in the systematic review included testosterone esters ranging
+from the equivalent of 25–250mg SC/IM weekly,
+testosterone undecanoate 1000mg every 12 weeks,
+or testosterone gel 50mg applied daily to the skin
+(Defreyne et  al., 2018; Gava et  al., 2018; Giltay
+et  al., 2000; Meriggiola et  al., 2008; Pelusi et  al.,
+2014; T'Sjoen et al., 2005; Wierckx, van Caenegem
+et  al., 2014; Wierckx, van de Peer et  al., 2014).
+The expected rise should be consistent with reference ranges in cisgender males.
+
+## Statement 12.18: We suggest health care professionals collaborate with surgeons regarding hormone use before and after gender-affirmation surgery. For supporting text, see Statement 12.19. {-}
+
+## Statement 12.19: We suggest health care professionals counsel eligible\* transgender and gender diverse people about the various options for gender-affirmation surgery unless surgery is either not indicated or is medically contraindicated. {-}
+
+Despite the absence of evidence, perioperative
+clinical standards for gender-affirmation surgeries
+have included cessation of hormone therapy for
+1–4 weeks before and after surgery, most commonly genital surgeries (Hembree et  al., 2009).
+Such practice was meant to mitigate the risk of
+VTE associated with exogenous estrogen administration (Hembree et  al., 2009). Estrogen and
+testosterone could then be resumed at some point
+postoperatively.
+
+After careful examination, investigators have
+found no perioperative increase in the rate of
+VTE among transgender individuals undergoing
+surgery, while being maintained on sex steroid
+treatment throughout when compared with that
+among patients whose sex steroid treatment was
+discontinued preoperatively (Gaither et  al., 2018;
+Hembree et  al., 2009; Kozato et  al., 2021; Prince
+& Safer, 2020). Sex steroid treatment is especially
+important after gonadectomy to avoid the sequelae
+of hypogonadism, the risk of developing osteoporosis, and for the maintenance of mental health
+and quality of life (Fisher, Castellini et  al., 2016;
+Rosen et  al., 2019). Thus, hormone providers and
+surgeons should educate patients about the necessity for continuous exogenous hormone therapy
+after gonadectomy.
+
+To be able to educate patients and serve as
+clinical advocates, HCPs should be knowledgeable
+about the risks and benefits of gender-affirmation
+surgeries and should also be cognizant of the
+performance measures and surgical outcomes of
+the surgeons to whom they might refer patients
+(Beek, Kreukels et  al., 2015; Colebunders et  al.,
+2017; Wiepjes et  al., 2018). In general, most medically necessary surgeries can be thought of as
+involving three regions: the face, chest/breasts,
+and genitalia (internal and external). Additional
+medically necessary procedures include body contouring and voice surgery. See medical necessity
+statement in Chapter 2—Global Applicability,
+Statement 2.1).
+
+Multiple procedures are available for facial
+gender-affirming surgeries including, but not limited to chondrolanryngoplasty, rhinoplasty, contouring or augmentation of the jaw, chin, and
+forehead, facelift, hair removal and hair transplantation (see Chapter 13—Surgery and
+Postoperative Care). Procedures available for
+chest/breast surgery include breast augmentation,
+double mastectomy with nipple grafts, periareolar
+mastectomy, and liposuction. The most common
+gender-affirmation surgery for TGD individuals
+with endogenous breast development is masculinizing chest surgery (mastectomy) (Horbach
+et  al., 2015; Kailas et  al., 2017).
+
+Internal genital surgery procedures include but
+are not limited to orchiectomy, hysterectomy,
+salpingo-oophorectomy, vaginoplasty, and colpectomy/vaginectomy (Horbach et  al., 2015; Jiang
+et  al., 2018). The inner lining in vaginoplasty is
+typically constructed from penile skin, skin grafts,
+a combination of both, or a bowel segment.
+Removal of the uterus/ovaries can be performed
+individually or all at once (hysterectomy,
+salpingo-oophorectomy, and colpectomy). If
+colpectomy is performed, a hysterectomy must
+also be performed. The ovaries may remain in
+situ, upon patient request. A potential benefit of
+leaving one or both ovaries is fertility preservation, while the downside is the potential for the
+development of ovarian pathology, including cancer (De Roo et  al., 2017).
+
+External genital surgery procedures include but
+are not limited to vulvoplasty, metoidioplasty, and
+phalloplasty (Djordjevic et  al., 2008; Frey et  al.,
+2016). Hair removal is generally necessary before
+performing external genital procedures (Marks
+et  al., 2019). Vulvoplasty can include the creation
+of the mons, labia, clitoris, and urethral opening.
+Urethral lengthening is an option for both
+metoidioplasty and phalloplasty, but is associated
+with a greatly increased complication rate
+(Schechter & Safa, 2018). Wound care and physical therapy are necessary for managing wounds
+resulting from the donor sites for phalloplasty
+(van Caenegem, Verhaeghe et  al., 2013). Pelvic
+physical therapy can also be an important adjunct
+intervention after surgery for managing voiding
+and sexual function (Jiang et  al., 2019). Dialogue,
+mutual understanding, and clear communication
+in a common language between patients, HCPs,
+and surgeons will contribute to well-considered
+decisions about the available surgical procedures.
+
+## Statement 12.20: We recommend health care professionals initiate and continue gender-affirming hormone therapy for eligible\* transgender and gender diverse people who wish this treatment due to demonstrated improvement in psychosocial functioning and quality of life. For supporting text, see Statement 12.21. {-}
+
+## Statement 12.21: We recommend health care professionals maintain existing hormone therapy if the transgender and gender diverse individual's mental health deteriorates and assess the reason for
+the deterioration, unless contraindicated. {-}
+
+Several mental health disparities have been
+documented in the transgender population
+including depression, suicidality, anxiety,
+decreased self-esteem, and post-traumatic stress
+disorder (Arcelus et  al., 2016; Becerra-Culqui et
+al, 2018; Bouman et  al., 2017; Eisenberg et  al.,
+2017; Heylens, Elaut et  al., 2014; Witcomb et  al.,
+2018). The gender minority stress model provides evidence of several mediators and moderators of these disparities (Hendricks & Testa,
+2012; Meyer, 2003). Mediators and moderators
+of mental health disparities unique to transgender people include experiences of discrimination,
+victimization, misgendering, family rejection, and
+internalized transphobia (Hendricks & Testa,
+2012). Factors that have a positive effect on mental health include family acceptance, supportive
+social and romantic relationships, transgender
+community connectedness, protection by affirming and inclusive policies, policies of affirmation
+and inclusion, possession of updated legal name/
+gender documentation, and achievement of physical gender transition based on individualized
+embodiment goals (Bauer et  al., 2015; Bockting
+et  al., 2013; Bouman et  al., 2016; Davey et  al.,
+2014; de Vries et  al., 2014; Du Bois et  al., 2018;
+Gower, Rider, Brown et  al., 2018; Hendricks &
+Testa, 2012; Keo-Meier et  al., 2015; Meier et  al.,
+2013; Pflum et  al., 2015; Ryan et  al., 2010; Smith
+et  al., 2018).
+
+Hormone therapy has been found to positively
+impact the mental health and quality of life of
+TGD youth and adults who embark on this treatment (Aldridge et  al., 2020; Allen et  al., 2019;
+Bauer et  al., 2015; Nobili et  al., 2018; Russell
+et  al., 2018; Ryan, 2009). In many cases, hormone
+therapy is considered a lifesaving intervention
+(Allen et  al., 2019; Grossman & D’Augelli, 2006;
+Moody et  al., 2015). Several studies have found
+associations between the initiation of hormone
+therapy and improved mental health in youth
+and adults (Aldridge et  al., 2020; Costa et  al.,
+2016; de Vries et  al., 2014; Kuper et  al., 2020;
+Nguyen et  al., 2018; White Hughto & Reisner,
+2016), including improvements in quality of life
+(Gorin-Lazard et  al., 2012; Gorin-Lazard et  al.,
+2013; Murad et  al., 2010; Newfield et  al., 2006;
+Nobili et  al., 2018; White Hughto & Reisner,
+2016), a reduction in anxiety and depression
+(Aldridge et  al., 2020; Colizzi et  al., 2014; Davis
+& Meier, 2014; de Vries, Steensma et  al., 2011;
+Gómez-Gil et  al., 2012; Rowniak et  al., 2019),
+decreased stress, and decreased paranoia
+(Keo-Meier & Fitzgerald, 2017). A prospective,
+controlled trial using the Minnesota Multiphasic
+Personality Inventory-2 (MMPI-2) demonstrated
+significant improvement in multiple domains of
+psychological functioning in transgender men
+after only 3 months of testosterone treatment
+(Keo-Meier et  al., 2015). Although there are
+higher rates of autism symptoms in the transgender population, these symptoms have not been
+found to increase after the initiation of hormone
+therapy (Nobili et  al., 2020).
+
+As a reduction in depressive symptoms may
+correlate with a decrease in the risk of suicide,
+withholding hormone therapy based on the presence of depression or suicidality may cause harm
+(Keo-Meier et al., 2015; Levy et al., 2003). Turban,
+King et  al. (2020) found a decrease in the odds
+of lifetime suicidal ideation in adolescents who
+required pubertal suppression and had access to
+this treatment compared with those with a similar
+desire with no such access (Turban, King et  al.,
+2020). A recent systematic review found pubertal
+suppression in TGD adolescents was associated
+with an improved social life, decreased suicidality
+in adulthood, improved psychological functioning
+and quality of life (Rew et  al., 2020). Because evidence suggests hormone therapy is directly linked
+to decreased symptoms of depression and anxiety,
+the practice of withholding hormone therapy until
+these symptoms are treated with traditional psychiatry is considered to have iatrogenic effects 
+(Keo-Meier et  al., 2015). If psychiatric treatment
+is indicated, it can be started or adjusted concurrently without discontinuing hormone therapy.
+*For eligibility criteria for adolescents and adults,
+please refer to Chapter 5—Assessment for Adults and
+Chapter 6—Adolescents as well as Appendix D.*
+

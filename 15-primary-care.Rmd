@@ -1,0 +1,990 @@
+# Primary Care
+
+Primary care is the broadest of health care disciplines and is defined as the “provision of integrated, accessible health care services by health
+care professionals who are accountable for
+addressing a large majority of personal health
+care needs, developing a sustained partnership
+with patients, and practicing in the context of
+family and community.” (Institute of
+Medicine, 1996).
+
+Primary care providers (PCPs) encompass a
+wide range of health care professionals (HCPs)
+who deliver this care, including general and family medical practitioners, nurse practitioners,
+advanced practice nurses, physician associates/
+assistants, and internists. PCPs are represented
+by a variety of educational backgrounds, training,
+and specialties. Given the type of degree and the
+nature of the specialty, the scope of practice varies, and not all providers may be trained or qualified to directly provide the full breadth of
+transgender health care, such as mental health,
+genital/pelvic care, or postoperative care, following gender-affirming procedures. Physicians and
+other providers receive little education in transgender and gender-diverse (TGD) health at any
+time during their training (Dubin et  al., 2018),
+and thus most skills are currently acquired in
+practice, either informally or through brief continuing education opportunities, see also Chapter
+4—Education. However, if providers are competent to deliver similar care for cisgender patients,
+they should develop competency in caring for
+TGD patients. The competencies outlined below
+are all to be understood as being within the provider’s scope of licensure and practice. However,
+all PCPs should be able to manage the comprehensive health of TGD patients either directly or
+by appropriate referral to other HCPs, including
+other specialists, for evaluation and treatment.
+There is no evidence competency in caring for
+TGD patients can only be achieved through a
+formal or certification process. In explicitly stating recommended competencies, however, PCP’s
+and TGD persons across all settings can share a
+standard set of expectations of the knowledge,
+skills, and cultural competence required for the
+care of TGD persons.
+
+Due to the unique medical, surgical, and social
+conditions faced by TGD people, PCPs need distinct competencies in the care of TGD persons,
+apart from what is expected of all PCP’s who
+may otherwise care for a diverse population that
+includes ethnic, racial, or sexual minorities.
+Professional bodies from a range of generalist
+disciplines have issued position statements and
+guidelines specific to the care of TGD people
+(American College of Obstetricians and
+Gynecology, 2021; Italian Society of Gender,
+Identity and Health (SIGIS); the Italian Society
+of Andrology and Sexual Medicine (SIAMS); the
+Italian Society of Endocrinology (SIE), 2021;
+Polish Sexological Society, 2021; the Southern
+African HIV Clinicians’ Society, 2021). Wylie
+et  al. (2016) state “For the most part, the general
+health and well-being of transgender people
+should be attended to within the primary care
+setting, without differentiation from services
+offered to cisgender (non-transgender) people for
+physical, psychological, and sexual health issues.
+Specific care for gender transition is also possible
+in primary care.” There are many examples of
+these services being provided safely and effectively outside of specialist care in diverse cities
+such as Toronto and Vancouver in Canada, New
+York and Boston in the US, and in Sydney,
+Australia, (Radix & Eisfeld, 2014; Reisner, Radix
+et  al., 2016; Spanos et  al., 2021).
+
+## Hormone therapy {-}
+
+Whether TGD patients receive medically necessary gender-affirming hormone therapy (GAHT)
+from a specialist, e.g., an endocrinologist, or a
+PCP may depend on the availability of knowledgeable and welcoming providers and
+country-level factors, such as health care regulations and health services funding (see medically
+necessary statement in Chapter 2—Global
+Applicability, Statement 2.1). In much of the
+world, specialty services for TGD people are
+partly or wholly unavailable, which reinforces the
+need for all health providers to undertake 
+training in the provision of gender-affirming care.
+In some countries, PCPs may be required to refer
+TGD patients to specialist services (e.g., gender
+identity clinics) resulting in unacceptable delays
+to access GAHT (Royal College of General
+Practitioners, 2019).
+
+Hormone-related therapy encompasses a range
+of interventions, such as puberty suppression and
+hormone initiation or hormone maintenance.
+With training, gender-affirming hormone therapy
+can be managed by most PCPs. Regardless of
+whether they serve as the primary hormone prescriber, all PCPs should be familiar with the
+medications, suggested monitoring, and potential
+side effects associated with GAHT (see Chapter
+12—Hormone Therapy). PCPs should be able to
+make appropriate referrals to appropriate providers for all transition-related services they do not
+themselves provide.
+
+This chapter supports the argument GAHT can
+be prescribed by PCPs or other
+non-specialists—“Considering barriers to health
+care access and the importance of GAHT to this
+population, it is imperative that PCPs are able
+and willing to provide GAHT for TGD patients.”
+(Shires, 2017).
+
+PCPs are commonly called upon to provide
+care for a broad range of conditions and needs,
+including those with which they may have had
+limited or no prior experience. Often this involves
+accessing commonly used and readily available
+reference sources, such as professional society
+guidelines or obtaining a subscription to online
+knowledge bases. PCPs are advised to use a similar approach when asked to provide basic GAHT
+care by using the Standards of Care as well as
+other readily accessed resources (Cheung et  al.,
+2019; Hembree et  al., 2017; Oliphant et  al., 2018;
+T’Sjoen et  al., 2020). It should be noted most of
+the commonly used medications in genderaffirming regimens are familiar to everyday primary care practice, including, but not limited to,
+testosterone, estradiol, progesterone and other
+progestagens, and spironolactone.
+
+## Mental health {-}
+
+PCPs should be able and willing to assess and
+provide mental health support for TGD
+people and GAHT that can alleviate gender
+dysphoria and allow gender expression. At the
+very least, they should be aware of these
+needs and consult additional specialty support
+if needed.
+
+## Preventive care {-}
+
+General practitioners are versed to provide comprehensive primary and secondary cancer prevention as a part of routine primary care.
+Evidence-based cancer prevention guidelines
+vary globally due to differences in national
+guidelines and levels of access to screening
+modalities at the local level. To date, research
+on the long-term impact of GAHT on cancer
+risk is limited (Blondeel et  al., 2016; Braun
+et  al., 2017). We have insufficient evidence to
+estimate the prevalence of cancer of the breast
+or reproductive organs among TGD populations
+(Joint et  al., 2018). However, cancer screening
+should commence, in general, according to local
+guidelines. Several modifications are discussed
+in detail, below, depending on the type and
+duration of hormone use, surgical intervention,
+or both. In caring for transgender patients, the
+PCP should maintain an updated record of
+which organs are present in TGD patients so
+that appropriate, routine screening can be
+offered.
+
+This organ inventory should be updated based
+on the surgical history or any development that
+has occurred due to taking gender-affirming hormones. Not all PCP’s provide care across the
+lifespan. However, if providers routinely care for
+children, adolescents, or elder cisgender persons,
+they should develop competency in transgender
+care that is applicable to these age groups. If they
+are unable to do so, then PCPs should be able
+to make appropriate referrals to other HCPs who
+care for these populations.
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In
+some cases, we recognize evidence is limited
+and/or services may not be accessible or
+desirable.
+
+## Statement 15.1: We recommend health care professionals obtain a detailed medical history from transgender and gender diverse people, that includes past and present use of hormones, gonadal surgeries, as well as the presence of traditional cardiovascular and cerebrovascular risk factors with the aim of providing regular cardiovascular risk assessment according to established, locally used guidelines. For supporting text, see Statement 15.3. {-}
+
+## Statement 15.2: We recommend health care professionals assess and manage cardiovascular health in transgender and gender diverse people using a tailored risk factor assessment and cardiovascular/cerebrovascular management methods. For supporting text, see Statement 15.3. {-}
+
+## Statement 15.3: We recommend health care professionals tailor sex-based risk calculators used for assessing medical conditions to the needs of transgender and gender diverse people, taking into consideration the length of hormone use, dosing, serum hormone levels, current age, and the age at which hormone therapy was initiated. {-}
+
+Cardiovascular disease (CVD) and stroke are
+the leading causes of mortality worldwide (World
+Health Organization, 2018). Extensive data among
+racial, ethnic, and sexual minorities in multiple
+settings demonstrate significant disparities in the
+prevalence of CVD and its risk factors as well as
+in the outcomes to medical interventions.
+Structural factors such as access to care, socioeconomic status, and allostatic load related to
+minority stress contribute to these disparities
+(Flentje et  al., 2020; Havranek et  al., 2015; Streed
+et  al., 2021). TGD people often experience social,
+economic, and discriminatory conditions similar
+to other minority populations with known
+increased cardiovascular risk (Carpenter et  al.,
+2020; James et  al., 2016; Reisner, Radix et  al.,
+2016). TGD persons of racial, ethnic, and sexual
+minorities have been shown to experience
+increased impact related to intersectional stress.
+Conversely, access to gender-affirming care,
+including GAHT, may buffer against the elevation
+of CVD risk due to the improvement in quality
+of life and reduction in gender dysphoria and
+incongruence (Defreyne et  al., 2019; Martinez
+et  al., 2018). PCPs can significantly improve TGD
+health through screening and prevention of CVD
+and its associated risk conditions—such as
+tobacco use, diabetes mellitus, hypertension, dyslipidemia, and obesity.
+
+The few, primarily US based, studies evaluating
+the prevalence of CVD, stroke, or CVD risk in
+TGD persons independent of GAHT indicate an
+elevated CV risk, including high rates of undiagnosed and untreated CV risk factors with inadequate CV prevention when compared with
+cisgender populations (Denby et  al., 2021;
+Malhotra et  al., 2022; Nokoff et  al., 2018). In one
+population-based study, TGD people had greater
+odds of discrimination, psychological distress, and
+adverse childhood experience, and these were
+associated with increased odds of having a cardiovascular condition (Poteat et  al., 2021).
+
+In US studies that are based on data from the
+Behavioral Risk Factor Surveillance System, both
+transgender men and transgender women show a
+higher prevalence of myocardial infarction (MI),
+stroke, or any CVD compared with cisgender men,
+cisgender women or both. Results vary based on
+the adjustment of data for additional variables,
+including race, income, or cardiovascular risk factors (Alzahrani et  al., 2019; Caceres et  al., 2020;
+Nokoff et  al., 2018). Gender nonbinary persons
+also have higher odds of CVD (Downing &
+Przedworski, 2018). Data on hormone use was not
+collected in these studies, which are also limited
+by the use of self-reported health histories. In the
+US, TGD individuals presenting for GAHT may
+have higher rates of undiagnosed and untreated
+CVD risk factors compared with the cisgender
+population (Denby et al., 2021), although this may
+not be applicable globally.
+
+A large 2018 case control study from several
+US centers that used 10:1 cisgender matched controls found no statistically significant difference
+in rates of MI or stroke between transgender
+women and cisgender men, and no difference in
+rates of MI, stroke, or venous thromboembolism
+(VTE) between transgender men and cisgender
+men or women. There was a statistically significant hazard ratio of 1.9 for VTE among transgender women when compared with cisgender
+men. A subcohort of transgender women who
+initiated GAHT during (versus prior to) the
+6-year study window did show an increased risk
+of stroke. Increases in rates of VTE in the overall
+cohort of transgender women and in rates of
+stroke in the initiation subcohort of transgender
+women demonstrated calculated
+numbers-needed-to-harm (not reported in the
+paper) between 71-123 (Getahun et  al., 2018).
+Other studies have demonstrated no increase in
+CV events or stroke among transgender men
+undergoing testosterone therapy, although studies
+are limited by their small sample size, relatively
+short follow-up, and the younger age of the sample population (Martinez et  al., 2020; Nota
+et  al., 2019).
+
+European and US studies in transgender
+women who have accessed feminizing GAHT
+increasingly indicate a higher risk of CVD, stroke,
+or both, compared with cisgender women and,
+in some studies, cisgender men (Getahun et  al.,
+2018; Nota et  al., 2019; Wierckx et  al., 2013).
+Many of these studies had significant limitations,
+such as variably adjusting for CV-related risk
+factors, small sample sizes—especially involving
+older transgender women—and variable duration
+and types of GAHT (Connelly et  al., 2019;
+Defreyne et  al., 2019, Martinez et  al., 2020).
+Furthermore, the overall increased risk was small.
+In many of these studies, the majority of transgender women who experienced cardiac events
+or stroke were over 50 years old, had one or
+more CVD risk factors, and were taking a variety
+of hormone regimens, including, but not limited,
+to ethinyl estradiol, a synthetic estrogen that confers significant elevations in thrombotic risk and
+is not recommended for use in feminizing regimens (Gooren et  al., 2014; Martinez et  al., 2020).
+Current limited evidence suggests estrogen-based
+GAHT is associated with an increased risk of
+myocardial infarction and stroke, but whether
+this small risk is a result of GAHT or an effect
+of pre-existing CV risk is unclear. There are no
+known studies that specifically address CVD and 
+International Journal of Transgender Health S147
+related conditions in nonbinary individuals, individuals who use subphysiologic doses of
+gender-affirming hormones, or in adults previously treated with puberty suppression.
+
+PCPs can best address CVD risk during GAHT
+by assessing TGD people for CVD and modifiable
+CVD risk factors, such as diabetes mellitus, hypertension, hyperlipidemia, obesity, and smoking, as
+well as by addressing the impact of minority stress
+on cardiovascular risk (Streed et  al., 2021). In
+addition, PCPs can mitigate transgender cardiovascular health disparities by providing a timely
+diagnosis and treatment of risk conditions and by
+tailoring their management in a way that supports
+ongoing gender-affirming interventions.
+
+Risk assessment guidelines vary based on the
+national or international context and scientific
+affiliation of guideline developers. CVD prevention guidelines also vary in terms of the nature
+and frequency of the risk assessment for otherwise healthy adults under age 40 (Arnett et  al.,
+2019; Piepoli et  al., 2020; Précoma et  al., 2019;
+Streed et  al., 2021; WHO, 2007). Over age 40,
+when cardiovascular risk increases, guidelines
+clearly recommend scheduled risk assessments
+using a calculated prediction of ten-year total
+CVD risk based on risk prediction equations
+from large population samples. Examples of risk
+calculators include SCORE (recommended by the
+European Guidelines on CVD Prevention), Pooled
+Cohort Studies Equations (2013 AHA ACC
+Guideline on the Assessment of CVD risk),
+Framingham Risk scores, and the World Health
+Organization (WHO) Risk Prediction Charts. The
+WHO charts were developed based on information from the countries in each WHO subregion.
+In many low resource settings, facilities are not
+available to measure cholesterol or serum glucose,
+and alternative predication charts are available
+without these measures.
+
+Of note, all current cardiovascular risk calculators are gendered, using sex as a significant risk
+variable. There is currently insufficient data on
+cardiovascular risk interventions across the lifespan in TGD persons with medical and surgical
+interventions to adjust these predictive equations.
+Nonetheless, it is clear both sex assigned at birth
+and medical transition can affect the parameters
+used to calculate cardiovascular risk (Connelly
+et  al., 2019; Defreyne et  al., 2019; Maraka et  al.,
+2017; Martinez et  al., 2020). Providers can take
+a variety of approaches to using cardiovascular
+risk calculators in TGD persons, including
+employing the risk calculator for the sex assigned
+at birth, affirmed gender, or a weighted average
+of the two, taking into consideration total lifetime
+exposure to GAHT. Although data are lacking,
+using the affirmed gender for transgender adults
+with a history of pubertal-age GAHT initiations
+is likely to be most appropriate. Patients with a
+history of submaximal GAHT use or prolonged
+periods of time postgonadectomy without hormone replacement before roughly age 50 may
+require an even more nuanced approach. Providers
+should be aware of the characteristics and limitations of the risk calculator in use and should
+engage patients in shared decision-making regarding these specific considerations.
+
+There are currently no studies comparing the
+prevalence of dyslipidemia between transgender
+and cisgender samples, while controlling for hormone use. As noted previously, data in other
+populations demonstrate the presence of psychosocial stress during childhood and remote adulthood favor adiposity and abnormal lipid
+metabolism. Both testosterone- and estrogen-based
+GAHT affect lipid metabolism, although evidence
+is limited by the variety of hormone regimens
+and additional variables (Connelly et  al., 2019;
+Defreyne et  al., 2019; Deutsch, Glidden et al.,
+2015; Maraka et  al., 2017; Martinez et  al., 2020;).
+On balance, estrogen tends to increase
+high-density lipoprotein (HDL) cholesterol and
+triglycerides with variable effects on low density
+lipoprotein (LDL) cholesterol, while testosterone
+variably affects triglycerides, decreases HDL cholesterol and increases LDL cholesterol. The
+method of administration may also affect this
+pattern, particularly in relation to oral versus
+transdermal estrogen and their impact on triglycerides (Maraka et  al., 2017). In general, the
+effect sizes of these differences are minimal, and
+the overall impact on cardio- and cerebrovascular
+outcomes is unclear. There are no studies examining hormone effects in TGD people with
+pre-existing dyslipidemia with hormone use starting over age 50, or investigating effects beyond
+2-5 years of therapy.
+
+Studies comparing the prevalence of hypertension between TGD and cisgender samples that
+controlled for hormone use are lacking. Data in
+other populations demonstrate chronic and acute
+psychosocial stress, including experiences of discrimination can mediate hypertension
+(Din-Dzietham et  al., 2004; Spruill, 2010). In US
+studies that were based on the Behavioral Risk
+Factor Surveillance System, a large national US
+health survey, there were no differences in
+reported hypertension between transgender men
+or women compared with cisgender samples
+(Alzahrani et  al., 2019; Nokoff et  al., 2018).
+
+Studies of testosterone—and estrogen-based
+GAHT have shown inconsistent effects on systolic
+and diastolic blood pressure. A retrospective
+study of the effects of estrogen- and testosteronebased GAHT regimens on blood pressure found
+a slight reduction in systolic blood pressure with
+the initiation of estrogen-based regimens; while
+there was a slight elevation (4 mm Hg) in mean
+systolic blood pressure on long term follow-up
+of testosterone-based regimens, this difference
+was at the margin of statistical significance and
+of limited clinical relevance (Banks et  al., 2021).
+A systematic review concluded, given the limited
+quality of the studies, there is insufficient data
+to reach conclusions on the effects of
+gender-affirming hormone therapy on blood pressure (Connelly et  al., 2021). Spironolactone, often
+used as an androgen blocker in feminizing GAHT,
+is a potassium sparing diuretic and may increase
+potassium when used in conjunction with ACE
+inhibitors or angiotensin receptor blocker medications, as well as salt substitutes. There are no
+studies examining hormone effects in TGD people with pre-existing hypertension with hormone
+use starting over age 50, or investigating effects
+beyond 2–5 years of therapy. Transgender persons
+receiving GAHT should undergo any additional
+blood pressure screening or monitoring indicated
+by WPATH guidelines for GAHT.
+
+There are limited data comparing the prevalence
+of diabetes mellitus between TGD and cisgender
+samples independent of hormone use. Recent data
+from the STRONG cohort study (Islam et  al.,
+2021) found the prevalence and incidence of type
+2 diabetes was more common in the trans feminine cohort compared with cisgender females but
+not cisgender male controls. No significant differences in the prevalence or incidence of type 2
+diabetes were observed in the trans masculine
+cohort and in TGD persons overall after starting
+hormone therapy. However, the mean follow-up
+for both cohorts was 2.8 and 3.1 years, respectively
+(Islam et  al., 2021). Data in other populations,
+including sexual minorities, indicates chronic and
+acute psychosocial stress can mediate the development and control of type 2 diabetes (Beach
+et  al., 2018; Kelly & Mubarak, 2015).
+
+US studies based on the Behavioral Risk Factor
+Surveillance System found no differences in
+reported diabetes between transgender men,
+transgender women and nonbinary persons compared with cisgender persons (Alzahrani et  al.,
+2019; Caceres et  al., 2020; Nokoff et  al., 2018).
+Several small studies have shown a higher-than-expected prevalence of polycystic ovarian syndrome
+or hyperandrogenemia among transgender men
+(Feldman et  al., 2016), conditions associated with
+insulin resistance and diabetes risk. While studies
+of both testosterone- and estrogen-based GAHT
+show varying effects on weight/body fat, glucose
+metabolism, and insulin resistance (Defreyne
+et  al., 2019), most do not demonstrate any
+increase in prediabetes or diabetes (Chan et  al.,
+2018; Connelly et  al., 2019). There are no studies
+examining hormone effects in TGD people with
+pre-existing diabetes, with hormone use starting
+over age 50, or investigating effects beyond 2–5
+years of therapy. There are currently no studies
+specifically addressing diabetes in adults previously treated with puberty suppression.
+
+While intermediate-outcome studies of the
+effects of GAHT on blood pressure and lipids
+are helpful for hypothesis generation and for
+studying etiology, future studies should focus on
+cardiovascular outcomes of interest, with a specific focus on individual predictors such as age,
+route and dose of hormones used, and total lifetime exposure to GAHT. Interpretation of data
+should always consider whether cisgender controls were of the same natal sex or identified gender.
+
+## Statement 15.4: We recommend health care professionals counsel transgender and gender diverse people about their tobacco use and advise tobacco/nicotine abstinence prior to gender-affirming surgery. {-}
+
+Tobacco use is a leading contributor to cardiovascular disease, pulmonary disease, and cancer worldwide (World Health Organization, 2020).
+TGD persons have a higher prevalence of tobacco
+use compared with cisgender individuals, which
+varies across the gender spectrum (Azagba et  al.,
+2019; Buchting et  al., 2017). This pattern is consistent with other populations experiencing
+minority stress (Gordon et  al., 2021). PCPs can
+promote protective factors against tobacco use,
+including reducing exposure to personal or structural discrimination, having gender-affirming
+identification, and having health insurance (Kidd
+et  al., 2018; Shires & Jafee, 2016).
+
+The health risks of tobacco use affect TGD
+persons disproportionately, primarily due to
+decreased access to culturally competent, affordable screening, and treatment of tobacco-related
+diseases (Shires & Jafee, 2016). Smoking may
+further increase cardiovascular and VTE risk for
+TGD individuals taking feminizing GAHT
+(Hontscharuk, Alba, Manno et al., 2021). Smoking
+also doubles or triples the risk of general surgery
+complications, such as wound healing, scarring,
+and infection (Yoong et  al., 2020) and increases
+these risks for those accessing gender-affirming
+surgeries. Data in cisgender populations show
+quitting smoking prior to surgery and maintaining abstinence for six weeks postoperatively significantly reduces complications (Yoong
+et  al., 2020).
+
+There are currently few studies of smoking
+cessation programs specifically focused on TGD
+persons (Berger & Mooney-Somers, 2017).
+However, limited evidence suggests PCPs can
+enhance smoking cessation efforts by addressing
+the effects of minority stress (Gamarel et  al.,
+2015) and incorporating gender-affirming interventions, such as GAHT (Myers & Safer, 2016).
+
+HCPs should take into consideration the significant barriers people habituated to nicotine
+encounter when attempting cessation. Nicotine
+replacement therapy and/or other cessation
+adjuncts should be made available, with an emphasis on individual preferences and a recognition of
+underlying behavioral health factors that contribute
+to continued nicotine use. Decision-making
+regarding approaches to GAHT or surgery should
+include consideration of the “first do no harm”
+principle of medical practice, with the realities of
+an individual patient’s abilities and needs.
+
+## Statement 15.5: We recommend health care professionals discuss and address aging-related psychological, medical, and social concerns with transgender and gender diverse people. {-}
+
+Aging presents specific social, physical, and
+mental health challenges for TGD persons. While
+the literature on aging and transgender elders is
+limited, many older TGD adults have experienced
+a lifetime of stigma, discrimination, and repression of identified gender (Fabbre & Gaveras,
+2020; Witten, 2017). This experience affects TGD
+elders’ interactions with health care systems
+(Fredriksen-Goldsen et  al., 2014; Kattari &
+Hasche, 2016; Walker et  al., 2017). Transgender
+elders are more likely than cisgender LGB peers
+to report poor physical health, even when controlling for socio-demographic factors
+(Fredriksen-Goldsen 2011; Fredriksen-Goldsen
+et  al., 2014). Reduced access to culturally competent care and the sequelae of minority stress
+often result in delayed care, potentially exacerbating chronic conditions common with aging
+(Bakko & Kattari, 2021; Fredriksen-Goldsen
+et  al., 2014).
+
+Although there are few studies on
+gender-affirming medical interventions among
+TGD elders, evidence suggests older adults experience a significantly higher quality of life with
+medical transition even when compared with
+younger TGD adults (Cai et  al., 2019). Although
+age itself is not an absolute contraindication or
+limitation to gender-affirming medical or surgical
+interventions, TGD elders may not be aware of
+the current range of social, medical or surgical
+options available that can help them meet their
+individual needs (Hardacker et  al., 2019;
+Houlberg, 2019).
+
+While studies on mental health among TGD
+elders are limited, those over age fifty experience
+significantly higher rates of depressive symptoms
+and perceived stress compared with cisgender
+LGB and heterosexual older adults
+(Fredriksen-Goldsen 2011, Fredriksen-
+Goldsen et  al., 2014). Risk factors specific to
+TGD elders include gender- and age-related discrimination, general stress, identity concealment,
+victimization, and internalized stigma, while
+social support and community belonging appear
+protective (Fredriksen-Goldsen et  al., 2014;
+Hoy-Ellis & Fredriksen-Goldsen, 2017; White
+Hughto & Reisner, 2018). PCPs can assist patients
+by encouraging spirituality, self-acceptance and
+self-advocacy, and an active healthy lifestyle, all
+of which are associated with resilience and successful aging (McFadden et al., 2013; Witten, 2014).
+
+TGD elders often face social isolation, loss of
+support systems, and disconnection from close
+friends and children (Fredriksen-Goldsen 2011;
+Witten, 2017). The most common aging concerns
+among TGD persons are losing the ability to care
+for themselves followed by having to go into a
+nursing home or assisted living facility (Henry
+et  al., 2020). While long-term care settings offer
+the helpful needed assistance, they also have the
+potential for physical or emotional abuse, for denial
+of GAHT and routine care, for being “outed,” and
+being prevented from living and dressing according
+to one's affirmed gender (Auldridge et  al., 2012;
+Pang et  al., 2019; Porter et  al., 2016). TGD elders
+identify senior housing, transportation, social
+events, support groups as being the most needed
+services (Auldridge et  al., 2012; Witten, 2014).
+
+Despite barriers, most TGD persons engage in
+successful aging strengthened by self-acceptance, caring relationships, and advocacy (Fredriksen-Goldsen
+2011; Witten, 2014). PCPs should address core health
+issues facing TGD elders, including mental health,
+gender-affirming medical interventions, social support, and end of life/long-term care.
+
+Beyond the independent impact of factors such
+as minority stress and social determinants of
+health in later years, data are lacking on specific
+health issues facing transgender people who use
+GAHT later in life, individuals who began GAHT
+at a younger age, and those seeking to continue
+or begin GAHT in their sixth, seventh, eighth,
+or later decades. With an increasing proportion
+of transgender people beginning GAHT at
+younger ages, including some who begin at the
+time of puberty, studies to examine the impact
+of decades of such treatment on long-term health
+are ever more important.
+
+## Statement 15.6: We recommend health care professionals follow local breast cancer screening guidelines developed for cisgender women in their care of transgender and gender diverse people who have received estrogens, taking into consideration length of time of hormone use, dosing, current age, and the age at which hormones were initiated. {-}
+
+TGD individuals taking estrogen-based GAHT
+will develop breasts, and therefore warrant consideration for breast cancer screening. Exogenous
+estrogen may be one of multiple factors that contribute to breast cancer risk in cisgender people.
+Two cohort studies have been published evaluating breast cancer prevalence among transgender
+women in the Netherlands (Gooren et  al., 2013)
+and the US (Brown & Jones, 2015). Both were
+retrospective cohorts of clinical samples using a
+diagnosis of breast cancer as the outcome of
+interest and cisgender controls as a comparison
+group. Neither study involved prospective screening for breast cancer, and both had significant
+methodological limitations. Numerous guidelines
+have been published (Deutsch, 2016a) recommending some combination of “age plus length
+of estrogen exposure” as the determinant of need
+to commence screening. These recommendations
+are based on expert consensus only and are evidentiarily weak.
+
+BRCA1 and 2 mutations increase the risk of
+breast cancer, however the role sex hormone
+exposure plays, if any, in this increased risk is
+unclear (Rebbeck et  al., 2005) The degree of
+increase in risk, if any, from gender-affirming
+estrogen therapy is unknown. Patients with a
+known BRCA1 mutation should be counseled
+about the unknowns and shared decision-making
+with informed consent should occur between the
+patient and provider, recognizing the numerous
+benefits of GAHT.
+
+Breast cancer screening among transgender
+women should also take into consideration the
+likelihood that a transgender woman’s breasts may
+be denser on mammography. Dense breasts, a
+history of injecting breasts with fillers such as
+silicone, and breast implants may complicate the
+interpretation of mammographic findings
+(Sonnenblick et  al., 2018). Therefore, special 
+International Journal of Transgender Health S151
+techniques should be used accordingly. People
+who have injected particles such as silicone or
+other fillers for breast augmentation may also
+develop complications, such as sclerosing lipogranulomas, which obscure normal tissue on mammography or ultrasound.
+
+## Statement 15.7: We recommend health care professionals follow local breast cancer screening guidelines developed for cisgender women in their care of transgender and gender diverse people with breasts from natal puberty who have not had gender-affirming chest surgery. {-}
+
+For TGD people assigned female at birth and
+who developed breasts via natal puberty, there are
+theoretical concerns about whether direct exposure
+to testosterone and exposure to aromatized estrogen resulting from testosterone therapy are risk
+factors for the development of breast cancer.
+Limited retrospective data has not demonstrated
+increased risk for breast cancer among transgender
+men (Gooren et  al., 2013; Grynberg et  al., 2010),
+however prospective and comparison data are
+lacking. Most people in this group will have some
+breast tissue remaining, and therefore it is important for providers to be aware breast cancer risk
+is not zero in this population. The timing and
+approach to breast cancer screening in this group
+who have had chest surgery is currently not established, and, similar to cisgender men with significant family history or BRCA gene mutation,
+screening via MRI or ultrasound may be appropriate. Because the utility and performance of
+these approaches have not been studied and
+because self- and HCP-led chest/breast screening
+exams are not recommended in cisgender women
+due to potential harms of both false-positive
+results and over-detection (detection of a cancer
+which would have regressed on its own with no
+need for intervention), any approach to screening
+in this group should occur in the context of
+shared decision-making between patients and providers regarding the potential harms, benefits, and
+unknowns of these approaches.
+
+## Statement 15.8: We recommend health care professionals apply the same respective local screening guidelines (including the recommendation not to screen) developed for cisgender women at average and elevated risk for developing ovarian or endometrial cancer in their care of transgender and gender diverse people who have the same risks. {-}
+
+Current consensus guidelines do not recommend routine ovarian cancer screening for cisgender women. Case reports of ovarian cancer among
+transgender men have been reported (Dizon et al.,
+2006; Hage et  al., 2000). There is currently no
+evidence testosterone therapy leads to an increased
+risk of ovarian cancer, although long-term prospective studies are lacking (Joint et  al., 2018).
+
+## Statement 15.9: We recommend against routine oophorectomy or hysterectomy solely for the purpose of preventing ovarian or uterine cancer for transgender and gender diverse people undergoing testosterone treatment and who have an otherwise average risk of malignancy. {-}
+
+TGD people with ovaries who are taking
+testosterone-based GAHT are often in an oligo- or
+anovulatory state, or otherwise experience shifts
+in luteal phase function and progesterone production. This condition combined with the possible
+increased estrogen exposure from aromatization
+of exogenous testosterone raises the concern for
+excessive or unopposed endometrial estrogen
+exposure, although the clinical significance is
+unknown. Histologic studies of the endometrium
+in TGD people taking testosterone have found
+atrophy rather than hyperplasia (Grimstad et  al.,
+2018; Grynberg et  al., 2010; Perrone et  al., 2009).
+In a large cohort of trans masculine people who
+underwent a hysterectomy with oophorectomy,
+benign ovarian histopathology was noted in all
+cases (n = 85) (Grimstad et  al., 2020). While prospective outcome data are lacking, there is insufficient evidence at this time to support a
+recommendation transgender men undergo routine
+hysterectomy or oophorectomy solely to prevent
+endometrial or ovarian cancer. Certainly, unexplained signs/symptoms of endometrial or ovarian
+cancer should be evaluated appropriately.
+
+## Statement 15.10: We recommend health care professionals offer cervical cancer screening to transgender and gender diverse people who currently have or previously had a cervix, following local guidelines for cisgender women. {-}
+
+Individuals with a cervix should undergo routine cervical cancer screening and prevention
+according to age-based regional practices and
+guidelines. This includes vaccination against the
+human papilloma virus (HPV) and screening
+according to local guidelines, including cytologic,
+high-HPV co-testing if available. It is important
+HCPs be mindful of performing pelvic speculum
+examinations in a manner that minimizes pain
+and distress for transgender masculine people.
+
+TGD people with a cervix are less likely to
+have had conventional cervical cancer screening,
+either because the exam can cause worsening of
+dysphoria and/or because general practitioners
+and patients are misinformed about the need for
+this screening (Agenor et  al., 2016; Potter et  al.,
+2015). In addition, testosterone therapy can result
+in atrophic changes of the genital tract, and the
+duration of testosterone use has been associated
+with a greater likelihood of obtaining an inadequate sample for cytologic screening of cervical
+cancer (Peitzmeier et  al., 2014). Alternatives to
+speculum exams and cervical cytology, such as
+provider- or self-collected high-risk HPV swabs,
+may be of particular benefit for screening people
+with a cervix. Research underway in the US is
+investigating the use of self-collected vaginal
+high-risk HPV testing among transgender masculine populations. HPV swabs were found to be
+highly acceptable among transgender men with
+a sensitivity to high-risk HPV of 71.4% (negative
+predictive value of 94.7%) and a specificity of
+98.2% (Reisner et  al., 2018). Further study is
+needed to evaluate the harms of HPV primary
+screening in transgender men in terms of the
+potential increased harms associated with invasive
+examinations and colposcopies.
+
+## Statement 15.11: We recommend health care professionals counsel transgender and gender diverse people that the use of antiretroviral medications is not a contraindication to gender-affirming hormone therapy. {-}
+
+Human immunodeficiency virus (HIV) prevalence is disproportionately high in TGD
+populations. A recent large metanalysis found a
+global odds ratio for HIV infection of sixty-six
+for trans feminine individuals and 6.8 for trans
+masculine individuals (Stutterheim et  al., 2021).
+PCPs have unique opportunities to provide crucial education and implement prevention strategies, especially related to decreasing HIV
+burden among TGD people. Mistrust of health
+care providers due to past experiences of discrimination and transphobia impacts HIV prevention and disrupts the linkage to care efforts
+(Sevelius et  al., 2016). Stigma, lack of adequate
+training, and innate power hierarchies within
+medical establishments, all contribute to ambivalence and uncertainty among HCPs when caring for TGD people (Poteat et  al., 2013). Finally,
+a lack of inclusiveness and gender-affirming
+practices in the health care setting may lead to
+TGD people feeling unsafe discussing sensitive
+topics, such as HIV diagnosis and avoiding care
+out of fear (Bauer et  al., 2014; Gibson et  al.,
+2016; Seelman et  al., 2017).
+
+HCPs should be aware of this broader context
+within which many TGD people are seeking care
+for either gender-affirming hormones, HIV
+pre-exposure chemoprophylaxis/treatment (PrEP),
+or both. There may be various misconceptions
+about the safety of taking gender-affirming hormones concurrently with antiretroviral therapy
+for HIV chemoprophylaxis or treatment.
+
+Direct study of antiretroviral/gender-affirming
+hormone therapy (ART/GAHT) interactions has
+been limited. A subanalysis of transgender women
+and trans feminine persons in the multinational
+iPrEx trial found poor effectiveness in this group
+in the intention-to-treat analysis, although effectiveness was similar to that in cisgender gay men
+among those transgender participants who
+adhered to the medication as prescribed, suggesting that uptake and adherence to PrEP remain
+challenging in this population. Two studies of
+the effects of GAHT on tenofovir diphosphate
+(Grant et  al., 2021) and tenofovir diphosphate
+and emtricitabine (Shieh et  al., 2019) found the
+significantly lowered ART drug levels were
+unlikely to be of clinical significance. Overall,
+data on the interactions between hormonal contraceptives and antiretrovirals are reassuring in
+terms of the impact of hormones on ART (Nanda 
+International Journal of Transgender Health S153
+et  al., 2017). Because estradiol is partially metabolized by cytochrome P450 (CYP) 3A4 and 1A2
+enzymes, potential drug interactions with other
+medications that induce or inhibit these pathways, such as non-nucleoside reverse transcriptase
+inhibitors (NNRTIs, e.g., efavirenz (EFV) and
+nevirapine (NVP)), may exist (Badowski et  al.,
+2021). However, the preferred first-line ART regimens in most countries include integrase inhibitors, which have minimal to no drug interactions
+with gender-affirming hormones and can be used
+safely (Badowski, 2021; Department of Health
+and Human Services. Panel on Antiretroviral
+Guidelines for Adults and Adolescents, 2021). If
+concerns exist about potential interactions, HCPs
+should monitor blood hormone levels as needed.
+Therefore, TGD people living with HIV and taking antiretroviral medications should be counseled that taking antiretrovirals alongside GAHT
+is safe.
+
+## Statement 15.12: We recommend health care professionals obtain a detailed medical history from transgender and gender diverse people that includes past and present use of hormones, gonadal surgeries as well as the presence of traditional osteoporosis risk factors, to assess the optimal age and necessity for osteoporosis screening. For supporting text, see Statement 15.13. {-}
+
+## Statement 15.13: We recommend health care professionals discuss bone health with transgender and gender diverse people including the need for active weight bearing exercise, healthy diet, calcium, and vitamin D supplementation. {-}
+
+Estrogen and testosterone both support bone
+formation and turnover. Decreased sex hormone
+levels are associated with a greater risk of osteoporosis in older age (Almeida et  al., 2017). TGD
+individuals may receive medical and/or surgical
+interventions that have the potential to influence
+bone health, such as sex hormone treatment,
+androgen blockade, and gonadectomy. Therefore,
+a detailed medical history, including past and
+present use of hormones along with gonadal surgeries, is necessary to establish the need for osteoporosis screening.
+
+Several observational studies have compared
+bone mineral density (BMD) of TGD adults
+before and after gender-affirming hormone therapy along with in TGD individuals compared
+with sex-at-birth matched cisgender controls.
+
+Low BMD may exist before the initiation of
+hormones. One study showed a lower mean areal
+BMD at the femoral neck, total hip, and spine
+in transgender women than in age-matched cisgender male controls (Van Caenegem, Taes et  al.,
+2013). Another study revealed a high prevalence
+of low BMD scores among TGD youth before
+starting puberty blockers (Lee, Finlayson et  al.,
+2020). The authors of both studies concluded low
+rates of physical activity may be an important
+contributor to these findings.
+
+Acceleration of bone loss can occur after gonadectomy if hormones are stopped or if hormones
+levels are suboptimal. In one study, thirty percent
+of transgender women who had undergone gonadectomy had low bone mass, and this correlated
+with lower 17-ß estradiol levels and adherence
+to GAHT (Motta et  al., 2020).
+
+Investigation of the effects of GAHT on BMD
+have revealed TGD women receiving estrogen
+therapy show improvements in BMD. A systematic review and meta-analysis on the impact of
+sex hormones on bone health of transgender
+individuals included 9 eligible studies in transgender women (n = 392) and 8 eligible studies in
+transgender men (n = 247) published between
+2008 and 2015. The meta-analysis revealed transgender women showed a statistically significant
+increase in lumbar spine BMD (but not femoral
+neck BMD) compared with baseline measures.
+Among transgender men, there were no statistically significant changes in the lumbar spine,
+femoral neck, and total hip BMD at 12 and 24
+months after starting testosterone compared with
+baseline measures (Singh-Ospina et  al., 2017).
+Since the publication of this study, the European
+Network for Investigation of Gender Incongruence
+(ENIGI) study, a multicenter prospective observational study (Belgium, Norway, Italy, and the
+Netherlands) published results on BMD outcomes
+for 231 transgender women and 199 transgender
+men one year after initiating GAH (Wiepjes
+et  al., 2017). Transgender women had an increase
+in BMD of the lumbar spine, total hip and 
+femoral neck, and increased BMD of the total
+hip occurred in transgender men. One study
+reported no fractures in transgender individuals
+at 12 months following initiation of hormones in
+53 transgender men and 53 transgender women
+(Wierckx, van Caenegem et  al., 2014). No studies
+suggest GAHT should be an indication for
+enhanced osteoporosis screening. Rather, gaps in
+GAHT in those who have undergone prior gonadectomy would be a consideration for such
+screening.
+
+Clinical practice guidelines include recommendations for osteoporosis screening in TGD individuals (Deutsch, 2016a; Hembree et  al., 2017;
+Rosen et  al., 2019). For TGD people, both the
+International Society for Clinical Densitometry
+and the Endocrine Society suggest consideration
+of baseline BMD screening before initiation of
+hormones. Further recommendations for BMD
+screening are based on several factors including
+sex reported at birth and age along with the presence of traditional risk factors for osteoporosis,
+such as prior fracture, high risk medication use,
+conditions associated with bone loss, and low
+body weight (Rosen et  al., 2019). Specifically, the
+ISCD guidelines state BMD testing is indicated
+for TGD individuals if they have a history of
+gonadectomy or therapy that lowers endogenous
+gonadal steroid levels prior to the initiation of
+GAHT, hypogonadism with no plan to take
+GAHT or known indications for BMD testing
+(Rosen et  al., 2019). However, the evidentiary
+basis for these recommendations is weak.
+
+The recommended screening modality for osteoporosis is dual energy x-ray absorptiometry
+(DXA) of the lumbar spine, total hip, and femoral
+neck (Kanis, 1994). However in many low- and
+middle-income countries, BMD tests using DXA
+are not available, and routine DXA-based screening is conducted in few countries, the US being
+an exception.
+
+PCPs should discuss ways to optimize bone
+health with TGD people. In addition, PCPs
+should provide information about the importance
+of nutrition and exercise on maintaining bone
+health. TGD individuals with (or at risk) for osteoporosis should be informed about the benefits
+of weight bearing exercise along with strength
+and resistance exercises in limiting bone loss
+(Benedetti et  al., 2018). Nutrition is integral to
+bone health. Nutritional deficiencies, including
+insufficient calcium intake and low vitamin D,
+can result in low bone mineralization. Vitamin
+D and calcium supplementation have been shown
+to reduce hip as well as total fracture incidence
+(Weaver et  al., 2016). Although relevant to all
+populations, this discussion is pertinent as a high
+prevalence of hypovitaminosis D has been
+observed in TGD populations (Motta et  al., 2020;
+Van Caenegem, Taes et  al., 2013).
+
+## Statement 15.14: We recommend health care professionals offer transgender and gender diverse people referrals for hair removal from the face, body, and genital areas for gender-affirmation or as part of a preoperative preparation process. {-}
+
+Hair removal is necessary both for the elimination of facial hair (Marks et  al., 2019) as well
+as in preparation for certain gender-affirming
+surgeries (GAS) such as vaginoplasty, phalloplasty,
+and metoidioplasty (Zhang et  al., 2016).
+Preoperative permanent hair removal is required
+for any skin area that will either be brought into
+contact with urine (e.g., used to construct a neourethra) or be moved to reside within a partially
+closed cavity within the body (e.g., used to line
+the neovagina) (Zhang et  al., 2016). Hair removal
+techniques used in gender-affirming care are electrolysis hair removal (EHR) and laser hair
+removal (LHR) (Fernandez et  al., 2013). EHR is
+currently the only US Food and Drug
+Administration–approved method of permanent
+hair removal, whereas LHR is approved for permanent hair reduction (Thoreson et  al., 2020).
+
+EHR involves the use of an electric current
+with a very fine probe that is manually inserted
+sequentially into individual hair follicles (Martin
+et  al., 2018). Since this method uses direct
+mechanical destruction of the blood supply to
+the hair, it can be used on all hair colors and
+skin types (Martin et  al., 2018). EHR is time
+consuming and costly as it requires each hair
+follicle to be treated individually, but is effective
+for permanent hair removal. For genital permanent hair removal prior to GAS, this treatment
+needs to be performed by a practitioner competent in genital hair removal as this method differs 
+International Journal of Transgender Health S155
+from that of the face and body. EHR is more
+painful than LHR, with possible side effects of
+erythema, crusting, and swelling (Harris et  al.,
+2014). Postinflammatory hyperpigmentation is a
+risk for dark-skinned individuals (Richards &
+Meharg, 1995). Pain can be controlled with topical local anesthetic and cooling techniques, and
+tolerance to EHR does develop to some degree
+with many persons able to tolerate longer sessions
+(Richards & Meharg, 1995).
+
+LHR uses laser energy to target hair follicles. It
+is beneficial for larger surface areas. The mechanism is photo-thermolysis, whereby light from a
+laser selectively targets melanin in the hair shaft
+(Gao et  al., 2018). This energy is converted to
+heat, which damages the follicles within the skin
+that produce hairs and results in the destruction
+of hair growth. Further treatments are needed to
+achieve best results and are typically spaced six
+weeks apart to allow for hair cycling (Zhang et al.,
+2016). Because LHR targets melanin, results may
+be limited for those with grey, blonde, or red hair.
+
+There are specific considerations for using
+LHR in dark-skinned individuals (Fitzpatrick skin
+types IV to VI) (Fayne et  al., 2018)). The higher
+melanin content of the epidermis can compete
+with the target chromophore of the light or laser,
+which is the melanin in the hair shaft of the hair
+follicle. For selective thermolysis to occur, heat
+diffuses from the hair shaft to the follicular stem
+cells to cause damage. In darker skin types, rather
+than reaching the target melanin in the hair shaft,
+light is absorbed in the epidermis where it is
+then converted to heat. This may result in poorer
+clinical outcomes and a higher rate of thermally
+induced adverse effects, such as hypo- or hyperpigmentation, blistering, and crust formation
+(Fayne et  al., 2018). The selection of laser wavelength is critical in reducing this risk, with longer
+wavelength recommended to minimize the
+absorption of light in epidermal melanin and thus
+maximize efficacy and minimize adverse effects
+in patients with dark skin (Zhang et  al., 2016).
+Side effects from LHR can include the feeling of
+sunburnt after treatment, as well as inflammation,
+redness, hyperpigmentation, and swelling. Flashing
+lights have been known to induce seizures in
+susceptible patients, so patients should be
+screened for this risk. Pain and discomfort during
+the procedure can also represent a significant
+barrier, and PCPs should be prepared to prescribe
+topical or systemic analgesics, such as a eutectic
+mixture of local anesthetics (EMLA) or a low
+dose systemic opioid. For genital GAS, some have
+recommended a 3-month wait after the last
+planned hair removal treatment before proceeding
+with surgery to confirm that no further hair
+regrowth will occur (Zhang et  al., 2016).
+

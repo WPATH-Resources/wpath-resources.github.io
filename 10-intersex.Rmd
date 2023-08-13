@@ -1,0 +1,846 @@
+# Intersex
+The Standards of Care, Version 7 included a chapter on the applicability of the standards to people
+with physical intersexuality who become
+gender-dysphoric and/or change their gender
+because they differ from transgender individuals
+without intersexuality in phenomenological presentation, life trajectories, prevalence, etiology, and
+stigma risks. The current chapter provides an
+update and adds recommendations on the medically necessary clinical approach to the management of individuals with intersexuality in general
+(see medical necessity statement in Chapter 2—
+Global Applicability, Statement 2.1). Because a newborn with an atypical sexual differentiation may
+already present with clinical challenges, including
+the need for family education and support from
+early on, the decision-making on gender assignment, subsequent clinical gender management,
+components of which—especially genital surgery—
+may be controversial, and a later risk of gender
+dysphoria development and gender change that is
+markedly increased (Sandberg & Gardner, 2022).
+
+## Terminology
+
+“Intersex” (from Latin, literal translation “between
+the sexes”) is a term grounded in the binary
+system of sex underlying mammalian (including
+human) reproduction. In medicine, the term is
+colloquially applied to individuals with markedly
+atypical, congenital variations in the reproductive
+tract. Some variations, often labeled “genital
+ambiguity,” preclude the simple recognition of
+somatic sex as male or female and, in resource-rich
+societies, may require a comprehensive physical,
+endocrine, and genetic work-up, before a sex/
+gender is “assigned.” In recent years “intersex”
+has also become an identity label adopted by
+some individuals with intersex conditions and a
+subset of (non-intersex) individuals with a nonbinary gender identity (Tamar-Mattis et  al., 2018).
+
+At a 2005 international consensus conference
+on intersex management, intersex conditions were
+subsumed under a new standard medical term,
+“Disorders of Sex Development” (DSD), defined
+as “congenital conditions in which development
+of chromosomal, gonadal, or anatomical sex is
+atypical” (Hughes et  al., 2006). DSD covers a
+much wider range of conditions than those traditionally included under intersexuality and comprises conditions such as Turner syndrome and
+Klinefelter syndrome, which are much more prevalent. In addition, many affected individuals dislike the term “disorder,” viewing it as inherently
+stigmatizing (Carpenter, 2018; Griffiths, 2018;
+Johnson et al., 2017; Lin-Su, et al., 2015; Lundberg
+et  al., 2018; Tiryaki et  al., 2018). Health care professionals (HCPs) also vary in their acceptance
+of the term (Miller et  al., 2018). The wide-spread
+alternative reading of DSD as “Differences in Sex
+Development” can be seen as less pathologizing,
+but is semantically unsatisfactory as this term
+does not distinguish the typical genital differences
+between males and females from atypical sexual
+differentiation. Other recent attempts to come up
+with less obviously stigmatizing terms such as
+“Conditions Affecting Reproductive Development”
+(CARD; Delimata et  al., 2018) or “Variations of/
+in Sex Characteristics” (VSC; Crocetti, et  al.,
+2021) are also not specific to intersexuality.
+
+Given these definitional issues, in this chapter
+we are using the term “intersexuality” (or “intersex”) to refer to congenital physical manifestations only. This is done for both descriptive
+clarity and historical continuity. This choice is
+not meant to indicate an intention on our part
+to take sides in the ongoing discussion regarding
+the concept of sex/gender as a bipolar system or
+as a continuum, which may vary with considerations of context and utility (Meyer-Bahlburg,
+2019). In 21st century societies, the concepts of
+sex and gender are in a process of evolution.
+
+## Prevalence {-}
+
+The prevalence of intersex conditions depends
+on the definition used. Obvious genital atypicality
+(“ambiguous genitalia”) occurs with an estimated
+frequency ranging from approximately 1:2000—
+1:4500 people (Hughes et  al., 2007). The most
+inclusive definitions of DSD estimate a prevalence
+of up to 1.7% (Blackless et  al., 2000). Although
+these numbers are high in aggregate, the individual conditions associated with the intersex
+variations tend to be much rarer. For instance,
+androgen insensitivity syndrome (AIS) occurs in
+approximately 1 in 100,000 46,XY births (Mendoza
+& Motos, 2013), and classic congenital adrenal 
+hyperplasia (CAH) in approximately 1 in 15,000
+46,XX births (Therrell, 2001). Prevalence figures
+for individual syndromes may vary dramatically
+between countries and ethnic groups.
+
+## Presentation {-}
+
+The presentation of individuals with intersex traits
+varies widely. Intersexuality can be recognized
+during prenatal ultrasound imaging, although most
+individuals will be identified during genital examinations at birth. In resource-rich societies, such
+children will undergo extensive medical diagnostic
+procedures within the first weeks of life. Taking
+into consideration the specific medical diagnosis,
+physical and hormonal findings, and information
+from long-term follow-up studies about gender
+outcome, joint decision-making between the
+health-care team and the parents generally leads
+to the newborn being assigned to the male or
+female sex/gender. Some individuals with intersexuality come to the attention of specialists only
+around the age of puberty, for instance, when
+female-raised adolescents are evaluated for primary
+amenorrhea.
+
+HCPs assisting individuals with both intersexuality and gender uncertainty need to be
+aware that the medical context in which such
+individuals have grown up is typically very different from that of non-intersex TGD people.
+There are many different syndromes of intersexuality, and each syndrome can vary in its
+degree of severity. Thus, hormonal and surgical
+treatment approaches vary accordingly.
+
+Some physical manifestations of intersexuality
+may require early urgent intervention, as in cases
+of urinary obstruction or of adrenal crisis in
+CAH. Most physical variations among individuals
+with intersexuality neither impair function, at
+least in the early years, nor risk safety for the
+individual. Yet, the psychosocial stigma associated
+with atypical genital appearance often motivates
+early genital surgery (commonly labeled ‘corrective’ or ‘normalizing’) long before the individual
+reaches the age of consent. This approach is
+highly controversial because it conflicts with ethical principles supporting a person’s autonomy
+(Carpenter, 2021; Kon, 2015; National Commission
+for the Protection of Human Subjects of
+Biomedical and Behavioral Research, 1979). In
+addition, among the manifestations without
+immediate safety concerns, some individuals,
+when older, may opt for a range of medical interventions to optimize function and appearance.
+The specifics of medical treatments are far beyond
+the scope of what can be addressed in this chapter, and the interested reader should consult the
+respective endocrine and surgical literature.
+
+Some intersex conditions are associated with a
+greater variability in long-term gender identity outcome than others (Dessens et al., 2005). For instance,
+the incidence of a non-cisgender gender identity in
+46,XX individuals with CAH assigned female may
+be as high as 5–10% (Furtado et  al., 2012). The
+substantial biological component underlying gender
+identity is a critical factor that must be considered
+when offering psychosocial, medical, and surgical
+interventions for individuals with intersex conditions.
+
+There is also ample evidence people with intersexuality and their families may experience psychosocial distress (de Vries et  al., 2019;
+Rosenwohl-Mack et  al., 2020; Wolfe-Christensen
+et  al., 2017), in part related to psychosocial
+stigma (Meyer-Bahlburg, Khuri et  al., 2017;
+Meyer-Bahlburg, Reyes-Portillo et  al., 2017;
+Meyer-Bahlburg et  al., 2018).
+
+## Intersexuality in the psychiatric nomenclature {-}
+
+Since 1980, the American psychiatric nomenclature recognized individuals with intersexuality
+who meet the criteria for gender identity variants;
+however, their diagnostic categorization changed
+with successive DSM editions. For instance, in
+DSM-III (American Psychiatric Association,
+1980), the Axis-I category of “transsexualism”
+could not be applied to such individuals in adulthood, but such children were labeled “gender
+identity disorder of childhood,” with the medical
+intersex condition to be specified in Axis III. In
+DSM-IV-TR (American Psychiatric Association,
+2000), individuals with intersexuality were
+excluded from the Axis-I category of “gender
+identity disorder” regardless of age and, instead,
+grouped with other conditions under the category
+“gender identity disorder not otherwise specified.”
+In DSM-5 (American Psychiatric Association,
+2013), which moved away from the multiaxial 
+system, “gender identity disorder” was re-defined
+as “gender dysphoria” and applied regardless of
+age and intersex status, but individuals with intersexuality received the added specification “with
+a disorder of sex development” (Zucker et  al.,
+2013). The just published text revision of DSM-5
+(American Psychiatric Association, 2022) keeps
+the term gender dysphoria. Note, however, the
+recent revision of the International Classification
+of Diseases [ICD-11; World Health Organization,
+2019a] has moved “gender incongruence” from
+the chapter “Mental, B ehavioral, or
+Neurodevelopmental Disorders” to a new chapter
+“Conditions Related to Sexual Health.”
+
+All the statements in this chapter have been
+recommended based on a thorough review of
+evidence, an assessment of the benefits and
+harms, values and preferences of providers and
+patients, and resource use and feasibility. In some
+cases, we recognize evidence is limited and/or
+services may not be accessible or desirable.
+
+## Statement 10.1: We suggest a multidisciplinary team, knowledgeable in diversity of gender identity and expression as well as in intersexuality, provide care to individuals with intersexuality and their families.
+
+Intersexuality, a subcategory of DSD, is a complex congenital condition that requires the
+involvement of experts from various medical and
+behavioral disciplines (Hughes et  al., 2006). Team
+composition and function can vary depending on
+team location, local resources, diagnosis, and the
+needs of the individual with intersexuality and
+her/his/their family. The ideal team includes pediatric subspecialists in endocrinology, surgery and/
+or urology, psychology/psychiatry, gynecology,
+genetics, and, if available, personnel trained in
+social work, nursing, and medical ethics (Lee
+et  al., 2006). The structure of the team can be
+in line with 1) the traditional multidisciplinary
+medical model; 2) the interprofessional model;
+or 3) the transdisciplinary model. Although these
+structures can appear similar, they are in fact
+very different and can exert varying influences
+on how the team functions (Sandberg & Mazur,
+2014). The 2006 Consensus Statement makes no
+decision about which model is best—multidisciplinary, interdisciplinary, or transdisciplinary—
+and only states the models “imply different
+degrees of collaboration and professional
+autonomy” (Lee, Nordenström et  al., 2016). Since
+the publication of the Consensus Statement in
+2006, such teams have been created both in
+Europe and in the US. A listing of teams in the
+US can be found on the DSD-Translational
+Network (DSD-TRN) website. There are also
+teams in a number of European countries (Thyen
+et  al., 2018). While there are barriers to the creation of teams as noted by Sandberg and Mazur
+(2014), multidisciplinary teams help address a
+number of problems that have undermined the
+successful care of individuals with an intersex
+diagnosis and their families, such as the scattered
+nature of services, the limited or absent communication between professionals, and the resulting
+fragmented nature of the explanations individuals
+receive that cause more confusion than clarity.
+
+Most individuals born with intersexuality will
+be identified at birth or shortly thereafter, while
+others will be identified at later times in the life
+cycle, for example at puberty (see Brain et  al.,
+2010, Table 1). When this happens the team
+approach will be modified based on the diagnosis
+and the age of the person. In some circumstances,
+the composition of the team can be expanded to
+include other specialists as needed.
+
+It has been reported children seen by a multidisciplinary team were significantly more likely
+to receive nearly the full range of services rather
+than only those services offered by a single provider (Crerand et  al., 2019). Parents who received
+such care positively endorsed psychosocial services and the team approach and reported receiving more information than those who did not
+interact with such a team (Crerand et  al., 2019).
+
+## Statement 10.2: We recommend health care professionals providing care for transgender youth and adults seek training and education in the aspects of intersex care relevant to their professional discipline.
+
+Results from interviews with medical trainees
+(Liang et  al., 2017; Zelin et  al., 2018) and from
+programmatic self-audits and surveys (DeVita
+et  al., 2018; Khalili et  al., 2015) suggest medical
+training programs are not adequately preparing
+practitioners to provide competent care to individuals presenting with gender dysphoria and
+intersexuality. Professional and stakeholder
+attendees of intersex-specific events have identified ongoing education and collaboration as
+an important professional development need
+(Bertalan et  al., 2018; Mazur et  al., 2007). This
+may be especially true for adult care providers
+who may have less clinical guidance or support
+in assisting those individuals who are transitioning from pediatric to adult care (Crouch &
+Creighton, 2014).
+
+However, there are few guidelines for training
+or assessing practitioner competency in managing
+these topics, and those that are available primarily
+apply to mental health professionals (MHPs)
+(Hollenbach et  al., 2014), with the exception of
+a primary care guide (National LGBTQIA+Health
+Education Center, 2020).
+
+For HCPs wanting to improve their competency, seeking consultation from experts may be
+an option when formal education or empirical
+guidelines are otherwise unavailable. Given the
+relative widespread adoption of multidisciplinary
+expert teams in the treatment of intersexuality
+(Pasterski et  al., 2010), individuals serving on
+these teams are well positioned to consult with
+and educate other health care staff who may not
+have received adequate training (Hughes et  al.,
+2006). Therefore, it is recommended the training
+of other professionals be a central component of
+team development (Auchus et  al., 2010) and
+members of multidisciplinary teams receive training specific to team-based work, including strategies for engaging in interprofessional learning
+(Bisbey, et  al., 2019; Interprofessional Education
+Collaborative Expert Panel, 2011).
+
+## Statement 10.3: We suggest health care professionals educate and counsel families of children with intersexuality from the time of diagnosis onward about the child’s specific intersex condition and its psychosocial implications.
+
+Full disclosure of medical information to families of children with intersex conditions through
+education and counseling should begin at the time
+of diagnosis and should be consistent with guidance from multiple international consensus guidelines. One of the most challenging issues presented
+by a newborn with intersexuality, particularly 
+when associated with noticeable genital ambiguity,
+is sex assignment and from the parents’ perspective, the gender of rearing (Fisher, Ristori et  al.,
+2016). Given this is a very stressful situation for
+most parents, it is generally recommended the
+decisions about sex/gender should be made as
+quickly as a thorough diagnostic evaluation permits (Houk & Lee, 2010). However, the criteria
+for sex/gender decisions have changed over time.
+In the second half of the 20th century, the decisions were biased towards female assignment,
+because feminizing genital surgery was seen as
+easier and less side-effect prone than masculinizing surgery. Yet, in certain intersex conditions, for
+instance 46,XY 5α-RD-2 deficiency, female sex/
+gender assignment was found to be associated with
+high rates of later gender dysphoria and gender
+change (Yang et  al., 2010). Therefore, since the
+International Consensus Conference on Intersex
+Management in 2005, sex/gender assignment takes
+into consideration the gradually accumulating data
+on long-term gender outcome in the diverse conditions of intersexuality.
+
+The practice of disclosure seeks to enable more
+fully informed decision-making about care.
+Additionally, while shame and stigma surrounding intersexuality is associated with poorer psychosocial outcomes, open and proactive
+communication of health information has been
+proposed as a strategy to reduce those risks (de
+Vries et  al., 2019). Depending on the person’s
+diagnosis and developmental stage, intersex conditions may differentially impact individuals and
+their health care needs. Intersex-health-related
+communication must therefore be continuous and
+tailored to the individual. Research on
+decision-making in intersex care suggests families
+are influenced by how clinical teams communicate (Timmermans et  al., 2018). In keeping with
+the SOC, we encourage providers to adopt normalizing, affirming language and attitudes across
+education and counseling functions. For example,
+describing genital atypia as a “variation” or “difference” is more affirming than using the terms
+“birth defect” or “abnormality.”
+
+All HCPs involved in an individual’s care can
+provide essential education and information to
+families. In multidisciplinary teams, the type of
+education may align with an HCP’s area of
+expertise, for example, a surgeon educating the
+individual on their anatomy, an endocrinologist
+teaching the specifics of hormonal development,
+or an MHP conveying the spectrums of gender
+and sexual identity. Other HCPs may need to
+provide comprehensive education. Families
+should receive information that is pertinent to
+the individual’s specific intersex variation, when
+known. All HCPs can supplement this information with patient-centered resources available
+from support groups. People with intersexuality
+have also been hired as team members to provide education using their lived experience.
+
+Consensus guidelines also recommend families
+be offered ongoing peer and professional psychosocial support (Hughes et  al., 2006) that may
+involve counseling with a focus on problem-solving
+and anticipatory guidance (Hughes et  al., 2006).
+For example, families may seek guidance in educating other people—siblings, extended family,
+and caregivers—about the specific intersex condition of an individual. Other families may need
+support or mental health care to manage the
+stress of intersex treatment. Adolescents may benefit from guidance on how to disclose information to peers as well as from support when
+navigating dating and sex. Providing counseling
+may also involve guiding families and individuals
+of all ages through a shared decision-making process around medical or surgical care. Providers
+may employ decision aids to support this process
+(Sandberg et  al., 2019; Weidler et  al., 2019).
+
+## Statement 10.4: We suggest both providers and parents engage children/individuals with intersexuality in ongoing, developmentally appropriate communications about their intersex condition and its psychosocial implications.
+
+Communicating health information is a
+multi-directional process that includes the transfer of information from providers to patients,
+from parents to patients, as well as from patients
+back to their providers (Weidler & Peterson,
+2019). While much emphasis has been placed on
+communicating to parents around issues of diagnosis and surgical decision-making, youth with
+DSD have reported barriers to engaging with
+health care providers and may not always turn 
+to their parents for support (Callens et  al., 2021).
+To prepare individuals to be fully engaged and
+autonomous in their treatment, it is critical both
+providers and parents communicate continuously
+with children/individuals.
+
+Providers must set an expectation as soon as
+possible for ongoing, open communication
+between all parties, especially since parents may
+experience distress due to the uncertainty associated with DSD and may seek quick fixes
+(Crissman et  al., 2011; Roberts et  al., 2020).
+Models of shared decision-making as well as
+related decisional tools have been developed to
+support ongoing communication between HCPs
+and families/individuals (Karkazis et  al., 2010;
+Sandberg et  al., 2019; Siminoff & Sandberg, 2015;
+Weidler et  al., 2019). In addition to setting an
+expectation for dialogue, providers can also set
+the tone of communication. Providers can help
+parents and individuals tolerate diagnostic uncertainty while simultaneously providing education
+on anatomic variations, modeling openness to
+gender and sexual identity, and welcoming the
+child’s/individual’s questions. As they age, children/individuals may have questions or need
+age-appropriate information on issues of sex,
+menstruation, fertility, the need for hormone
+treatment (adrenal/sex), bone health, and cancer risk.
+
+Parents also play a critical role in educating
+their children and may be the first people to
+disclose health information to their child (Callens
+et al., 2021). As part of expectation-setting around
+communication, providers should prepare parents
+to educate their child and members of their support system about the intersex diagnosis and
+treatment history. Some parents report difficulties
+in knowing how much to disclose to others as
+well as to their own children (Crissman et  al.,
+2011; Danon & Kramer, 2017). The stress parents
+experience while raising children with an intersex
+condition is increased when parents adopt an
+approach that minimizes disclosure/discussion of
+their child’s diagnosis (Crissman et  al., 2011).
+The level of stress also varies by developmental
+stage, with parents of adolescents reporting higher
+rates of stress (Hullman et  al., 2011). Therefore,
+HCPs should assist parents in developing strategies specific to their child’s developmental stage
+that address their psychosocial or cultural concerns and values (Danon & Kramer, 2017; Weidler
+& Peterson, 2019). Finally, broader research on
+sexuality and gender variance has found—counter
+to the associations between shame/stigma and
+negative health outcomes—supportive family
+behaviors (including talking with children about
+their identity and connecting them with peers)
+predicted greater self-esteem and better health
+outcomes in individuals (Ryan et  al., 2010).
+
+## Statement 10.5: We suggest health care professionals and parents support children/individuals with intersexuality in exploring their gender identity throughout their life. {-}
+
+Psychological, social, and cultural constructs
+all intersect with biological factors to form an
+individual’s gender identity. As a group, individuals with intersexuality show increased rates of
+gender nonconforming behavior, genderquestioning, and cross-gender wishes in childhood, dependent in part on the discrepancy
+between the prenatal sex-hormonal milieu in
+which the fetal brain has differentiated and the
+sex assigned at birth (Callens et  al., 2016; Hines,
+et  al., 2015; Meyer-Bahlburg et  al., 2016; Pasterski
+et  al., 2015). Gender identity problems are
+observed at different rates in individuals with
+different intersex conditions (de Vries et  al.,
+2007). More recently, some individuals have been
+documented to develop a nonbinary identity, at
+least privately (Kreukels et  al., 2018). Although
+the majority of people with intersexuality may
+not experience gender dysphoria or wishes for
+gender transition, they may still have feelings of
+uncertainty and unanswered questions regarding
+their gender (Kreukels et  al., 2018). Questions
+about gender identity may arise from such factors
+as genital appearance, pubertal development, and
+knowledge of items such as the diagnostic term
+of the medical condition, gonadal status, sex
+chromosome status, and a history of genital surgery. Therefore, HCPs need to be accessible for
+clients to discuss such questions and feelings,
+openly converse about gender diversity, and adopt
+a less binary approach to gender. HCPs are
+advised to guide parents as well in supporting
+their children in exploring gender.
+
+Furthermore, such support should not be confined to the childhood years. Rather, individuals
+should be given the opportunity to explore their
+gender identity throughout their lifetime, because
+different phases may come with new questions
+regarding gender (for example, puberty/adolescence, childbearing age). Children in general may
+have questions regarding their gender identity at
+salient points during their maturation and evolution. When faced with additional stressors, for
+example, genital ambiguity, genital examinations
+and procedures, as well as the intersectionality
+of cultural bias and influences, individuals with
+intersexuality may need support and should be
+encouraged to seek educated professional assistance and guidance when needed. Also, HCPs
+should inquire regularly to determine if their
+clients with intersexuality need such support.
+When people experience gender incongruence,
+gender-affirming interventions may be considered. Procedures that should be applied in such
+interventions are described in other chapters.
+
+## Statement 10.6: We suggest health care professionals promote well-being and minimize the potential stigma of having an intersex condition by working collaboratively with both medical and non-medical individuals/organizations. {-}
+
+Individuals with intersexuality are reported to
+experience stigma, feelings of shame, guilt, anger,
+sadness and depression (Carroll et  al., 2020;
+Joseph et  al., 2017; Schützmann et  al., 2009).
+Higher levels of psychological problems are
+observed in this population than in the general
+population (Liao & Simmonds, 2014; de Vries
+et  al., 2019). In addition, parental fear of stigmatization and adjustment to their child’s diagnosis must not be overlooked by the clinical
+team. Parents may benefit from supportive counseling to assist them both in managing clinical
+decision-making (Fleming et  al., 2017; Rolston
+et  al., 2015; Timmermans et  al., 2019) as well as
+understanding the impact of clinical decisions on
+their view of their child (Crissman et  al., 2011;
+Fedele et  al., 2010).
+
+Thyen et  al. (2005) found repeated genital
+examinations appear to be correlated with shame,
+fear and pain and may increase the likelihood of
+developing post-traumatic stress disorder (PTSD)
+later in life (Alexander et  al., 1997; Money &
+Lamacz, 1987). Exposure to repeated genital
+examinations, fear of medical interventions, and
+parental and physician secrecy about being intersex ultimately undermine the self-empowerment
+and self-esteem of the person with intersexuality
+(Meyer-Bahlburg et  al., 2018; Thyen et  al., 2005;
+Tishelman et al., 2017; van de Grift, Cohen-Kettenis
+et  al., 2018). For recommendations on how to
+conduct genital examinations to minimize adverse
+psychological side effects see Tishelman
+et  al. (2017).
+
+There is an active movement within the intersex community to alleviate stigma and to return
+human rights and dignity to intersex people
+rather than viewing them as medical anomalies
+and curiosities (Yogyakarta Principles, 2007,
+2017). Chase (2003) summarizes the major reasons for the intersex advocacy movement and
+outlines how stigma and emotional trauma are
+the outcome of ignorance and the perceived need
+for secrecy. Public awareness of intersex conditions is very limited, and images and histories of
+individuals with intersexuality are still presented
+as “abnormalities of nature”. We, therefore, advise
+HCPs to actively educate their colleagues, individuals with intersexuality, their families, and
+communities, raise public awareness, and increase
+knowledge about intersexuality. Societal awareness
+and knowledge regarding intersexuality may help
+reduce discrimination and stigmatization. Tools
+and education/information materials may also
+help individuals with intersexuality disclose their
+condition, if desired (Ernst et  al., 2016).
+
+HCPs should be able to recognize and address
+stigmatization in their clients (Meyer-Bahlburg
+et  al., 2018) and should encourage people with
+intersexuality of various ages to connect via support groups. There is a need for developing specific techniques/methods for assisting clients to
+cope with stigma related to intersex.
+
+## Statement 10.7: We suggest health care professionals refer children/individuals with intersexuality and their families to mental health professionals as well as peer and other psychosocial supports as indicated. {-}
+
+For almost all parents, the birth of a child with
+intersexuality is entirely unexpected and comes as
+a shock. Their inability to respond immediately
+to the ubiquitous question, “Is your baby a boy
+or a girl?”, their lack of knowledge about the
+child’s condition, the uncertainty regarding the
+child’s future, and the pervasive intersex stigma
+are likely to cause distress, sometimes to the level
+of PTSD and may lead to prolonged anxiety and
+depression (Pasterski et  al., 2014; Roberts et  al.,
+2020; Wisniewski & Sandberg, 2015). This situation may affect parental care and long-term outcome of their child with intersexuality (Schweizer
+et  al., 2017). As these children grow up, they are
+also at risk of experiencing intersex stigma in its
+three major forms (enacted, anticipated, internalized) in all spheres of life (Meyer-Bahlburg et  al.,
+2018), along with other potential difficulties such
+as body image problems, gender-atypical behavior,
+and gender identity questioning. Many may face
+the additional challenge presented by the awareness of the incongruence between their assigned
+gender and biological characteristics such as sexual
+karyotype, gonads, past and/or current
+sex-hormonal milieu, and reproductive tract configuration. This situation may also adversely affect
+the individuals’ mental health (Godfrey, 2021;
+Meyer-Bahlburg, 2022). A recent online study of
+a very large sample of LGBTQ youth indicated
+that LGBTQ youth who categorized themselves as
+having a physical intersex variation had a rate of
+mental health problems that was higher than the
+rate in LGBTQ youth without intersexuality
+(Trevor Project, 2021). As intersex conditions are
+rare, parents of such children and later the individuals themselves may experience their situation
+as unique and very difficult for others to understand. Thus, based on clinical experience, there is
+a consensus among HCPs who are experienced in
+intersex care, that social support is a crucial component of intersex care, not only through professional support by MHPs (Pasterski et  al., 2010),
+but also, importantly, through support groups of
+individuals with intersex conditions (Baratz et  al.,
+2014; Cull & Simmonds, 2010; Hughes et al., 2006;
+Lampalzer et  al., 2021). A detailed international
+listing of DSD and intersex peer support and
+advocacy groups with their websites has been provided by Lee, Nordenström et  al. (2016). Given
+the heterogeneity of intersex conditions and treatment regimens, an individual with intersexuality
+may find it most helpful to associate with a support group that includes members with the same
+or similar condition as that of the individual. It
+is important HCPs specializing in intersex care
+also collaborate closely with such support groups
+so that occasional differences in opinions regarding
+specific aspects of care can be resolved through
+detailed discussions. Close contacts between HCPs
+and support groups also facilitate community-based
+participatory research that benefits both sides.
+
+## Statement 10.8: We recommend health care professionals counsel individuals with intersexuality and their families about puberty suppression and/or hormonal treatment options within the context of the individual's gender identity, age, and unique medical circumstances.
+
+While many people with intersexuality have a
+gender identity in line with their XX or XY karyotype, there is sufficient heterogeneity that HCPs
+should be able to provide customized approaches.
+For example, among XX individuals with virilizing
+CAH, a larger than expected minority have a male
+gender identity (Dessens et  al., 2005). Among XY
+individuals with partial androgen insensitivity syndrome, gender identity can vary significantly (Babu
+& Shah, 2021). Furthermore, among XY individuals
+with 5α-reductase-2 (5α-RD-2) deficiency and with
+17-beta-hydroxysteroid dehydrogenase-3 deficiency
+who are assigned the female sex at birth, a large
+fraction (56–63% and 39–64%, respectively) change
+from a typical female gender role to a typical male
+gender role as they age (Cohen-Kettenis, 2005).
+
+People with intersexuality have a wide range
+of medical options open to them depending on
+their gender identity and its alignment with anatomy. These options include puberty suppression
+medication, hormonal treatment, and surgeries,
+all customized to the unique circumstances of
+the individual (Weinand & Safer, 2015; Safer &
+Tangpricha, 2019) (for further information see
+Chapter 6—Adolescents and Chapter 12—
+Hormone Therapy). Specifically, when functional
+gonads are present, puberty may be temporarily
+suspended by using gonadotropin-releasing hormone (GnRH) analogues. Such intervention can 
+facilitate the necessary passage of time needed
+by the individual to explore gender identity and
+to actively participate in sex designation, especially for conditions in which sex role change is
+common (i.e., in female-raised individuals with
+5α-RD-2 deficiency; Cocchetti, Ristori, Mazzoli
+et  al., 2020; Fisher, Castellini et  al., 2016).
+HCPs can counsel individuals and their families directly if the providers have sufficient
+expertise and can leverage expertise needed to
+determine both a course of treatment appropriate
+for the individual and the logistics involved in
+implementing the chosen therapeutic option.
+
+## Statement 10.9: We suggest health care professionals counsel parents and children with intersexuality (when cognitively sufficiently developed) to delay gender-affirming genital surgery, gonadal surgery, or both, so as to optimize the children’s self-determination and ability to participate in the decision based on informed consent.
+
+International human rights organizations have
+increasingly expressed their concerns that surgeries performed before a child can participate
+meaningfully in decision-making may endanger
+the child’s human rights to autonomy,
+self-determination, and an open future (e.g.,
+Human Rights Watch, 2017). Numerous medical
+and intersex advocacy organizations as well as
+several countries have joined these international
+human rights groups in recommending the delay
+of surgery when medically feasible (Dalke et  al.,
+2020; National Academies of Sciences, Engineering,
+and Medicine, 2020). However, it is important to
+note some anatomic variations, such as obstruction of urinary flow or exposure of pelvic organs,
+pose an imminent risk to physical health
+(Mouriquand et  al., 2016). Others, such as menstrual obstruction or long-term malignancy risk
+in undescended testes, have eventual physical
+consequences. A third group of variations, i.e.,
+variations in the appearance of external genitals
+or vaginal depth, pose no immediate or long-term
+physical risk. The above recommendation
+addresses only those anatomic variations that, if
+left untreated, have no immediate adverse physical consequences and where delaying surgical
+treatment poses no physical health risk.
+
+Non-urgent surgical care for individuals with
+these variations is complex and often contested,
+particularly when an individual is an infant or a
+young child and cannot yet participate in the
+decision-making process. Older people with intersexuality have reported psychosocial and sexual
+health problems, including depression, anxiety,
+and sexual and social stigma (de Vries et  al.,
+2019; Rosenwohl-Mack et  al., 2020). Some studies
+have suggested individuals with a specific variation (e.g., 46,XX CAH) agree with surgery being
+performed before adolescence (Bennecke et  al.,
+2021). Recent studies suggest some adolescents
+and adults are satisfied with the appearance and
+function of the genitals after childhood surgery
+(Rapp et  al., 2021). A child’s genital difference
+can also become a source of stress for parents,
+and there is research that reports a correlation
+of surgery to create binary genitals with a limited
+amount of reduction in parental distress
+(Wolfe-Christensen et  al., 2017), although a
+minority of parents may report decisional regret
+(Ellens et  al., 2017). Consequently, some organizations recommend surgery be offered to very
+young children (American Urological Association,
+2019; Pediatric Endocrine Society, 2020).
+
+This shows the division within the medical
+field regarding its management guidelines for
+early genital surgery. The authors of this chapter
+also did not reach complete consensus. Some
+intersex specialists consider it potentially harmful
+to insist on a universal deferral of early genital
+surgery for genital variations without immediate
+medical risks. Reasons supporting this view
+include 1) intersex conditions are highly heterogeneous with respect to type and severity as well
+as associated gonadal structure, function, and
+malignancy risk; 2) societies and families vary
+tremendously in gender norms and intersex
+stigma potential; 3) early surgery may present
+certain technical advantages; and 4) a review of
+surveys of individuals with intersexuality (most
+of whom had previously undergone genital surgery) show the majority endorse surgery before
+the age of consent, especially in the case of individuals with 46,XX CAH and less strongly for
+individuals with XY intersex conditions
+(Meyer-Bahlburg, 2022). Experts supporting this
+view call for an individualized approach to 
+decisions regarding genital surgery and its timing.
+This approach has been adopted by medical societies with high rates of intersex specialists
+(Bangalore Krishna et  al., 2021; Pediatric
+Endocrine Society, 2020; Speiser et  al., 2018;
+Stark et  al., 2019) and by certain support organizations (CARES Foundation; Krege et al., 2019).
+
+Nonetheless, long-term outcome studies are
+limited and most studies reporting positive outcomes lack a non-surgical comparison group
+(Dalke, et  al., 2020; National Academies of
+Sciences, Engineering, and Medicine, 2020). There
+is also no evidence surgery protects children with
+intersex conditions from stigma (Roen, 2019).
+Adults with intersexuality do experience stigma,
+depression, and anxiety related to their genitalia,
+but can also experience stigma whether or not
+they have surgery (Ediati et  al., 2017;
+Meyer-Bahlburg, Khuri et al., 2017; Meyer-Bahlburg
+et  al., 2018). There is also evidence surgeries may
+lead to significant cosmetic, urinary, and sexual
+complications extending into adulthood (Gong &
+Cheng, 2017; National Academies of Sciences,
+Engineering, and Medicine, 2020). Recent studies
+suggest some groups of individuals may have particularly negative experiences with gonadectomy,
+although this risk has to be weighed against that
+of gonadal malignancy (Duranteau et  al., 2020;
+Rapp et al., 2021). People with intersex conditions
+are also far more likely than the general population to be transgender, to be gender diverse, or
+to have gender dysphoria (Almasri et  al., 2018;
+Pasterski et  al., 2015). Genital surgeries of young
+children may therefore irreversibly reinforce a
+binary sex assignment that is not aligned with
+the persons’ future. These findings, together with
+human rights perspectives, support the call for
+the delay in the decision for surgery until the
+individual can decide for him/her/themselves.
+
+Systematic long-term follow-up studies are urgently
+needed to compare individuals with the same intersex conditions who differ in the age at surgery or
+have had no surgery with regard to gender identity,
+mental health, and general quality of life.
+
+## Statement 10.10: We suggest only surgeons experienced in intersex genital or gonadal surgery operate on individuals with intersexuality. {-}
+
+Intersex conditions are rare, and intersex genital and gonadal anatomy are heterogeneous.
+Surgeries have been associated with a risk of significant long-term complications (e.g., National
+Academies of Sciences, Engineering, and Medicine,
+2020), and most surgical training programs do
+not prepare trainees to provide this specialized
+care (Grimstad, Kremen et  al., 2021). In recognition of the complexity of surgical care across
+the lifespan, standards produced by expert and
+international consensus recommend this care be
+provided by multidisciplinary teams of experts
+(Krege et al, 2019; Lee, Nordenström et  al., 2016;
+Pediatric Endocrine Society, 2020). Therefore, we
+advise surgical care be limited to
+intersex-specialized, multidisciplinary settings that
+include surgeons experienced in intersex care.
+
+## Statement 10.11: We recommend health care professionals who are prescribing or referring for hormonal therapies/surgeries counsel individuals with intersexuality and fertility potential and their families about a) known effects of hormonal therapies/surgery on future fertility; b) potential effects of therapies that are not well studied and are of unknown reversibility; c) fertility preservation options; and d) psychosocial implications of infertility. {-}
+
+Individuals with certain intersex conditions
+may have reproductively functional genitalia but
+experience infertility due to atypical gonadal
+development. Others may have functioning
+gonads with viable germ cells but an inability to
+achieve natural fertility secondary to incongruent
+internal or external genitalia (van Batavia &
+Kolon, 2016). Pubertal suppression, hormonal
+treatment with sex steroid hormones, and gender
+affirming surgeries may all have an adverse
+impact on future fertility. The potential consequences of the treatment and fertility preservation
+options should therefore be reviewed and
+discussed.
+
+Individuals with functioning testes should be
+advised prolonged treatment with estrogen and
+suppression of testosterone, as studied in TGD
+people without intersexuality, may cause testicular
+atrophy and a reduction in sperm count
+(Mattawanon et  al., 2018). Although interruption 
+of such gender affirming hormonal treatment
+may improve sperm quality, a complete reversal
+of semen impairment cannot be guaranteed
+(Sermondade et  al., 2021). The principal fertility
+preservation option for individuals with functioning testes is cryopreservation of sperm collected
+through masturbation or vibratory stimulation
+(de Roo et  al., 2016). Although there are no data
+for success in humans, there is a proposal to
+offer direct testicular extraction and cryopreservation of immature testicular tissue to adolescents
+who have not yet undergone spermarche
+(Mattawanon et  al., 2018).
+
+Individuals with functioning ovaries should be
+advised testosterone therapy usually results in cessation of both menses and ovulation, often within
+a few months of initiating therapy. There are major
+gaps in knowledge regarding the potential effects
+of testosterone on oocytes and subsequent fertility.
+In transgender people, one study reported testosterone treatment may be associated with the development of polycystic ovarian morphology (Grynberg
+et  al., 2010). However, other researchers have not
+found evidence of polycystic ovarian syndrome
+(PCOS) among transgender men receiving gender
+affirming hormone therapy based on metabolic
+(Chan et  al., 2018) or histologic parameters (de
+Roo et  al., 2017). Individuals with an intact uterus
+and functioning ovaries may regain their fertility
+potential if testosterone therapy is discontinued.
+
+Fertility preservation options in post-pubertal
+people with intersexuality and functioning ovaries
+include hormonal stimulation for mature oocyte
+cryopreservation or ovarian tissue cryopreservation. Alternatively, stimulated oocyte extraction
+has been reported even for a transgender man
+continuing testosterone therapy (Greenwald,
+2021). Similarly, oocyte cryopreservation after
+ovarian stimulation has been reported in a transgender boy receiving GnRHa therapy (Rothenberg
+et  al., 2019). It should be noted ovarian stimulation, temporary cessation of GnRHa, testosterone treatment, or both, as well as gynecological
+procedures, can all be psychologically distressing
+to individuals, with the stress reaction being
+influenced by mental health, gender identity, and
+other medical experience. Applicability of certain
+interventions may depend on the support of other
+people in the individual’s social network, including potential partners.
+
+## Statement 10.12: We suggest health care professionals caring for individuals with intersexuality and congenital infertility introduce them and their families, early and gradually, to the various alternative options of parenthood.
+
+For people with intersex characteristics, the
+likelihood of infertility may be recognized in
+infancy, childhood, adolescence as well as in
+adulthood, without first engaging in attempts
+to conceive. For many individuals, a diagnosis
+of infertility accompanies the intersex diagnosis
+(Jones, 2019). For some individuals, assisted
+heterologous fertilization (e.g., oocyte or sperm
+donation) may be an option. Multiple adoption
+pathways exist. Some may require commitment
+and a considerable investment of time.
+Individuals who are either not interested in
+engaging in the efforts to achieve fertility previously described or for whom fertility is not
+possible can benefit from early exposure to the
+options available for adoption and alternative
+parenthood. While uterus transplantation has
+had preliminary success in people with
+Mullerian agenesis (Richards et  al., 2021), there
+is no protocol to date that avoids exposure of
+the developing fetus to the risks associated with
+the medications used to avoid transplant
+rejection.
+
