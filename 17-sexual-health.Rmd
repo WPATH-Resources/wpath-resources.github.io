@@ -196,7 +196,7 @@ HCPs who are knowledgeable about the diversity
 of sexual practices and anatomical functioning
 particular to TGD health care.
 
-## Statement 17.3: We recommend health care professionals who provide care to transgender and gender diverse people offer the possibility of including the partner(s) in sexuality-related care, if appropriate.
+## Statement 17.3: We recommend health care professionals who provide care to transgender and gender diverse people offer the possibility of including the partner(s) in sexuality-related care, if appropriate. {-}
 
 When appropriate and relevant to clinical concerns, inclusion of a sexual and/or romantic partner(s) in sexual health care decision-making can
 increase TGD patients’ sexual well-being and
@@ -369,7 +369,7 @@ an opportunity to offer further clarification to
 patients and, if desired, to their partners (Glaser
 et  al., 2020).
 
-## Statement 17.6: We recommend health care professionals who provide care to transgender and gender diverse people counsel adolescents and adults regarding prevention of sexually transmitted infections.
+## Statement 17.6: We recommend health care professionals who provide care to transgender and gender diverse people counsel adolescents and adults regarding prevention of sexually transmitted infections. {-}
 
 The WHO (2015) recommends HCPs implement brief sexuality-related communication in
 primary care for all adolescents and adults.
@@ -444,7 +444,7 @@ pre-exposure prophylaxis, and HIV treatment to
 prevent onwards transmission (WHO, 2021).
 Trans-specific considerations for pre-exposure prophylaxis are addressed in Statement 17.8.
 
-## Statement 17.7: We recommend health care professionals who provide care to transgender and gender diverse people follow local and World Health Organization guidelines for human immunodeficiency virus/sexual transmitted infections (HIV/ STIs) screening, prevention, and treatment.
+## Statement 17.7: We recommend health care professionals who provide care to transgender and gender diverse people follow local and World Health Organization guidelines for human immunodeficiency virus/sexual transmitted infections (HIV/ STIs) screening, prevention, and treatment. {-}
 
 Like cisgender patients, TGD adolescents and
 adults should be offered screening for HIV/STIs

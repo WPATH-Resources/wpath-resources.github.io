@@ -16,7 +16,7 @@ may be controversial, and a later risk of gender
 dysphoria development and gender change that is
 markedly increased (Sandberg & Gardner, 2022).
 
-## Terminology
+## Terminology {-}
 
 “Intersex” (from Latin, literal translation “between
 the sexes”) is a term grounded in the binary
@@ -193,7 +193,7 @@ patients, and resource use and feasibility. In some
 cases, we recognize evidence is limited and/or
 services may not be accessible or desirable.
 
-## Statement 10.1: We suggest a multidisciplinary team, knowledgeable in diversity of gender identity and expression as well as in intersexuality, provide care to individuals with intersexuality and their families.
+## Statement 10.1: We suggest a multidisciplinary team, knowledgeable in diversity of gender identity and expression as well as in intersexuality, provide care to individuals with intersexuality and their families. {-}
 
 Intersexuality, a subcategory of DSD, is a complex congenital condition that requires the
 involvement of experts from various medical and
@@ -248,7 +248,7 @@ than only those services offered by a single provider (Crerand et  al., 2019). P
 such care positively endorsed psychosocial services and the team approach and reported receiving more information than those who did not
 interact with such a team (Crerand et  al., 2019).
 
-## Statement 10.2: We recommend health care professionals providing care for transgender youth and adults seek training and education in the aspects of intersex care relevant to their professional discipline.
+## Statement 10.2: We recommend health care professionals providing care for transgender youth and adults seek training and education in the aspects of intersex care relevant to their professional discipline. {-}
 
 Results from interviews with medical trainees
 (Liang et  al., 2017; Zelin et  al., 2018) and from
@@ -289,7 +289,7 @@ members of multidisciplinary teams receive training specific to team-based work,
 (Bisbey, et  al., 2019; Interprofessional Education
 Collaborative Expert Panel, 2011).
 
-## Statement 10.3: We suggest health care professionals educate and counsel families of children with intersexuality from the time of diagnosis onward about the child’s specific intersex condition and its psychosocial implications.
+## Statement 10.3: We suggest health care professionals educate and counsel families of children with intersexuality from the time of diagnosis onward about the child’s specific intersex condition and its psychosocial implications. {-}
 
 Full disclosure of medical information to families of children with intersex conditions through
 education and counseling should begin at the time
@@ -361,7 +361,7 @@ of all ages through a shared decision-making process around medical or surgical 
 may employ decision aids to support this process
 (Sandberg et  al., 2019; Weidler et  al., 2019).
 
-## Statement 10.4: We suggest both providers and parents engage children/individuals with intersexuality in ongoing, developmentally appropriate communications about their intersex condition and its psychosocial implications.
+## Statement 10.4: We suggest both providers and parents engage children/individuals with intersexuality in ongoing, developmentally appropriate communications about their intersex condition and its psychosocial implications. {-}
 
 Communicating health information is a
 multi-directional process that includes the transfer of information from providers to patients,
@@ -586,7 +586,7 @@ detailed discussions. Close contacts between HCPs
 and support groups also facilitate community-based
 participatory research that benefits both sides.
 
-## Statement 10.8: We recommend health care professionals counsel individuals with intersexuality and their families about puberty suppression and/or hormonal treatment options within the context of the individual's gender identity, age, and unique medical circumstances.
+## Statement 10.8: We recommend health care professionals counsel individuals with intersexuality and their families about puberty suppression and/or hormonal treatment options within the context of the individual's gender identity, age, and unique medical circumstances. {-}
 
 While many people with intersexuality have a
 gender identity in line with their XX or XY karyotype, there is sufficient heterogeneity that HCPs
@@ -626,7 +626,7 @@ determine both a course of treatment appropriate
 for the individual and the logistics involved in
 implementing the chosen therapeutic option.
 
-## Statement 10.9: We suggest health care professionals counsel parents and children with intersexuality (when cognitively sufficiently developed) to delay gender-affirming genital surgery, gonadal surgery, or both, so as to optimize the children’s self-determination and ability to participate in the decision based on informed consent.
+## Statement 10.9: We suggest health care professionals counsel parents and children with intersexuality (when cognitively sufficiently developed) to delay gender-affirming genital surgery, gonadal surgery, or both, so as to optimize the children’s self-determination and ability to participate in the decision based on informed consent. {-}
 
 International human rights organizations have
 increasingly expressed their concerns that surgeries performed before a child can participate
@@ -819,7 +819,7 @@ other medical experience. Applicability of certain
 interventions may depend on the support of other
 people in the individual’s social network, including potential partners.
 
-## Statement 10.12: We suggest health care professionals caring for individuals with intersexuality and congenital infertility introduce them and their families, early and gradually, to the various alternative options of parenthood.
+## Statement 10.12: We suggest health care professionals caring for individuals with intersexuality and congenital infertility introduce them and their families, early and gradually, to the various alternative options of parenthood. {-}
 
 For people with intersex characteristics, the
 likelihood of infertility may be recognized in

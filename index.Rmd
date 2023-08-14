@@ -1,6 +1,6 @@
 --- 
 title: "WPATH's Standards Of Care Version 8"
-author: "E. Coleman"
+author: "E. Coleman, et al."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -56,6 +56,33 @@ optimal health care and guidance for the treatment of people experiencing gender
 incongruence. As in all previous versions of the SOC, the criteria set forth in this document
 for gender-affirming medical interventions are clinical guidelines; individual health care
 professionals and programs may modify these in consultation with the TGD person.
+
+## Citation {-}
+
+To cite this article: E. Coleman, A. E. Radix, W. P. Bouman, G. R. Brown, A. L. C. de Vries, M. B.
+Deutsch, R. Ettner, L. Fraser, M. Goodman, J. Green, A. B. Hancock, T. W. Johnson, D. H. Karasic,
+G. A. Knudson, S. F. Leibowitz, H. F. L. Meyer-Bahlburg, S. J. Monstrey, J. Motmans, L. Nahata,
+T. O. Nieder, S. L. Reisner, C. Richards, L. S. Schechter, V. Tangpricha, A. C. Tishelman, M. A.
+A. Van Trotsenburg, S. Winter, K. Ducheny, N. J. Adams, T. M. Adrián, L. R. Allen, D. Azul, H.
+Bagga, K. Başar, D. S. Bathory, J. J. Belinky, D. R. Berg, J. U. Berli, R. O. Bluebond-Langner, M.-
+B. Bouman, M. L. Bowers, P. J. Brassard, J. Byrne, L. Capitán, C. J. Cargill, J. M. Carswell, S. C.
+Chang, G. Chelvakumar, T. Corneil, K. B. Dalke, G. De Cuypere, E. de Vries, M. Den Heijer, A.
+H. Devor, C. Dhejne, A. D’Marco, E. K. Edmiston, L. Edwards-Leeper, R. Ehrbar, D. Ehrensaft,
+J. Eisfeld, E. Elaut, L. Erickson-Schroth, J. L. Feldman, A. D. Fisher, M. M. Garcia, L. Gijs, S. E.
+Green, B. P. Hall, T. L. D. Hardy, M. S. Irwig, L. A. Jacobs, A. C. Janssen, K. Johnson, D. T. Klink,
+B. P. C. Kreukels, L. E. Kuper, E. J. Kvach, M. A. Malouf, R. Massey, T. Mazur, C. McLachlan, S.
+D. Morrison, S. W. Mosser, P. M. Neira, U. Nygren, J. M. Oates, J. Obedin-Maliver, G. Pagkalos,
+J. Patton, N. Phanuphak, K. Rachlin, T. Reed, G. N. Rider, J. Ristori, S. Robbins-Cherry, S. A.
+Roberts, K. A. Rodriguez-Wallberg, S. M. Rosenthal, K. Sabir, J. D. Safer, A. I. Scheim, L. J. Seal,
+T. J. Sehoole, K. Spencer, C. St. Amand, T. D. Steensma, J. F. Strang, G. B. Taylor, K. Tilleman,
+G. G. T’Sjoen, L. N. Vala, N. M. Van Mello, J. F. Veale, J. A. Vencill, B. Vincent, L. M. Wesp, M.
+A. West & J. Arcelus (2022) Standards of Care for the Health of Transgender and Gender
+Diverse People, Version 8, International Journal of Transgender Health, 23:sup1, S1-S259, DOI:
+10.1080/26895269.2022.2100644
+
+## Original article {-}
+
+To find original article, visit this link: https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

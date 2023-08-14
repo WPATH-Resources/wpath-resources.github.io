@@ -590,7 +590,7 @@ requested) procedure, to make decisions on an
 individualized basis and collaborate with other
 health care providers who are involved (if any).
 
-## Statement 8.4: We recommend health care professionals provide information to nonbinary people about the effects of hormonal therapies/surgery on future fertility and discuss the options for fertility preservation prior to starting hormonal treatment or undergoing surgery.
+## Statement 8.4: We recommend health care professionals provide information to nonbinary people about the effects of hormonal therapies/surgery on future fertility and discuss the options for fertility preservation prior to starting hormonal treatment or undergoing surgery. {-}
 
 All nonbinary individuals who seek
 gender-affirming hormonal therapies should be

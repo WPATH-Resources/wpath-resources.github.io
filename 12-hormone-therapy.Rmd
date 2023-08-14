@@ -515,7 +515,7 @@ support of the parents can be of great utility
 (Coolhart et  al., 2017; Pullen Sansfaçon et  al.,
 2015; Taliaferro et  al., 2019).
 
-## Statement 12.9: We recommend health care professionals organize regular clinical evaluations for physical changes and potential adverse reactions to sex steroid hormones, including laboratory monitoring of sex steroid hormones every 3 months during the first year of hormone therapy or with dose changes until a stable adult dosing is reached followed by clinical and laboratory testing once or twice a year once an adult maintenance dose is attained.
+## Statement 12.9: We recommend health care professionals organize regular clinical evaluations for physical changes and potential adverse reactions to sex steroid hormones, including laboratory monitoring of sex steroid hormones every 3 months during the first year of hormone therapy or with dose changes until a stable adult dosing is reached followed by clinical and laboratory testing once or twice a year once an adult maintenance dose is attained. {-}
 
 Sex steroid hormone therapy is associated with
 a broad array of physical and psychological
@@ -1208,8 +1208,7 @@ decisions about the available surgical procedures.
 
 ## Statement 12.20: We recommend health care professionals initiate and continue gender-affirming hormone therapy for eligible\* transgender and gender diverse people who wish this treatment due to demonstrated improvement in psychosocial functioning and quality of life. For supporting text, see Statement 12.21. {-}
 
-## Statement 12.21: We recommend health care professionals maintain existing hormone therapy if the transgender and gender diverse individual's mental health deteriorates and assess the reason for
-the deterioration, unless contraindicated. {-}
+## Statement 12.21: We recommend health care professionals maintain existing hormone therapy if the transgender and gender diverse individual's mental health deteriorates and assess the reason for the deterioration, unless contraindicated. {-}
 
 Several mental health disparities have been
 documented in the transgender population

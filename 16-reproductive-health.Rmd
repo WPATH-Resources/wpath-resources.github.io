@@ -88,7 +88,7 @@ patients, and resource use and feasibility. In some
 cases, we recognize evidence is limited and/or
 services may not be accessible or desirable.
 
-## Statement 16.1: We recommend health care professionals who are treating transgender and gender diverse people and prescribing or referring patients for hormone therapies/surgeries advise their patients about:
+## Statement 16.1: We recommend health care professionals who are treating transgender and gender diverse people and prescribing or referring patients for hormone therapies/surgeries advise their patients about: {-}
 
 **a. Known effects of hormone therapies/surgeries on future fertility;
 b. Potential effects of therapies that are not well studied and are of unknown reversibility;

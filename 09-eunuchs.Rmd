@@ -1,4 +1,4 @@
-CHAPTER 9 Eunuchs
+# Eunuchs
 
 Among the many people who benefit from
 gender-affirming medical care, those who identify
@@ -120,7 +120,7 @@ patients, and resource use and feasibility. In some
 cases, we recognize evidence is limited and/or
 services may not be accessible or desirable.
 
-## Statement 9.1: We recommend health care professionals and other users of the Standards of Care, Version 8 guidelines should apply the recommendations in ways that meet the needs of eunuch individuals.
+## Statement 9.1: We recommend health care professionals and other users of the Standards of Care, Version 8 guidelines should apply the recommendations in ways that meet the needs of eunuch individuals. {-}
 
 Eunuch individuals are part of the population
 of gender diverse people who experience gender
@@ -207,7 +207,7 @@ gender goals before the TGD person undergoes
 irreversible surgical intervention (unless hormones are not clinically indicated for the
 individual).
 
-## Statement 9.2: We recommend health care professionals consider medical intervention, surgical intervention, or both for eunuch individuals when there is a high risk that withholding treatment will cause individuals harm through self-surgery, surgery by unqualified practitioners, or unsupervised use of medications that affect hormones.
+## Statement 9.2: We recommend health care professionals consider medical intervention, surgical intervention, or both for eunuch individuals when there is a high risk that withholding treatment will cause individuals harm through self-surgery, surgery by unqualified practitioners, or unsupervised use of medications that affect hormones. {-}
 
 The same assessment process recommended in
 the SOC-8 ought to apply to eunuchs (see Chapter
